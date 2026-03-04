@@ -329,12 +329,11 @@ with tab1:
             st.plotly_chart(fig_gauge, use_container_width=True)
 
         with gc2:
-            fig_bar = go.Figure(go.Bar(
+            fig_bar = go.Figure()
+            fig_bar.add_trace(go.Bar(
                 x=["Out of Stock", "In Stock"],
                 y=[prob_out * 100, prob_in * 100],
-                marker_color=["#ef444499", "#10b98199"],
-                marker_line_color=["#ef4444", "#10b981"],
-                marker_line_width=2,
+                marker_color=["#ef4444", "#10b981"],
                 text=[f"{prob_out*100:.1f}%", f"{prob_in*100:.1f}%"],
                 textposition="outside",
             ))
