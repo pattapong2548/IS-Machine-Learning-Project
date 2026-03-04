@@ -337,7 +337,6 @@ with tab1:
                 marker_line_width=2,
                 text=[f"{prob_out*100:.1f}%", f"{prob_in*100:.1f}%"],
                 textposition="outside",
-                textfont={"color": "#e8e8f0"},
             ))
             fig_bar.update_layout(
                 title={"text": "Class Probabilities", "font": {"color": "#a78bfa", "size": 14}},
