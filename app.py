@@ -374,44 +374,262 @@ elif page == "🔮 ML — ทดสอบโมเดล":
 
 
 # ════════════════════════════════════════════════════════════════════
-# PAGE 3 — NEURAL NETWORK INFO (Coming Soon)
+# PAGE 3 — NEURAL NETWORK INFO
 # ════════════════════════════════════════════════════════════════════
 elif page == "📖 Neural Network — อธิบายโมเดล":
 
     st.markdown('<div class="hero-title">📖 Neural Network Model</div>', unsafe_allow_html=True)
-    st.markdown('<div class="hero-sub">Deep Learning · อธิบายแนวทางการพัฒนา</div>', unsafe_allow_html=True)
+    st.markdown('<div class="hero-sub">CNN · Dogs vs Cats · อธิบายแนวทางการพัฒนา</div>', unsafe_allow_html=True)
     st.markdown("<br>", unsafe_allow_html=True)
 
+    st.markdown('<div class="section-header">1. Dataset & ที่มาของข้อมูล</div>', unsafe_allow_html=True)
     st.markdown("""
-    <div class="coming-soon">
-        <div style="font-size:3rem">🚧</div>
-        <div style="font-family:'Syne',sans-serif; font-size:1.4rem; margin-top:1rem; color:#6b6b8a">
-            Coming Soon
-        </div>
-        <div style="margin-top:0.5rem; color:#3a3a5a; font-size:0.9rem">
-            Neural Network Model กำลังอยู่ในระหว่างการพัฒนา
-        </div>
-    </div>
-    """, unsafe_allow_html=True)
+**ที่มา:** TensorFlow Datasets — `cats_vs_dogs` (subset 2,000 รูป)
+
+**จำนวน:** 2,000 รูป &nbsp;|&nbsp; **Target:** Cat (แมว) / Dog (หมา)
+
+| | รายละเอียด |
+|--|------------|
+| **แหล่งข้อมูล** | TensorFlow Datasets (`tfds.load('cats_vs_dogs')`) |
+| **จำนวนรูปทั้งหมด** | 2,000 รูป (Cat 1,000 + Dog 1,000) |
+| **ขนาด input** | Resize เป็น 128 × 128 pixels (RGB) |
+| **Split** | Train 70% (1,400) / Val 15% (300) / Test 15% (300) |
+| **Label** | 0 = Cat 🐱 &nbsp;/&nbsp; 1 = Dog 🐶 |
+
+**ลักษณะของข้อมูล:**
+- รูปภาพสีเต็มรูปแบบ (RGB 3 channels)
+- ขนาดรูปต้นฉบับไม่เท่ากัน → Resize ให้เท่ากันทั้งหมด
+- Normalize pixel values จาก 0–255 เป็น 0.0–1.0
+    """)
+
+    st.markdown('<div class="section-header">2. การเตรียมข้อมูล (Data Preparation)</div>', unsafe_allow_html=True)
+    st.markdown("""
+| ขั้นตอน | วิธีการ | เหตุผล |
+|---------|--------|--------|
+| Resize | 128 × 128 pixels | ทำให้ทุกรูปมี input shape เดียวกัน |
+| Normalize | pixel ÷ 255.0 | ทำให้ค่าอยู่ในช่วง 0–1 ช่วยให้ train เร็วขึ้น |
+| Data Augmentation | Flip, Rotation, Zoom, Contrast | เพิ่มความหลากหลาย ลด Overfitting |
+| Shuffle | buffer = 500 | ป้องกัน model เรียนรู้ลำดับข้อมูล |
+| Batch | batch size = 32 | ประมวลผลทีละ 32 รูป ประหยัด memory |
+| Prefetch | AUTOTUNE | โหลดข้อมูล batch ถัดไปล่วงหน้า เพิ่มความเร็ว |
+
+**Data Augmentation ที่ใช้:**
+
+| Augmentation | ค่า | ผล |
+|-------------|-----|-----|
+| RandomFlip | horizontal | พลิกรูปซ้าย-ขวา |
+| RandomRotation | ±10% | หมุนรูปเล็กน้อย |
+| RandomZoom | ±10% | ซูมเข้า-ออก |
+| RandomContrast | ±10% | ปรับความเข้มแสง |
+    """)
+
+    st.markdown('<div class="section-header">3. ทฤษฎี CNN (Convolutional Neural Network)</div>', unsafe_allow_html=True)
+    col1, col2 = st.columns(2)
+    with col1:
+        st.markdown("""
+**🧠 CNN คืออะไร?**
+
+CNN เป็น Neural Network ที่ออกแบบมาเฉพาะสำหรับข้อมูลรูปภาพ
+โดยใช้ **Convolution** แทนการคูณแบบ Dense ธรรมดา
+
+**หลักการทำงาน:**
+
+```
+รูปภาพ (128×128×3)
+    │
+    ▼
+Conv2D — กรองหา pattern
+    │
+    ▼
+MaxPooling — ลด resolution
+    │
+    ▼
+(ทำซ้ำหลายชั้น)
+    │
+    ▼
+Flatten / GlobalAvgPool
+    │
+    ▼
+Dense — ตัดสินใจ
+    │
+    ▼
+Sigmoid → Cat / Dog
+```
+        """)
+    with col2:
+        st.markdown("""
+**🔍 แต่ละ Layer ทำอะไร?**
+
+| Layer | หน้าที่ |
+|-------|--------|
+| **Conv2D(32)** | จับ edges, colors ระดับต่ำ |
+| **Conv2D(64)** | จับ shapes, textures |
+| **Conv2D(128)** | จับ features ระดับสูง เช่น ตา หู ขน |
+| **BatchNorm** | ทำให้ค่าใน layer normalize อยู่เสมอ |
+| **MaxPooling** | ลดขนาดภาพ เก็บแค่ค่าสูงสุดในแต่ละ region |
+| **GlobalAvgPool** | เฉลี่ย feature map ทั้งหมดเป็นตัวเลขเดียว |
+| **Dense(128)** | Fully connected layer สำหรับตัดสินใจ |
+| **Dropout(0.5)** | ปิด neuron สุ่ม 50% ป้องกัน overfit |
+| **Sigmoid** | แปลงเป็น probability 0–1 |
+        """)
+
+    st.markdown('<div class="section-header">4. CNN Architecture ที่ใช้</div>', unsafe_allow_html=True)
+    st.markdown("""
+```
+Input: 128 × 128 × 3 (RGB)
+│
+├─ Conv2D(32, 3×3) + ReLU + BatchNorm
+│  MaxPooling(2×2) → 64×64×32
+│  Dropout(0.1)
+│
+├─ Conv2D(64, 3×3) + ReLU + BatchNorm
+│  MaxPooling(2×2) → 32×32×64
+│  Dropout(0.2)
+│
+├─ Conv2D(128, 3×3) + ReLU + BatchNorm
+│  MaxPooling(2×2) → 16×16×128
+│  Dropout(0.3)
+│
+├─ GlobalAveragePooling2D → 128
+├─ Dense(128) + ReLU
+├─ Dropout(0.5)
+└─ Dense(1) + Sigmoid → 🐱 Cat / 🐶 Dog
+```
+
+**ผลลัพธ์:** Test Accuracy = **65.67%**
+    """)
+
+    st.markdown('<div class="section-header">5. การป้องกัน Overfitting</div>', unsafe_allow_html=True)
+    st.markdown("""
+| Technique | รายละเอียด |
+|-----------|-----------|
+| **Data Augmentation** | สร้างรูปแบบใหม่จากรูปเดิม ทำให้ model เห็นข้อมูลหลากหลายขึ้น |
+| **BatchNormalization** | normalize output ของแต่ละ layer ทำให้ train เสถียรขึ้น |
+| **Dropout (0.1→0.5)** | ปิด neuron สุ่มระหว่าง train บังคับให้ model ไม่ depend neuron ใดนึง |
+| **GlobalAveragePooling** | ลด parameter มากกว่า Flatten ทำให้ overfit น้อยกว่า |
+| **EarlyStopping** | หยุด train อัตโนมัติเมื่อ val_accuracy ไม่ดีขึ้น 6 epochs ติดต่อกัน |
+| **ReduceLROnPlateau** | ลด learning rate เมื่อ val_loss ค้าง ทำให้ละเอียดขึ้นในช่วงท้าย |
+    """)
+
+    st.markdown('<div class="section-header">6. แหล่งอ้างอิง</div>', unsafe_allow_html=True)
+    st.markdown("""
+1. LeCun, Y., et al. (1998). *Gradient-Based Learning Applied to Document Recognition*. IEEE Proceedings.
+2. Chollet, F. (2021). *Deep Learning with Python* (2nd ed.). Manning Publications.
+3. TensorFlow Documentation — https://www.tensorflow.org
+4. TensorFlow Datasets — https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
+5. Kaggle Dogs vs. Cats Dataset — https://www.kaggle.com/c/dogs-vs-cats
+6. Ioffe, S., & Szegedy, C. (2015). *Batch Normalization*. ICML 2015.
+    """)
 
 
 # ════════════════════════════════════════════════════════════════════
-# PAGE 4 — NEURAL NETWORK PREDICTION (Coming Soon)
+# PAGE 4 — NEURAL NETWORK PREDICTION
 # ════════════════════════════════════════════════════════════════════
 elif page == "🤖 Neural Network — ทดสอบโมเดล":
 
     st.markdown('<div class="hero-title">🤖 ทดสอบ Neural Network</div>', unsafe_allow_html=True)
-    st.markdown('<div class="hero-sub">Deep Learning · ทำนาย Stock Status</div>', unsafe_allow_html=True)
+    st.markdown('<div class="hero-sub">CNN · อัปโหลดรูปภาพ → ทำนายหมาหรือแมว</div>', unsafe_allow_html=True)
     st.markdown("<br>", unsafe_allow_html=True)
 
-    st.markdown("""
-    <div class="coming-soon">
-        <div style="font-size:3rem">🚧</div>
-        <div style="font-family:'Syne',sans-serif; font-size:1.4rem; margin-top:1rem; color:#6b6b8a">
-            Coming Soon
+    # Load CNN model
+    @st.cache_resource
+    def load_cnn():
+        try:
+            import tensorflow as tf
+            cnn = tf.keras.models.load_model(MODEL_DIR / "cats_vs_dogs_cnn.keras")
+            return cnn, True
+        except Exception as e:
+            try:
+                import tensorflow as tf
+                cnn = tf.keras.models.load_model(MODEL_DIR / "cats_vs_dogs_cnn.h5")
+                return cnn, True
+            except:
+                return None, False
+
+    cnn_model, cnn_loaded = load_cnn()
+
+    if not cnn_loaded:
+        st.error("⚠️ ไม่พบไฟล์ `cats_vs_dogs_cnn.keras` ใน `models/`")
+        st.stop()
+
+    st.markdown('<div class="section-header">อัปโหลดรูปภาพ</div>', unsafe_allow_html=True)
+
+    uploaded = st.file_uploader(
+        "เลือกรูปหมาหรือแมว (JPG, PNG)",
+        type=["jpg", "jpeg", "png"],
+        help="อัปโหลดรูปภาพที่ต้องการให้โมเดลทำนาย"
+    )
+
+    if uploaded is not None:
+        import tensorflow as tf
+        from PIL import Image
+        import io
+
+        # แสดงรูปที่อัปโหลด
+        col_img, col_result = st.columns([1, 1])
+
+        with col_img:
+            st.markdown('<div class="section-header">รูปที่อัปโหลด</div>', unsafe_allow_html=True)
+            image = Image.open(uploaded).convert("RGB")
+            st.image(image, use_container_width=True)
+
+        # Preprocess และ Predict
+        img_array = np.array(image.resize((128, 128))) / 255.0
+        img_tensor = tf.expand_dims(img_array, 0)
+        prob_dog = float(cnn_model.predict(img_tensor, verbose=0)[0][0])
+        prob_cat = 1 - prob_dog
+        pred_label = "Dog 🐶" if prob_dog > 0.5 else "Cat 🐱"
+        confidence = prob_dog if prob_dog > 0.5 else prob_cat
+        is_dog = prob_dog > 0.5
+
+        with col_result:
+            st.markdown('<div class="section-header">ผลการทำนาย</div>', unsafe_allow_html=True)
+
+            if is_dog:
+                st.markdown(f"""
+                <div class="result-in" style="border-color:#38bdf8; background:linear-gradient(135deg,#0c1a2e,#0d2d4a);">
+                    <div class="result-emoji">🐶</div>
+                    <div class="result-label" style="color:#38bdf8">Dog</div>
+                    <div class="result-prob">ความมั่นใจ {confidence*100:.1f}%</div>
+                </div>""", unsafe_allow_html=True)
+            else:
+                st.markdown(f"""
+                <div class="result-in" style="border-color:#f472b6; background:linear-gradient(135deg,#2d0a1e,#4a0d2d);">
+                    <div class="result-emoji">🐱</div>
+                    <div class="result-label" style="color:#f472b6">Cat</div>
+                    <div class="result-prob">ความมั่นใจ {confidence*100:.1f}%</div>
+                </div>""", unsafe_allow_html=True)
+
+            st.markdown("<br>", unsafe_allow_html=True)
+
+            # Probability bar chart
+            fig = go.Figure()
+            fig.add_trace(go.Bar(
+                x=["Cat 🐱", "Dog 🐶"],
+                y=[prob_cat * 100, prob_dog * 100],
+                marker_color=["#f472b6", "#38bdf8"],
+                text=[f"{prob_cat*100:.1f}%", f"{prob_dog*100:.1f}%"],
+                textposition="outside",
+            ))
+            fig.update_layout(
+                title={"text": "Class Probabilities", "font": {"color": "#a78bfa", "size": 14}},
+                paper_bgcolor="#0a0a0f", plot_bgcolor="#13131f",
+                font_color="#e8e8f0", height=280,
+                yaxis={"range": [0, 120], "gridcolor": "#1e1e2e", "tickfont": {"color": "#6b6b8a"}},
+                xaxis={"tickfont": {"color": "#c8c8d8"}},
+                margin=dict(t=50, b=10, l=20, r=20), showlegend=False,
+            )
+            st.plotly_chart(fig, use_container_width=True)
+
+    else:
+        st.markdown("""
+        <div style="text-align:center; padding:4rem 0; color:#3a3a5a;">
+            <div style="font-size:4rem">🐶🐱</div>
+            <div style="font-family:'Syne',sans-serif; font-size:1.2rem; margin-top:1rem">
+                อัปโหลดรูปภาพเพื่อให้โมเดลทำนาย
+            </div>
+            <div style="font-size:0.85rem; margin-top:0.5rem; color:#2a2a4a">
+                รองรับ JPG และ PNG
+            </div>
         </div>
-        <div style="margin-top:0.5rem; color:#3a3a5a; font-size:0.9rem">
-            Neural Network Model กำลังอยู่ในระหว่างการพัฒนา
-        </div>
-    </div>
-    """, unsafe_allow_html=True)
+        """, unsafe_allow_html=True)
