@@ -126,7 +126,7 @@ with st.sidebar:
         st.success("✅ ML Model พร้อมใช้งาน")
     st.markdown("---")
     st.markdown("### 🗺️ เมนู")
-    page = st.radio("", options=[
+    page = st.radio("เลือกหน้า", options=[
         "📖 ML — อธิบายโมเดล",
         "🔮 ML — ทดสอบโมเดล",
         "📖 Neural Network — อธิบายโมเดล",
