@@ -1,0 +1,4001 @@
+Category,Price,Rating,Discount,Stock
+Clothing,1929.99,4.42,39.21,In Stock
+Furniture,,1.52,4.02,In Stock
+Food,320.81,3.82,20.39,In Stock
+Food,92.51,3.07,11.76,In Stock
+Electronics,8485.82,1.77,12.83,Out of Stock
+Electronics,6299.14,4.54,17.91,In Stock
+Electronics,6486.44,1.92,8.23,Out of Stock
+Furniture,5886.38,3.35,12.39,In Stock
+Food,554.82,4.65,11.91,In Stock
+Food,167.24,4.48,10.81,In Stock
+Electronics,8356.35,2.08,1.62,In Stock
+Furniture,14910.98,1.55,14.83,Out of Stock
+Furniture,14727.36,,9.89,Out of Stock
+Electronics,7889.04,4.46,5.79,Out of Stock
+Electronics,7338.41,,8.22,In Stock
+Electronics,7137.43,2.32,11.28,Out of Stock
+Clothing,2626.44,2.6,47.05,Out of Stock
+Food,566.82,4.65,16.69,In Stock
+Clothing,2448.79,2.05,41.83,Out of Stock
+Clothing,600.35,4.67,49.64,In Stock
+Food,270.55,3.42,22.96,In Stock
+Electronics,6265.13,4.46,2.06,Out of Stock
+,814.89,4.94,35.32,In Stock
+Clothing,2617.22,2.97,35.44,In Stock
+Clothing,1985.6,3.81,35.71,In Stock
+Furniture,9904.31,2.5,4.14,Out of Stock
+Electronics,8842.91,1.91,13.85,Out of Stock
+Food,225.0,4.25,22.41,In Stock
+Food,214.04,3.12,3.93,In Stock
+Electronics,8029.98,4.4,0.9,Out of Stock
+Food,600.61,3.68,14.36,In Stock
+Electronics,9644.3,2.33,9.31,Out of Stock
+Electronics,5068.41,1.33,5.17,Out of Stock
+Furniture,3334.23,3.21,6.4,In Stock
+Furniture,9577.74,1.61,,Out of Stock
+Furniture,10965.89,4.38,0.76,Out of Stock
+Clothing,2725.96,3.73,30.38,In Stock
+Electronics,7501.39,1.28,1.8,Out of Stock
+Food,500.68,3.68,27.52,In Stock
+Clothing,1516.48,2.43,37.16,In Stock
+,6466.77,3.1,13.96,In Stock
+Clothing,2750.66,4.38,35.44,In Stock
+Electronics,8398.17,4.78,5.92,In Stock
+Furniture,3013.35,1.95,3.27,Out of Stock
+Clothing,2154.59,3.9,31.71,In Stock
+Food,62.18,4.46,9.71,In Stock
+Clothing,2162.64,3.67,20.42,In Stock
+Food,150.93,3.19,24.95,In Stock
+Food,738.8,4.3,,In Stock
+Electronics,7010.14,3.92,15.6,Out of Stock
+Furniture,4418.62,,10.68,Out of Stock
+Furniture,7279.15,1.89,0.19,Out of Stock
+Furniture,9483.59,3.98,14.36,Out of Stock
+,9788.94,2.8,1.28,Out of Stock
+Food,461.65,3.76,18.21,In Stock
+Furniture,7664.72,1.84,1.42,Out of Stock
+Electronics,6574.59,1.39,3.54,Out of Stock
+Electronics,9936.68,2.78,10.64,Out of Stock
+Electronics,9368.09,4.98,11.65,In Stock
+Clothing,2531.18,2.98,18.76,In Stock
+Clothing,1506.76,4.02,35.7,In Stock
+,1288.1,2.4,33.46,In Stock
+Furniture,4539.91,3.02,10.4,In Stock
+Clothing,2251.53,,44.28,In Stock
+Clothing,,4.19,32.86,In Stock
+Food,189.98,3.05,8.54,In Stock
+Electronics,7215.17,3.47,17.0,In Stock
+,5354.95,1.44,14.45,Out of Stock
+Electronics,5540.22,2.91,,In Stock
+Furniture,9496.49,1.3,0.86,Out of Stock
+Furniture,4265.8,3.05,8.17,In Stock
+Electronics,6168.7,3.55,16.4,In Stock
+Electronics,5207.89,2.99,13.79,Out of Stock
+Furniture,6027.74,2.08,9.2,Out of Stock
+Food,723.45,4.62,17.49,In Stock
+,597.67,3.73,19.23,In Stock
+Furniture,8594.18,1.66,10.53,Out of Stock
+Electronics,7782.32,2.43,18.23,In Stock
+Clothing,552.34,2.95,7.56,In Stock
+Electronics,8832.64,3.81,6.63,In Stock
+,11107.95,2.39,11.34,Out of Stock
+Food,390.64,3.82,28.04,In Stock
+Clothing,1127.2,2.36,31.3,In Stock
+Electronics,9846.61,2.51,1.24,Out of Stock
+Clothing,1348.26,3.52,12.29,In Stock
+Clothing,2145.26,4.99,25.33,In Stock
+Food,316.05,3.8,3.45,In Stock
+Food,712.46,3.83,11.62,In Stock
+Furniture,10916.28,2.55,9.72,Out of Stock
+Clothing,653.62,4.44,47.32,In Stock
+Electronics,8243.83,4.82,3.03,In Stock
+Food,408.06,4.2,17.45,In Stock
+Furniture,7817.54,2.18,1.9,Out of Stock
+Food,343.81,3.33,22.03,In Stock
+Furniture,5505.97,1.2,8.29,Out of Stock
+Clothing,1988.07,4.62,30.96,Out of Stock
+Food,,4.61,16.21,In Stock
+Clothing,698.2,3.7,45.86,In Stock
+Electronics,6981.56,2.19,2.87,Out of Stock
+Electronics,5757.23,2.73,11.91,Out of Stock
+Electronics,5403.08,4.76,,In Stock
+Food,489.97,4.66,2.41,In Stock
+Clothing,1692.1,3.89,42.29,In Stock
+Food,637.6,3.55,28.23,In Stock
+Furniture,4492.15,4.06,14.56,Out of Stock
+Electronics,5885.77,3.89,0.81,In Stock
+Clothing,1513.56,3.55,31.13,In Stock
+Furniture,14231.25,3.35,7.22,Out of Stock
+Electronics,9048.38,4.8,0.44,In Stock
+Electronics,9912.61,1.34,16.29,In Stock
+Clothing,1200.84,2.4,24.79,In Stock
+,8219.78,2.52,1.09,Out of Stock
+Furniture,10193.53,4.16,5.75,Out of Stock
+Furniture,5595.99,2.55,0.73,Out of Stock
+Food,665.37,4.65,17.64,In Stock
+Furniture,7237.23,3.8,8.32,Out of Stock
+Furniture,12911.19,3.21,11.77,Out of Stock
+Electronics,7992.81,2.66,19.16,In Stock
+Furniture,9493.37,3.12,3.31,Out of Stock
+Food,519.24,4.14,5.55,In Stock
+Furniture,3715.05,3.12,11.46,Out of Stock
+Furniture,9280.82,1.79,10.0,Out of Stock
+Clothing,700.26,3.33,,In Stock
+,5922.3,1.81,7.73,Out of Stock
+Electronics,5255.75,2.59,10.23,Out of Stock
+Clothing,1708.24,3.15,42.76,In Stock
+Furniture,4743.92,,0.93,Out of Stock
+Furniture,3853.87,3.01,8.49,In Stock
+Electronics,9390.17,3.23,19.2,Out of Stock
+Food,86.52,3.2,1.32,In Stock
+Clothing,963.19,3.62,34.05,In Stock
+Electronics,5227.93,4.78,16.84,Out of Stock
+Electronics,6483.06,1.31,3.4,Out of Stock
+Clothing,817.36,2.37,28.34,In Stock
+Furniture,5950.17,2.25,14.84,Out of Stock
+Clothing,2210.79,4.85,11.42,In Stock
+Food,336.6,4.11,2.3,In Stock
+Food,53.14,4.34,19.25,In Stock
+Clothing,1526.97,3.47,23.69,Out of Stock
+Furniture,3288.06,2.17,2.66,In Stock
+Furniture,4181.09,4.35,8.99,Out of Stock
+Clothing,2321.64,2.95,22.69,In Stock
+Clothing,1092.31,2.29,13.06,Out of Stock
+Clothing,2493.79,4.03,29.61,Out of Stock
+,1687.72,4.77,8.27,In Stock
+Electronics,6403.0,2.4,15.65,In Stock
+Food,794.39,3.48,26.23,In Stock
+Food,672.97,3.45,11.98,In Stock
+Electronics,7048.36,4.91,3.62,In Stock
+Clothing,2497.89,3.0,,In Stock
+Furniture,8040.13,3.02,12.49,Out of Stock
+Electronics,9020.83,4.47,1.19,Out of Stock
+Electronics,8460.25,1.56,8.32,Out of Stock
+Clothing,1871.47,3.21,28.38,In Stock
+Furniture,14958.32,1.47,10.13,Out of Stock
+Electronics,6980.0,1.53,3.17,Out of Stock
+Food,761.95,4.76,27.21,In Stock
+Furniture,14898.39,1.73,5.33,Out of Stock
+Electronics,8346.1,2.94,8.37,Out of Stock
+Food,318.36,4.19,17.27,In Stock
+Clothing,903.64,3.42,29.91,In Stock
+Food,477.72,3.42,22.27,In Stock
+Food,68.9,3.71,23.41,In Stock
+Food,472.92,,20.85,In Stock
+Electronics,7836.95,4.18,14.7,In Stock
+,10321.3,2.71,2.0,Out of Stock
+Clothing,1153.33,3.26,31.97,In Stock
+Electronics,7568.54,2.15,0.13,Out of Stock
+Electronics,7481.2,2.14,14.69,Out of Stock
+Food,67.96,4.17,28.24,In Stock
+,180.81,3.94,2.74,In Stock
+Electronics,8128.41,3.2,8.15,Out of Stock
+Food,441.03,4.79,5.89,In Stock
+Electronics,5112.82,4.45,11.54,Out of Stock
+Food,717.99,4.19,24.3,Out of Stock
+Electronics,7148.37,4.0,18.26,In Stock
+Food,479.09,3.36,8.06,In Stock
+Clothing,996.61,2.74,18.79,In Stock
+Furniture,9661.61,3.06,6.4,Out of Stock
+Electronics,8077.1,1.33,1.76,Out of Stock
+,929.57,3.55,14.63,In Stock
+Electronics,6416.42,2.6,16.24,Out of Stock
+Furniture,3166.35,3.27,10.03,In Stock
+,12583.87,,0.3,Out of Stock
+Clothing,884.46,4.66,25.63,In Stock
+Food,473.44,4.33,20.37,In Stock
+Furniture,14180.88,4.49,10.8,Out of Stock
+Food,265.42,4.76,1.48,In Stock
+Food,223.31,4.79,7.69,In Stock
+,6103.26,1.55,17.18,Out of Stock
+Electronics,7500.29,3.7,4.78,Out of Stock
+,12096.49,,4.69,In Stock
+Furniture,7928.19,1.73,14.65,Out of Stock
+,534.2,4.87,9.1,In Stock
+Clothing,2454.73,4.3,36.12,Out of Stock
+Clothing,2914.1,3.18,10.88,In Stock
+,553.78,4.46,17.25,In Stock
+Furniture,,2.77,4.68,In Stock
+Furniture,8129.6,,11.18,Out of Stock
+Furniture,5786.7,2.42,4.04,Out of Stock
+Food,198.97,4.57,27.28,In Stock
+Electronics,6851.16,4.01,17.94,Out of Stock
+Electronics,,1.73,19.13,Out of Stock
+Furniture,7520.12,,0.94,Out of Stock
+Food,414.63,3.22,7.46,Out of Stock
+Electronics,6584.71,,17.51,In Stock
+Electronics,6512.33,4.43,17.14,Out of Stock
+Food,623.49,3.29,20.71,In Stock
+Electronics,9725.12,3.73,6.63,Out of Stock
+Electronics,7502.9,3.58,10.21,In Stock
+Food,139.96,3.62,24.07,In Stock
+Food,696.06,3.27,28.57,In Stock
+Food,296.62,4.32,22.55,In Stock
+Electronics,9059.73,4.78,6.26,In Stock
+Food,693.88,3.26,21.15,In Stock
+Electronics,8709.89,3.71,5.05,Out of Stock
+Clothing,2682.61,,,In Stock
+Food,588.1,3.95,25.47,In Stock
+Food,337.55,3.34,25.09,Out of Stock
+Furniture,9586.92,1.66,10.81,Out of Stock
+Food,433.34,4.21,13.83,In Stock
+Food,671.53,4.66,21.28,In Stock
+Electronics,5527.01,4.36,13.42,In Stock
+Clothing,2242.56,3.09,44.57,In Stock
+Clothing,2313.43,2.34,23.35,In Stock
+Electronics,9431.9,1.19,19.23,Out of Stock
+Furniture,11149.95,3.21,4.06,Out of Stock
+Clothing,1121.98,4.83,18.42,In Stock
+Furniture,12306.06,,2.09,Out of Stock
+Food,58.04,4.09,29.27,In Stock
+Furniture,7429.63,2.25,5.16,Out of Stock
+Food,440.41,3.88,,In Stock
+Food,429.14,4.02,4.15,In Stock
+Clothing,2956.85,2.75,8.3,In Stock
+Electronics,8315.73,3.38,8.3,Out of Stock
+Food,366.64,4.57,5.87,In Stock
+Clothing,2550.63,3.95,23.85,In Stock
+Electronics,7290.14,2.03,15.04,Out of Stock
+Food,,3.64,17.88,In Stock
+Electronics,9978.67,2.74,18.41,Out of Stock
+Furniture,7140.2,1.19,3.06,Out of Stock
+,8024.34,1.77,0.0,Out of Stock
+Furniture,13980.02,3.95,11.13,Out of Stock
+Clothing,919.54,2.36,8.04,In Stock
+Electronics,8620.15,4.72,8.61,Out of Stock
+Furniture,4429.69,2.79,5.23,Out of Stock
+,1437.06,3.86,37.34,In Stock
+Furniture,4327.24,1.12,14.91,Out of Stock
+Furniture,5792.74,1.19,2.85,Out of Stock
+Furniture,3467.49,2.37,12.04,In Stock
+Clothing,1353.11,3.33,35.4,In Stock
+Clothing,1772.24,4.58,43.97,In Stock
+Furniture,3118.93,3.72,6.91,In Stock
+Clothing,2972.1,3.45,49.41,In Stock
+Electronics,8772.85,1.99,10.77,In Stock
+Food,794.1,4.72,,Out of Stock
+Furniture,11476.46,2.21,0.1,Out of Stock
+Food,352.61,,24.57,In Stock
+Food,303.0,4.66,0.02,In Stock
+,6539.1,1.96,4.67,Out of Stock
+Food,101.14,3.37,16.67,In Stock
+Furniture,6496.33,2.46,5.65,Out of Stock
+Electronics,9379.52,4.62,9.86,Out of Stock
+Food,,3.21,28.6,In Stock
+Furniture,3722.72,2.04,4.47,Out of Stock
+Food,290.3,3.33,23.49,In Stock
+Food,141.87,4.27,,Out of Stock
+Food,102.9,,5.7,In Stock
+Clothing,2553.13,3.63,8.5,In Stock
+Clothing,2888.62,2.74,43.68,In Stock
+Furniture,5025.72,3.99,,Out of Stock
+Furniture,9141.37,3.69,14.02,Out of Stock
+Furniture,13910.43,3.87,13.32,Out of Stock
+Furniture,5390.64,1.99,4.33,Out of Stock
+Food,332.79,3.79,16.34,In Stock
+Food,,4.38,5.03,In Stock
+Furniture,6723.7,2.76,11.95,Out of Stock
+Food,604.6,4.29,4.67,In Stock
+Food,460.28,3.17,11.32,In Stock
+Furniture,7962.2,1.14,4.11,Out of Stock
+Furniture,14467.79,4.34,5.28,Out of Stock
+Clothing,,2.54,22.65,In Stock
+Clothing,2869.45,2.42,39.36,In Stock
+Electronics,5543.41,4.93,7.63,In Stock
+Food,631.43,3.69,18.83,In Stock
+Electronics,5960.08,1.58,18.76,Out of Stock
+Clothing,2794.12,4.66,33.14,Out of Stock
+Food,656.2,3.14,10.04,In Stock
+Clothing,1284.26,,21.02,In Stock
+,161.38,4.19,24.43,In Stock
+Electronics,6910.62,1.53,3.93,Out of Stock
+Electronics,6187.42,2.2,12.86,In Stock
+Furniture,10211.35,3.44,5.44,Out of Stock
+Clothing,2559.99,2.61,26.11,Out of Stock
+Electronics,9004.69,1.72,2.2,Out of Stock
+Food,712.76,3.69,20.52,In Stock
+Furniture,3304.18,3.42,4.74,In Stock
+Electronics,5278.7,3.44,4.82,Out of Stock
+Food,340.11,3.16,4.41,In Stock
+Electronics,6489.89,1.36,18.22,Out of Stock
+Electronics,5030.24,2.94,2.46,Out of Stock
+Food,280.76,4.85,4.85,In Stock
+Food,774.37,3.41,22.25,In Stock
+Food,460.01,4.77,16.62,In Stock
+Food,450.92,3.39,4.99,In Stock
+Furniture,13997.87,2.15,5.58,Out of Stock
+Food,619.87,3.68,28.56,In Stock
+Clothing,2344.82,3.79,44.64,In Stock
+Furniture,3595.27,1.9,6.98,Out of Stock
+Clothing,1067.45,4.23,46.36,In Stock
+,1559.43,3.03,48.27,In Stock
+Electronics,7224.26,,7.03,Out of Stock
+Electronics,9547.74,3.28,15.24,In Stock
+Furniture,12741.68,2.2,6.51,Out of Stock
+Furniture,13181.66,2.27,,Out of Stock
+Food,755.74,4.25,22.25,In Stock
+Clothing,2512.74,4.54,22.78,In Stock
+Electronics,5256.32,2.61,13.48,Out of Stock
+Electronics,7251.75,4.0,7.14,In Stock
+Clothing,2086.86,2.56,38.72,In Stock
+Food,459.27,3.41,8.76,In Stock
+Food,611.46,3.97,6.48,In Stock
+Food,775.45,4.43,,In Stock
+Clothing,1567.76,,45.41,In Stock
+Furniture,9300.59,3.48,3.78,Out of Stock
+Food,385.04,,6.18,In Stock
+Food,50.71,3.08,29.32,In Stock
+Food,231.77,4.33,25.17,In Stock
+Clothing,1876.65,2.46,37.77,In Stock
+Electronics,8001.26,3.93,15.39,Out of Stock
+Clothing,2938.53,3.72,20.37,In Stock
+Furniture,10781.57,1.24,13.46,Out of Stock
+Electronics,5596.91,2.31,16.31,Out of Stock
+Electronics,7986.56,2.57,,Out of Stock
+Electronics,9272.74,2.36,17.39,Out of Stock
+Electronics,5440.67,4.11,16.95,Out of Stock
+Furniture,5181.81,2.51,2.48,Out of Stock
+Food,579.95,4.07,19.06,In Stock
+Clothing,991.22,2.64,6.87,In Stock
+Electronics,6610.34,3.24,17.16,In Stock
+Clothing,2167.32,3.31,47.89,In Stock
+Clothing,2298.11,4.79,28.74,In Stock
+Electronics,6294.52,1.21,14.52,Out of Stock
+Clothing,803.26,2.91,28.96,In Stock
+Clothing,1911.04,3.8,12.48,In Stock
+Food,334.8,4.23,,In Stock
+Food,595.72,,22.87,In Stock
+Electronics,7958.58,1.77,13.33,In Stock
+Clothing,2058.45,3.81,27.04,In Stock
+Food,446.49,3.67,15.58,In Stock
+Food,198.17,,5.57,In Stock
+Furniture,4019.6,2.53,9.87,Out of Stock
+Food,,3.55,16.75,In Stock
+Electronics,6735.01,4.73,18.45,Out of Stock
+Electronics,7511.86,2.31,14.74,Out of Stock
+Food,,3.95,10.09,Out of Stock
+Electronics,9602.68,1.05,11.06,In Stock
+Food,605.5,3.97,2.56,In Stock
+Furniture,14669.54,2.81,9.21,Out of Stock
+Food,227.46,3.97,12.87,In Stock
+Clothing,687.24,2.32,42.69,In Stock
+Food,229.86,3.39,15.15,In Stock
+Clothing,2421.87,2.19,30.96,In Stock
+Food,139.41,3.07,1.58,In Stock
+Furniture,13009.97,1.41,0.68,In Stock
+Clothing,1594.75,4.53,16.81,In Stock
+,8060.55,1.14,6.74,Out of Stock
+Furniture,9931.36,3.0,4.99,Out of Stock
+Electronics,6577.67,1.43,7.34,Out of Stock
+Electronics,5497.47,4.07,19.33,In Stock
+Electronics,9850.37,4.46,12.02,Out of Stock
+Electronics,8504.33,,12.62,Out of Stock
+Electronics,7278.25,2.93,15.16,Out of Stock
+,261.44,3.64,27.74,In Stock
+Electronics,5281.12,2.94,18.26,In Stock
+Clothing,2025.91,3.64,16.24,In Stock
+Furniture,7119.31,3.98,8.39,In Stock
+Electronics,7573.71,1.4,0.32,Out of Stock
+Furniture,14564.22,2.32,9.05,Out of Stock
+Clothing,699.29,4.05,46.97,In Stock
+Electronics,7878.33,1.5,11.63,In Stock
+Food,624.76,3.81,26.4,In Stock
+Food,536.51,4.8,18.71,In Stock
+Furniture,4575.46,2.08,3.03,Out of Stock
+,731.62,,20.29,In Stock
+Furniture,6611.6,1.64,11.35,Out of Stock
+Clothing,1685.39,2.68,32.75,In Stock
+Electronics,5201.67,2.3,9.37,Out of Stock
+Furniture,4775.5,4.45,3.14,Out of Stock
+Furniture,4564.24,1.71,11.54,In Stock
+Furniture,8106.07,2.98,0.32,Out of Stock
+Clothing,586.08,3.34,41.75,In Stock
+Clothing,2713.1,2.26,29.23,In Stock
+Furniture,13958.76,2.36,12.44,Out of Stock
+Clothing,834.24,4.81,38.81,In Stock
+Furniture,14296.01,,5.45,Out of Stock
+Furniture,14258.17,1.96,4.98,Out of Stock
+Clothing,2252.02,4.3,46.82,Out of Stock
+Furniture,5457.63,3.79,11.08,In Stock
+Furniture,3765.53,2.36,4.24,Out of Stock
+Electronics,6522.45,4.93,12.86,In Stock
+Furniture,11612.11,4.42,5.66,Out of Stock
+Food,651.38,3.87,26.09,In Stock
+Furniture,5167.89,4.32,3.28,Out of Stock
+Clothing,1315.55,4.27,22.72,In Stock
+Furniture,10298.54,2.56,11.14,Out of Stock
+Clothing,1070.83,2.18,18.5,In Stock
+Electronics,7371.54,,7.1,Out of Stock
+Furniture,7799.8,1.2,8.75,Out of Stock
+Electronics,9421.72,1.61,11.96,Out of Stock
+Clothing,2161.85,3.26,36.55,In Stock
+Furniture,7928.78,2.77,,Out of Stock
+Furniture,11300.64,3.31,0.58,Out of Stock
+Food,326.19,4.96,12.62,In Stock
+Food,426.46,4.82,21.52,In Stock
+Clothing,1955.18,4.39,43.9,In Stock
+Clothing,1642.22,3.43,22.37,Out of Stock
+Clothing,,4.09,8.75,In Stock
+Food,697.22,3.96,2.06,In Stock
+Furniture,9596.61,2.46,13.17,Out of Stock
+Furniture,5447.94,3.89,8.37,Out of Stock
+Furniture,3655.32,4.4,7.69,In Stock
+Electronics,6454.38,2.88,17.16,In Stock
+Clothing,1262.26,2.58,10.81,In Stock
+Electronics,6489.3,4.12,9.43,In Stock
+Food,220.61,3.33,9.98,In Stock
+Clothing,2849.81,3.03,49.47,In Stock
+Furniture,8822.77,1.63,,Out of Stock
+Clothing,1650.89,4.13,49.27,In Stock
+Electronics,5250.88,1.39,14.41,Out of Stock
+Electronics,6409.13,1.74,0.79,Out of Stock
+Furniture,3262.16,3.71,2.02,Out of Stock
+Food,400.79,4.21,12.85,In Stock
+Electronics,5135.53,4.13,0.21,In Stock
+Electronics,8809.45,4.57,8.66,In Stock
+Food,451.66,3.95,11.68,In Stock
+Electronics,9437.12,4.58,6.72,Out of Stock
+Furniture,10380.84,4.24,14.43,Out of Stock
+Food,431.72,3.91,8.36,In Stock
+Electronics,9794.36,1.57,11.6,Out of Stock
+Electronics,,2.12,8.1,Out of Stock
+,14985.52,1.19,8.68,Out of Stock
+Clothing,706.43,,24.78,In Stock
+Clothing,1776.15,2.78,19.24,In Stock
+Furniture,4043.6,2.06,14.5,In Stock
+Furniture,14336.49,2.17,8.56,Out of Stock
+Furniture,13915.14,,12.16,Out of Stock
+Furniture,14380.43,1.32,2.42,Out of Stock
+Clothing,2901.87,3.61,5.64,Out of Stock
+Electronics,,2.8,13.86,Out of Stock
+Furniture,,4.48,4.31,Out of Stock
+Food,453.67,4.07,12.17,In Stock
+Clothing,922.9,4.93,43.4,In Stock
+Furniture,8980.0,,,Out of Stock
+Electronics,7718.94,3.78,10.3,In Stock
+Clothing,2975.71,3.83,21.69,Out of Stock
+Electronics,,1.68,7.69,Out of Stock
+Clothing,1367.4,3.3,40.18,In Stock
+Electronics,7420.87,4.18,11.53,In Stock
+Electronics,6710.35,4.24,4.77,Out of Stock
+Electronics,6121.91,3.02,5.22,In Stock
+Food,56.82,4.3,15.33,In Stock
+Food,384.14,4.93,17.14,In Stock
+Food,697.57,,17.08,In Stock
+Furniture,13415.76,3.04,10.77,Out of Stock
+Clothing,1430.11,2.28,25.61,In Stock
+Clothing,1486.2,4.6,15.98,In Stock
+Furniture,14600.81,4.35,3.71,In Stock
+Electronics,6740.26,4.58,19.33,In Stock
+,8321.27,,7.89,Out of Stock
+Electronics,8438.85,,14.73,Out of Stock
+Furniture,3619.89,,5.79,Out of Stock
+Electronics,6767.37,2.26,9.82,Out of Stock
+Furniture,6848.8,1.67,4.64,Out of Stock
+Food,781.18,3.82,13.34,In Stock
+Furniture,9918.54,4.44,3.62,In Stock
+Electronics,8406.41,3.86,12.15,In Stock
+Food,116.43,4.35,1.92,In Stock
+Furniture,10153.71,3.59,3.16,Out of Stock
+Food,681.22,3.06,25.31,In Stock
+Food,395.25,3.44,4.01,In Stock
+Food,764.98,3.15,5.97,In Stock
+Clothing,1369.56,3.86,29.52,In Stock
+Food,144.23,3.58,7.16,In Stock
+Food,210.16,3.82,21.12,In Stock
+Furniture,5609.44,2.28,5.86,Out of Stock
+Electronics,9882.28,4.82,16.0,Out of Stock
+Clothing,1104.15,2.2,19.26,In Stock
+Furniture,6201.53,2.77,11.67,Out of Stock
+,13299.88,3.96,5.4,Out of Stock
+Clothing,2218.09,2.94,7.74,In Stock
+Food,576.17,3.02,12.28,In Stock
+Clothing,1323.45,4.08,39.48,In Stock
+Electronics,6520.47,4.25,5.88,In Stock
+Clothing,1615.82,4.18,36.18,In Stock
+Clothing,2968.42,2.68,34.8,In Stock
+Food,507.26,4.83,4.69,In Stock
+Electronics,8758.99,3.27,5.49,In Stock
+Furniture,8693.22,2.17,8.69,Out of Stock
+Furniture,13668.01,2.99,9.48,Out of Stock
+Food,439.06,3.1,6.99,In Stock
+Food,419.0,3.62,5.45,In Stock
+Clothing,1760.33,2.97,16.61,In Stock
+Furniture,8567.83,1.47,13.92,Out of Stock
+Food,700.78,,3.19,In Stock
+Electronics,8879.39,4.23,15.36,In Stock
+Furniture,4367.59,3.25,12.51,Out of Stock
+Furniture,9928.24,3.26,6.88,Out of Stock
+Furniture,9344.49,1.12,9.58,Out of Stock
+Food,111.09,3.87,8.78,In Stock
+Food,459.07,3.27,20.75,In Stock
+Clothing,2487.53,,9.69,In Stock
+Furniture,4746.19,4.07,7.92,Out of Stock
+Furniture,8607.13,1.37,9.74,Out of Stock
+Electronics,9340.0,4.31,12.52,Out of Stock
+,5376.39,1.45,0.99,Out of Stock
+Clothing,1143.7,2.41,16.7,In Stock
+Furniture,7620.7,4.3,9.16,Out of Stock
+Furniture,13019.69,3.49,1.69,Out of Stock
+Electronics,8679.6,2.1,12.78,In Stock
+Food,305.72,5.0,7.91,In Stock
+Clothing,1197.83,4.79,6.11,In Stock
+Furniture,11360.27,3.54,12.55,Out of Stock
+Furniture,14693.27,4.41,0.98,Out of Stock
+Furniture,12862.07,3.26,9.71,Out of Stock
+Clothing,820.87,3.95,49.21,In Stock
+Clothing,2779.55,3.32,6.8,In Stock
+Clothing,1405.73,4.48,36.57,In Stock
+Electronics,7296.72,1.22,8.54,In Stock
+Furniture,8628.3,4.25,9.62,Out of Stock
+Furniture,6739.83,2.84,0.99,Out of Stock
+Furniture,14670.82,2.26,7.17,Out of Stock
+Furniture,7263.41,3.39,9.93,Out of Stock
+Food,586.49,3.54,9.47,In Stock
+Furniture,4503.01,,0.6,Out of Stock
+Furniture,10172.19,4.04,13.36,Out of Stock
+Furniture,8388.45,2.61,1.15,Out of Stock
+Electronics,8353.83,4.29,4.89,Out of Stock
+Clothing,1553.25,4.52,44.47,In Stock
+Electronics,6215.9,3.2,3.85,Out of Stock
+Furniture,4222.55,4.19,12.31,In Stock
+Food,620.03,3.1,25.31,In Stock
+Electronics,7190.22,2.37,10.93,Out of Stock
+Food,118.51,4.51,17.47,In Stock
+Food,189.94,3.38,5.53,In Stock
+,642.51,3.76,42.82,In Stock
+Electronics,5087.49,1.2,11.46,Out of Stock
+Food,,3.65,10.49,In Stock
+Food,497.26,3.55,0.8,In Stock
+Furniture,11822.74,3.19,8.71,In Stock
+Food,606.26,4.35,6.18,In Stock
+Furniture,7229.77,1.44,1.95,Out of Stock
+Food,557.15,,28.88,In Stock
+Food,521.26,,3.17,Out of Stock
+Furniture,12754.21,3.03,9.27,Out of Stock
+Clothing,2453.66,4.11,42.55,In Stock
+Electronics,,3.99,17.02,Out of Stock
+Electronics,6430.68,3.56,6.28,Out of Stock
+Furniture,14495.65,1.12,8.7,Out of Stock
+Food,174.88,4.42,5.28,In Stock
+Food,226.54,3.99,27.45,In Stock
+Electronics,6058.57,1.58,15.18,Out of Stock
+Electronics,7503.1,4.65,2.93,Out of Stock
+Electronics,8229.64,1.93,3.14,Out of Stock
+,2208.57,3.78,38.97,In Stock
+Food,282.1,3.9,12.16,In Stock
+,2960.22,2.88,18.27,In Stock
+Clothing,1386.37,3.69,16.35,In Stock
+Furniture,13983.48,1.93,13.44,Out of Stock
+Clothing,758.69,3.97,45.81,In Stock
+Food,176.56,4.94,13.59,In Stock
+Furniture,14348.58,3.37,4.52,Out of Stock
+Clothing,970.76,2.91,9.19,Out of Stock
+Food,157.9,3.21,12.69,In Stock
+Furniture,12546.94,1.49,1.95,Out of Stock
+Furniture,10721.15,1.69,1.46,Out of Stock
+Electronics,5834.24,4.69,16.43,In Stock
+Furniture,7248.77,3.3,8.06,Out of Stock
+Clothing,2192.81,4.05,33.29,In Stock
+Clothing,1165.25,2.12,25.5,In Stock
+Clothing,2727.43,3.71,42.46,In Stock
+Furniture,14899.49,1.57,10.38,Out of Stock
+,2185.73,4.94,49.35,In Stock
+Clothing,2216.7,2.73,40.94,In Stock
+Food,130.27,4.56,27.31,In Stock
+Electronics,6914.17,3.52,8.6,Out of Stock
+Electronics,7188.83,2.24,15.24,In Stock
+Electronics,9680.88,4.76,3.5,In Stock
+Electronics,9373.72,3.95,5.06,In Stock
+Electronics,5336.42,2.07,18.24,In Stock
+Electronics,8165.89,3.88,5.14,Out of Stock
+Food,589.54,3.06,11.26,In Stock
+Electronics,8133.77,1.58,16.46,Out of Stock
+Clothing,1087.58,3.96,23.23,In Stock
+Furniture,10152.52,1.38,0.25,Out of Stock
+Clothing,2773.91,2.81,41.89,In Stock
+Food,799.51,3.42,7.96,In Stock
+Electronics,8314.3,4.86,18.32,Out of Stock
+Electronics,7514.38,4.18,2.71,Out of Stock
+Electronics,9887.19,4.86,3.27,Out of Stock
+Electronics,6497.12,1.4,5.43,Out of Stock
+Clothing,2539.89,3.13,8.98,In Stock
+Electronics,6711.13,4.93,12.59,Out of Stock
+Electronics,7080.8,1.67,19.72,Out of Stock
+Electronics,,2.13,1.4,Out of Stock
+Clothing,641.56,2.36,31.13,In Stock
+Electronics,9643.82,2.99,16.86,Out of Stock
+Clothing,1614.72,,37.93,Out of Stock
+Food,180.47,3.72,19.12,In Stock
+,103.02,3.72,16.04,In Stock
+Electronics,9981.12,2.9,16.32,Out of Stock
+,8184.81,3.79,8.93,Out of Stock
+Food,714.95,,18.13,In Stock
+Electronics,8150.09,2.67,2.89,In Stock
+Furniture,4122.71,1.06,13.1,Out of Stock
+Furniture,5837.7,1.74,11.04,Out of Stock
+Electronics,6600.08,3.02,3.25,In Stock
+Clothing,2899.36,4.55,43.87,In Stock
+Furniture,7881.28,3.67,2.16,In Stock
+Food,56.46,3.04,17.6,In Stock
+Electronics,7276.97,3.07,0.15,Out of Stock
+Electronics,7113.43,3.87,8.85,Out of Stock
+Clothing,2330.55,2.7,41.59,In Stock
+Clothing,1971.08,2.63,15.65,Out of Stock
+Food,521.02,4.66,12.47,In Stock
+Clothing,1145.75,,35.12,In Stock
+Clothing,1620.21,3.46,14.19,In Stock
+Food,520.1,3.72,29.87,In Stock
+Electronics,7400.92,2.94,11.32,Out of Stock
+Clothing,2791.89,4.4,25.3,In Stock
+Food,589.02,4.17,14.77,In Stock
+Furniture,5307.79,2.62,3.69,Out of Stock
+Food,736.13,3.67,28.57,In Stock
+Food,449.79,4.26,16.29,In Stock
+Electronics,5646.9,2.5,1.98,Out of Stock
+Clothing,2057.39,3.34,40.01,In Stock
+Food,215.35,3.33,12.19,In Stock
+Electronics,9632.93,3.84,8.38,In Stock
+Clothing,1793.18,2.25,49.31,In Stock
+Clothing,2166.02,2.86,31.36,In Stock
+,5547.41,,3.5,Out of Stock
+Clothing,2120.08,2.74,37.29,In Stock
+Electronics,8884.11,3.69,12.29,Out of Stock
+Clothing,2731.17,2.24,19.89,In Stock
+Electronics,6241.44,4.95,7.79,In Stock
+Furniture,11791.35,3.4,3.18,Out of Stock
+Food,229.25,3.56,12.33,In Stock
+Food,225.74,3.04,26.38,In Stock
+Furniture,14587.32,2.2,5.08,Out of Stock
+Clothing,517.73,4.04,42.14,In Stock
+Electronics,5733.04,1.64,15.8,In Stock
+Food,512.22,3.09,18.68,In Stock
+Food,281.69,3.74,23.09,In Stock
+Food,658.2,3.8,28.41,In Stock
+Clothing,1516.16,,26.77,In Stock
+Electronics,9487.66,4.63,1.75,Out of Stock
+Clothing,2841.23,4.48,40.61,In Stock
+Clothing,1002.28,,43.26,In Stock
+Food,266.86,4.9,1.5,In Stock
+Food,162.43,4.08,17.27,In Stock
+Clothing,2112.88,2.05,48.22,In Stock
+Furniture,3535.06,1.5,0.21,Out of Stock
+Food,475.14,,,In Stock
+Electronics,9113.29,1.05,10.84,Out of Stock
+Electronics,7297.81,3.0,1.44,Out of Stock
+Electronics,8422.18,3.01,15.3,In Stock
+Electronics,7426.45,1.6,12.97,Out of Stock
+Electronics,5861.93,4.49,12.26,Out of Stock
+Electronics,5786.02,4.85,10.37,Out of Stock
+Clothing,,3.88,16.39,In Stock
+Electronics,9018.47,4.27,19.58,In Stock
+Furniture,9022.43,2.59,11.3,Out of Stock
+Electronics,5662.35,3.19,10.92,Out of Stock
+Food,117.1,,25.6,In Stock
+Clothing,2640.38,2.3,9.08,In Stock
+Furniture,6152.35,4.06,1.93,Out of Stock
+Electronics,8599.98,1.4,12.46,Out of Stock
+Clothing,,4.37,15.52,In Stock
+Furniture,10670.42,,10.7,In Stock
+Furniture,13484.14,1.44,13.0,Out of Stock
+Furniture,10122.9,1.44,6.41,Out of Stock
+Clothing,902.15,4.1,,In Stock
+Electronics,5528.98,3.02,16.29,In Stock
+Food,752.12,4.03,28.51,In Stock
+Furniture,9428.27,2.38,12.72,Out of Stock
+Food,419.74,3.94,,In Stock
+Food,685.09,4.66,12.11,In Stock
+Clothing,1333.25,3.48,30.77,In Stock
+Furniture,5860.05,3.78,7.3,Out of Stock
+Electronics,6670.23,1.43,4.78,Out of Stock
+Clothing,2873.2,2.92,12.6,In Stock
+Clothing,1651.68,2.92,6.58,In Stock
+Food,292.36,4.09,16.55,In Stock
+Electronics,6782.79,2.79,19.31,In Stock
+Electronics,6886.74,2.03,4.87,Out of Stock
+Food,393.32,4.52,6.18,In Stock
+Clothing,2273.24,2.06,,In Stock
+Food,,3.68,16.91,In Stock
+Electronics,6024.9,3.97,1.05,Out of Stock
+Clothing,2631.36,2.59,44.35,In Stock
+Food,314.4,4.45,9.58,In Stock
+Electronics,9529.56,1.51,3.57,In Stock
+Clothing,1732.58,2.25,13.82,In Stock
+Electronics,9718.83,4.91,7.53,Out of Stock
+Electronics,9616.43,3.18,5.39,Out of Stock
+Furniture,11428.78,,14.84,In Stock
+Clothing,1162.62,4.02,7.34,In Stock
+Furniture,4363.75,,14.99,Out of Stock
+Clothing,2505.68,4.36,27.94,In Stock
+Food,275.05,3.3,8.54,In Stock
+Furniture,7511.65,3.65,8.09,Out of Stock
+Food,108.11,3.04,3.07,In Stock
+Clothing,1526.25,4.8,33.68,In Stock
+Clothing,2504.56,3.4,21.27,In Stock
+Clothing,771.0,4.63,40.24,In Stock
+Furniture,5017.42,,7.31,Out of Stock
+Furniture,10501.1,4.31,8.7,In Stock
+Furniture,9482.61,,0.94,Out of Stock
+Electronics,5936.73,1.13,14.87,Out of Stock
+Food,592.5,3.27,25.08,In Stock
+Furniture,4857.43,2.05,3.73,Out of Stock
+Electronics,6861.54,2.02,9.78,Out of Stock
+Electronics,7037.04,4.95,1.12,Out of Stock
+Food,156.64,3.11,18.78,In Stock
+Food,90.88,4.67,15.36,In Stock
+Furniture,9324.09,2.97,2.56,Out of Stock
+Electronics,5988.45,2.28,11.87,In Stock
+Furniture,5521.41,1.41,14.55,In Stock
+Electronics,5109.91,4.21,15.76,Out of Stock
+Electronics,6486.07,1.54,2.91,Out of Stock
+Electronics,8487.16,3.57,15.65,Out of Stock
+Furniture,14249.77,3.42,2.34,In Stock
+Food,232.58,4.68,6.28,In Stock
+Food,104.39,4.41,12.08,In Stock
+Clothing,2800.1,,9.07,In Stock
+Furniture,14374.28,1.9,5.06,Out of Stock
+Clothing,1505.65,2.15,27.34,In Stock
+Furniture,4479.82,2.4,5.26,Out of Stock
+Clothing,2432.1,4.41,11.9,In Stock
+Clothing,1416.38,3.12,11.81,In Stock
+Clothing,,4.12,13.57,In Stock
+Clothing,1416.8,2.32,33.27,Out of Stock
+Food,141.03,4.97,23.42,In Stock
+Food,342.68,4.16,27.34,In Stock
+Electronics,7770.5,1.7,7.57,Out of Stock
+Furniture,13117.74,3.25,9.76,Out of Stock
+Clothing,2667.05,4.68,46.39,In Stock
+Food,121.14,,22.22,In Stock
+Furniture,12083.12,3.12,2.5,Out of Stock
+Food,648.07,4.44,2.58,In Stock
+Electronics,7319.05,,6.75,Out of Stock
+Furniture,3216.97,2.4,8.25,Out of Stock
+Food,514.69,4.33,25.09,In Stock
+Clothing,1038.66,2.36,43.32,In Stock
+Electronics,5783.06,4.9,16.85,In Stock
+Furniture,9010.52,4.43,1.46,Out of Stock
+Food,277.3,4.28,10.5,In Stock
+Food,746.28,3.13,16.48,In Stock
+Furniture,10090.4,3.28,3.83,Out of Stock
+,7374.8,3.95,2.92,Out of Stock
+Electronics,9134.34,3.25,15.24,In Stock
+Clothing,,2.62,30.6,Out of Stock
+Electronics,9338.62,2.73,19.33,In Stock
+Food,389.16,3.29,11.68,In Stock
+Electronics,9758.51,2.28,17.36,Out of Stock
+Food,710.94,3.7,2.5,In Stock
+Furniture,11694.69,2.09,11.74,Out of Stock
+Furniture,8311.86,,11.67,Out of Stock
+Clothing,1455.91,3.33,21.93,In Stock
+Furniture,7408.09,,12.13,Out of Stock
+Electronics,6808.84,3.1,13.41,Out of Stock
+Furniture,6233.27,1.97,14.0,Out of Stock
+Electronics,8617.67,3.31,12.95,Out of Stock
+Clothing,573.25,3.85,27.93,In Stock
+Furniture,9549.0,2.26,1.22,Out of Stock
+Electronics,5966.7,4.8,8.17,In Stock
+,7333.42,1.21,0.75,Out of Stock
+Food,587.89,4.08,15.26,In Stock
+Food,232.34,4.49,5.05,In Stock
+Food,192.45,3.92,8.59,In Stock
+Food,235.6,4.29,19.53,In Stock
+,668.39,3.84,2.19,In Stock
+Clothing,1184.17,4.94,31.83,In Stock
+Clothing,2274.34,2.02,28.32,In Stock
+Electronics,5187.64,3.28,18.42,In Stock
+Furniture,14621.03,2.89,6.87,Out of Stock
+Food,758.76,4.35,1.95,In Stock
+Clothing,1664.31,2.72,26.14,In Stock
+,1638.66,3.75,21.05,In Stock
+Furniture,4971.25,2.76,12.45,Out of Stock
+Electronics,8320.06,2.35,18.71,Out of Stock
+Food,734.16,3.42,1.18,In Stock
+Food,605.98,4.66,29.04,In Stock
+Food,717.38,4.2,15.9,In Stock
+,5139.21,1.99,9.19,Out of Stock
+Furniture,10542.05,2.95,11.14,Out of Stock
+Furniture,6357.2,2.98,1.32,Out of Stock
+Food,360.25,4.5,20.8,In Stock
+Food,792.98,3.56,14.95,In Stock
+Furniture,6954.36,2.54,12.85,Out of Stock
+Food,563.16,4.76,6.11,In Stock
+Electronics,9366.81,1.24,17.77,Out of Stock
+Food,296.81,3.63,15.36,In Stock
+Food,755.52,3.1,10.57,In Stock
+Clothing,2641.43,3.19,13.96,Out of Stock
+Food,368.6,3.77,27.46,In Stock
+Furniture,12143.21,2.77,14.83,Out of Stock
+Furniture,8583.33,1.2,3.93,Out of Stock
+Clothing,1590.18,2.47,47.64,In Stock
+Electronics,8834.24,2.07,11.82,In Stock
+Furniture,11657.39,4.29,13.22,Out of Stock
+Furniture,9182.31,3.71,8.43,Out of Stock
+Electronics,7763.52,1.46,2.52,Out of Stock
+Furniture,9354.4,1.94,0.32,Out of Stock
+Furniture,11674.07,1.11,8.93,Out of Stock
+Food,454.4,4.94,14.53,In Stock
+Food,97.7,4.1,25.23,In Stock
+Clothing,2992.12,3.29,19.41,In Stock
+,9533.27,1.76,12.31,Out of Stock
+Clothing,1514.29,2.12,20.63,In Stock
+Furniture,6182.74,3.4,14.23,In Stock
+Electronics,6340.24,4.25,1.11,Out of Stock
+Clothing,1845.3,2.21,47.03,In Stock
+Clothing,2415.88,3.97,42.08,In Stock
+Food,535.64,4.94,21.42,In Stock
+Furniture,14095.9,2.81,1.76,Out of Stock
+,1820.44,2.38,31.66,In Stock
+Clothing,1706.23,3.87,5.45,In Stock
+Food,196.13,3.98,28.52,In Stock
+Clothing,1459.02,3.27,37.16,In Stock
+Electronics,8018.96,2.2,8.22,Out of Stock
+Clothing,1044.25,4.9,10.88,In Stock
+,6859.18,1.1,4.44,Out of Stock
+Electronics,8902.36,1.8,1.6,Out of Stock
+Clothing,1686.13,2.03,8.81,In Stock
+Clothing,2519.06,4.31,46.18,In Stock
+Furniture,13254.19,3.39,0.78,Out of Stock
+Clothing,2457.12,4.54,40.96,In Stock
+,431.36,,25.36,In Stock
+Food,595.37,4.96,4.67,In Stock
+,6128.32,1.85,15.85,Out of Stock
+Food,190.18,3.13,29.96,In Stock
+Electronics,5124.09,4.34,7.31,Out of Stock
+Furniture,13099.39,2.94,13.52,Out of Stock
+Electronics,9630.96,1.04,1.51,Out of Stock
+Clothing,1125.9,4.01,44.97,In Stock
+Electronics,,3.43,3.77,Out of Stock
+Furniture,12659.6,4.39,4.03,Out of Stock
+Food,421.12,3.17,16.77,In Stock
+,427.09,3.29,13.26,In Stock
+Electronics,6670.52,3.09,11.71,Out of Stock
+Food,56.37,4.52,21.39,In Stock
+Electronics,6831.43,1.21,15.1,Out of Stock
+Furniture,14462.1,1.84,4.85,Out of Stock
+Electronics,5919.06,3.31,3.1,Out of Stock
+Electronics,6780.97,3.79,11.2,Out of Stock
+,6932.31,2.68,11.24,Out of Stock
+Clothing,514.66,2.24,44.66,In Stock
+Food,108.41,4.41,27.6,In Stock
+Electronics,6353.42,2.48,11.38,Out of Stock
+Furniture,13580.51,4.3,11.09,Out of Stock
+Clothing,716.55,4.01,23.46,In Stock
+Food,403.03,3.1,5.73,In Stock
+Clothing,2476.28,3.36,,In Stock
+Clothing,1460.05,4.56,38.7,In Stock
+,254.24,3.24,7.56,In Stock
+Electronics,9603.78,3.33,10.67,Out of Stock
+Electronics,7981.97,2.46,16.14,In Stock
+Furniture,9279.43,,1.94,Out of Stock
+Furniture,9442.31,4.28,4.63,Out of Stock
+Clothing,2673.85,4.29,16.15,In Stock
+Clothing,590.85,2.31,,In Stock
+Food,199.75,3.74,15.05,In Stock
+Clothing,2313.67,2.34,23.29,Out of Stock
+Electronics,7425.36,3.16,16.37,In Stock
+Electronics,5858.39,4.23,13.86,In Stock
+Food,466.9,,12.36,In Stock
+Food,153.8,,15.74,In Stock
+Electronics,8196.87,2.35,18.14,In Stock
+Electronics,,1.34,9.0,Out of Stock
+Electronics,8781.78,4.18,9.89,Out of Stock
+Food,721.06,3.54,12.32,In Stock
+Electronics,9492.98,4.59,13.71,Out of Stock
+Electronics,9294.9,1.36,17.3,Out of Stock
+Furniture,6847.44,1.62,3.59,Out of Stock
+Electronics,7089.84,2.0,6.41,Out of Stock
+Food,151.23,3.59,17.17,Out of Stock
+Electronics,7209.27,2.39,14.93,Out of Stock
+Electronics,9467.55,4.03,6.64,In Stock
+Electronics,8722.21,1.61,2.61,Out of Stock
+Food,309.22,4.62,7.39,In Stock
+Furniture,3759.04,1.46,12.88,Out of Stock
+Furniture,10605.4,1.89,8.33,In Stock
+Clothing,1818.95,3.97,,In Stock
+Food,698.3,3.62,20.82,In Stock
+Electronics,5080.62,2.49,,Out of Stock
+Clothing,1858.71,,40.56,In Stock
+Furniture,5613.37,3.37,12.05,Out of Stock
+Electronics,7809.38,3.96,13.24,Out of Stock
+Electronics,6777.65,4.24,5.89,Out of Stock
+Electronics,7856.06,3.98,7.58,In Stock
+Electronics,6513.84,2.84,16.36,In Stock
+Electronics,9649.61,3.18,13.23,Out of Stock
+Food,727.46,3.2,6.96,In Stock
+Clothing,2272.25,4.47,43.57,In Stock
+Furniture,7981.29,1.31,6.57,Out of Stock
+Furniture,5768.82,2.02,11.58,Out of Stock
+Clothing,688.82,4.48,24.25,In Stock
+Clothing,1990.16,2.27,,Out of Stock
+Clothing,724.25,4.88,41.33,In Stock
+Food,394.72,3.45,28.0,In Stock
+Clothing,1361.49,2.48,30.34,In Stock
+Food,757.83,3.01,7.14,In Stock
+Clothing,2846.12,2.51,10.1,In Stock
+Food,,4.72,14.31,In Stock
+Clothing,2986.41,4.04,8.33,In Stock
+Clothing,2982.08,,17.93,In Stock
+Furniture,9694.55,2.07,1.3,Out of Stock
+Furniture,3017.14,2.57,12.55,Out of Stock
+Electronics,7861.58,5.0,5.74,Out of Stock
+Furniture,6365.46,1.56,2.46,Out of Stock
+Clothing,1212.97,,45.76,In Stock
+,14701.05,1.81,13.22,Out of Stock
+Furniture,6939.06,1.39,13.05,Out of Stock
+Clothing,2090.26,2.49,24.34,In Stock
+Electronics,6436.29,3.95,9.07,Out of Stock
+,2973.2,2.16,20.98,In Stock
+Food,411.43,4.01,9.48,In Stock
+Food,596.93,4.75,28.16,In Stock
+Clothing,2512.73,4.55,29.77,In Stock
+Electronics,9129.44,2.21,7.97,Out of Stock
+Furniture,6802.96,2.64,4.28,Out of Stock
+Furniture,14539.34,2.09,1.47,Out of Stock
+Food,445.11,3.11,3.32,In Stock
+,6096.95,2.86,8.67,In Stock
+Clothing,2499.23,4.22,24.18,In Stock
+Electronics,6668.52,,15.48,In Stock
+Furniture,3624.87,1.04,11.93,Out of Stock
+Electronics,7385.73,1.52,4.71,Out of Stock
+Food,749.38,4.72,21.29,In Stock
+Clothing,1705.56,3.56,48.89,In Stock
+Food,774.33,3.43,24.33,In Stock
+Food,197.93,3.43,20.28,In Stock
+Furniture,7860.01,4.26,1.34,Out of Stock
+Electronics,7557.63,4.67,18.08,In Stock
+Electronics,5782.65,2.47,12.38,In Stock
+Electronics,5796.97,4.87,18.29,Out of Stock
+Furniture,5003.4,1.42,1.28,Out of Stock
+Furniture,13913.32,1.68,6.24,Out of Stock
+Food,386.64,4.2,2.15,In Stock
+Food,220.07,,27.25,In Stock
+Food,635.97,3.04,9.81,In Stock
+Electronics,8139.79,2.1,18.19,Out of Stock
+Furniture,10606.67,1.25,13.64,Out of Stock
+Clothing,2894.42,2.23,28.96,Out of Stock
+Clothing,1258.41,3.18,13.08,In Stock
+Food,483.55,,15.09,In Stock
+Electronics,,3.48,6.8,In Stock
+Electronics,9279.63,2.74,3.86,Out of Stock
+Food,193.33,4.54,7.97,In Stock
+Electronics,8836.17,1.82,6.43,Out of Stock
+Food,399.12,4.89,27.95,In Stock
+Electronics,6034.36,2.43,2.99,Out of Stock
+Clothing,1774.96,3.38,45.53,In Stock
+Clothing,2825.01,3.15,27.13,In Stock
+Clothing,2740.59,4.42,5.16,In Stock
+Food,290.04,3.84,6.89,In Stock
+Clothing,998.93,2.11,33.95,In Stock
+Food,246.88,3.1,6.93,In Stock
+Clothing,2504.78,4.55,26.74,In Stock
+Food,362.05,4.96,6.02,In Stock
+Furniture,5584.31,2.02,2.59,Out of Stock
+Food,334.52,4.82,18.46,In Stock
+Electronics,7059.73,,0.97,Out of Stock
+Electronics,6051.38,3.26,12.31,In Stock
+Clothing,598.89,3.21,34.21,In Stock
+Food,573.55,4.28,9.62,In Stock
+Electronics,5467.6,2.71,2.58,Out of Stock
+Clothing,2869.06,,19.28,In Stock
+Food,624.73,4.0,9.3,In Stock
+Clothing,2529.92,4.6,35.29,In Stock
+Furniture,3563.57,2.98,11.45,Out of Stock
+,,1.91,17.65,Out of Stock
+Electronics,5100.61,4.01,9.48,Out of Stock
+Food,385.08,3.01,24.58,In Stock
+Clothing,1399.56,3.62,35.48,In Stock
+Food,576.97,4.91,15.94,In Stock
+Clothing,1499.3,4.86,33.89,In Stock
+Electronics,6490.75,1.51,16.85,Out of Stock
+Furniture,7346.18,3.31,7.06,Out of Stock
+Furniture,5387.16,,0.91,In Stock
+Food,360.01,4.09,13.08,In Stock
+Clothing,2371.68,4.48,39.71,In Stock
+Food,79.11,3.39,16.1,In Stock
+Clothing,2837.06,4.5,42.91,In Stock
+Electronics,,2.72,9.41,Out of Stock
+Furniture,4888.46,1.11,14.2,Out of Stock
+Electronics,6203.56,1.96,1.67,Out of Stock
+Furniture,14142.09,3.03,,Out of Stock
+Clothing,2778.94,3.04,32.97,In Stock
+Electronics,5194.0,1.75,16.62,Out of Stock
+Food,625.08,3.7,11.3,In Stock
+Furniture,9402.65,1.0,3.62,Out of Stock
+Food,206.17,3.5,24.18,In Stock
+,6356.09,1.67,7.56,Out of Stock
+Food,699.23,3.48,2.36,In Stock
+Food,317.3,4.5,16.52,In Stock
+Furniture,12801.52,,11.89,Out of Stock
+Electronics,8019.02,2.97,0.8,Out of Stock
+Clothing,2960.8,3.15,11.85,In Stock
+Electronics,8333.54,2.14,11.72,Out of Stock
+Furniture,10041.21,2.56,12.54,Out of Stock
+Furniture,6179.6,2.57,8.07,Out of Stock
+Electronics,8318.12,4.14,7.9,In Stock
+Food,534.54,3.3,27.98,In Stock
+Furniture,,,0.31,Out of Stock
+Electronics,6025.94,2.95,17.57,In Stock
+Food,445.44,4.86,14.51,In Stock
+Furniture,8885.39,1.42,12.04,Out of Stock
+Electronics,6234.83,4.6,18.22,Out of Stock
+Food,757.48,4.04,20.31,In Stock
+Clothing,2446.29,,,In Stock
+Furniture,3411.57,2.74,2.32,Out of Stock
+Furniture,5195.08,,6.49,In Stock
+Furniture,,1.26,7.56,Out of Stock
+Clothing,956.56,3.72,33.68,In Stock
+Furniture,9680.51,3.58,5.03,Out of Stock
+Furniture,12181.28,,7.26,Out of Stock
+Clothing,2120.26,2.06,34.43,In Stock
+Furniture,10423.02,2.08,1.29,Out of Stock
+Electronics,5454.68,4.69,13.79,In Stock
+Food,145.33,3.71,17.77,In Stock
+Electronics,9177.86,1.17,4.73,Out of Stock
+Electronics,9448.74,1.04,4.03,Out of Stock
+Electronics,9795.12,3.45,5.23,Out of Stock
+Food,100.24,3.06,7.34,In Stock
+Clothing,2703.71,,37.42,In Stock
+Food,738.71,3.82,5.74,In Stock
+Electronics,7585.59,4.63,,Out of Stock
+Clothing,664.57,4.08,,In Stock
+Food,730.6,3.24,16.02,In Stock
+Furniture,13553.55,2.44,7.23,Out of Stock
+Clothing,676.15,,19.6,In Stock
+Food,,,13.83,In Stock
+Furniture,11055.65,1.57,7.3,Out of Stock
+Food,603.9,4.73,18.79,In Stock
+Electronics,8345.27,1.51,18.92,Out of Stock
+Electronics,5662.87,4.1,5.3,Out of Stock
+Furniture,14203.12,3.52,11.31,Out of Stock
+Electronics,6095.3,2.77,12.36,In Stock
+Furniture,12239.68,,14.44,Out of Stock
+Food,717.67,3.54,24.68,In Stock
+Furniture,9219.89,2.62,4.72,Out of Stock
+Furniture,9971.62,,6.16,In Stock
+Furniture,,3.45,,Out of Stock
+Clothing,629.92,4.58,25.62,In Stock
+Furniture,6148.99,1.85,7.25,Out of Stock
+Clothing,2717.08,3.14,38.74,In Stock
+Clothing,742.05,3.43,49.63,In Stock
+Food,627.83,3.42,15.04,In Stock
+Furniture,5803.5,2.43,11.7,Out of Stock
+Furniture,12254.7,1.8,13.83,Out of Stock
+Furniture,10110.82,2.33,7.53,Out of Stock
+Clothing,2012.68,,26.89,In Stock
+Clothing,1762.33,2.53,41.57,In Stock
+Food,456.32,3.26,22.98,In Stock
+Electronics,9662.22,,7.38,Out of Stock
+Electronics,5677.58,3.07,2.25,Out of Stock
+Clothing,2834.97,2.55,16.37,In Stock
+,,3.15,40.76,In Stock
+Clothing,1640.79,2.51,17.02,In Stock
+Electronics,7545.57,1.59,12.23,Out of Stock
+Electronics,7828.74,3.86,18.75,In Stock
+Electronics,9561.27,4.78,4.89,In Stock
+Furniture,4578.78,,13.43,Out of Stock
+Clothing,2930.13,4.58,9.95,In Stock
+Clothing,2868.57,3.27,5.42,In Stock
+Food,381.8,3.09,16.32,In Stock
+Electronics,6692.77,2.89,12.26,Out of Stock
+Furniture,13425.61,3.32,6.51,Out of Stock
+Furniture,12833.13,4.17,1.8,Out of Stock
+Electronics,7659.66,2.14,0.94,Out of Stock
+Clothing,2171.37,4.59,12.33,In Stock
+Furniture,12748.96,3.99,13.72,Out of Stock
+Furniture,6183.42,4.16,4.81,Out of Stock
+Clothing,1880.85,2.15,6.97,Out of Stock
+Food,590.28,3.89,7.69,In Stock
+Electronics,5952.07,3.68,0.01,In Stock
+Furniture,12670.69,1.28,2.87,Out of Stock
+Electronics,6931.18,2.94,7.1,Out of Stock
+Furniture,6848.55,4.37,9.62,In Stock
+Food,67.57,,26.25,In Stock
+Food,276.09,3.19,22.75,In Stock
+Food,504.51,4.14,1.61,In Stock
+Electronics,,3.49,4.16,Out of Stock
+Electronics,7520.35,3.18,5.67,Out of Stock
+Electronics,9742.13,,14.45,Out of Stock
+Electronics,5389.97,1.42,9.86,Out of Stock
+Furniture,4928.56,4.42,2.38,Out of Stock
+Clothing,1718.67,3.09,33.77,In Stock
+Electronics,5645.18,2.72,5.49,Out of Stock
+Furniture,13653.02,1.14,13.71,Out of Stock
+Furniture,12995.93,2.04,11.84,Out of Stock
+Furniture,3374.56,4.38,7.9,In Stock
+Furniture,6639.37,2.27,1.0,Out of Stock
+Electronics,9946.75,1.16,13.1,Out of Stock
+Clothing,1606.84,4.85,16.07,In Stock
+Furniture,9385.04,2.69,10.54,Out of Stock
+Food,101.01,3.39,6.44,In Stock
+,8690.75,1.76,11.47,Out of Stock
+Furniture,5582.93,4.02,14.13,Out of Stock
+Electronics,7592.46,2.41,4.68,Out of Stock
+Electronics,5248.91,2.07,,Out of Stock
+Food,450.21,4.89,11.89,In Stock
+Food,570.4,3.98,15.38,In Stock
+Food,250.83,3.91,14.12,In Stock
+Electronics,8533.21,4.76,6.59,In Stock
+Furniture,3506.41,2.74,8.17,Out of Stock
+,921.1,4.28,49.32,In Stock
+Electronics,9728.87,1.79,17.51,Out of Stock
+Furniture,11453.92,2.59,,Out of Stock
+Furniture,13195.2,2.68,5.6,Out of Stock
+Furniture,8918.97,,2.84,Out of Stock
+Furniture,13810.89,3.36,9.5,Out of Stock
+Food,124.62,4.21,3.63,In Stock
+Food,109.02,4.05,12.08,In Stock
+Electronics,7944.05,1.36,8.62,In Stock
+Clothing,936.97,4.96,30.25,In Stock
+Clothing,2218.59,2.98,9.26,In Stock
+Clothing,2939.68,2.86,24.07,In Stock
+Food,537.4,3.05,24.31,In Stock
+Clothing,1841.45,2.83,7.77,In Stock
+Electronics,5812.49,4.58,,In Stock
+Electronics,6249.51,1.26,13.81,Out of Stock
+Food,479.31,3.81,10.91,Out of Stock
+Electronics,6084.07,3.68,19.41,Out of Stock
+Furniture,5108.58,3.09,6.36,Out of Stock
+Clothing,1616.72,2.76,,In Stock
+Clothing,,3.63,18.71,In Stock
+,186.36,3.17,,In Stock
+Furniture,5354.81,3.42,5.86,Out of Stock
+Clothing,1539.44,3.41,21.55,Out of Stock
+Food,125.46,3.62,19.91,In Stock
+Food,549.34,3.57,13.8,In Stock
+Clothing,983.62,2.63,6.04,Out of Stock
+Furniture,13760.96,1.74,3.41,Out of Stock
+Furniture,6355.22,1.45,9.59,Out of Stock
+Food,106.36,3.27,19.34,In Stock
+Furniture,7075.93,3.48,8.36,Out of Stock
+Furniture,6072.25,3.28,1.74,In Stock
+Food,452.31,3.87,8.04,In Stock
+Furniture,10248.06,4.05,14.98,Out of Stock
+Food,505.82,3.81,6.76,Out of Stock
+Food,242.82,3.96,11.02,In Stock
+Food,,3.74,11.2,In Stock
+Furniture,7602.41,3.93,9.76,Out of Stock
+Electronics,8070.84,2.34,16.36,Out of Stock
+Furniture,3460.37,4.05,7.69,In Stock
+Furniture,7779.0,2.74,10.01,Out of Stock
+Electronics,5063.83,4.49,8.93,In Stock
+Furniture,7115.6,,6.59,Out of Stock
+Electronics,7481.61,2.61,13.57,Out of Stock
+Clothing,1552.24,4.88,31.97,In Stock
+Food,655.61,3.22,11.92,In Stock
+Electronics,6684.24,3.28,17.22,Out of Stock
+Furniture,3940.06,1.25,12.75,Out of Stock
+Furniture,5554.2,,8.14,Out of Stock
+Food,674.67,3.25,3.89,Out of Stock
+Electronics,,4.79,8.3,Out of Stock
+Clothing,1317.36,3.82,46.87,In Stock
+Food,677.7,4.99,0.68,In Stock
+Furniture,4354.3,3.13,12.31,In Stock
+Food,263.93,3.48,23.61,In Stock
+Clothing,640.95,3.11,27.76,In Stock
+,470.26,4.46,10.65,In Stock
+Food,509.51,4.17,16.43,In Stock
+Furniture,10685.8,1.91,1.27,Out of Stock
+Electronics,5596.36,1.9,10.0,Out of Stock
+Furniture,13085.31,3.45,11.84,Out of Stock
+Food,313.23,3.81,11.81,In Stock
+Furniture,5302.48,1.21,8.86,Out of Stock
+Clothing,2973.04,2.5,7.1,In Stock
+Food,634.65,3.51,24.89,In Stock
+Furniture,11447.24,4.31,6.13,Out of Stock
+Electronics,8309.85,2.86,12.61,Out of Stock
+Furniture,8395.19,1.66,7.62,Out of Stock
+Food,446.44,4.62,22.07,In Stock
+,8318.96,1.45,14.41,Out of Stock
+Clothing,1750.76,4.68,46.39,In Stock
+Food,91.37,4.64,1.13,In Stock
+Electronics,6835.85,3.17,2.96,In Stock
+Food,609.74,3.02,5.06,In Stock
+Clothing,1951.99,4.14,46.25,In Stock
+Food,579.12,4.34,11.83,In Stock
+Electronics,5006.42,1.48,10.69,In Stock
+Furniture,11101.56,2.46,10.96,Out of Stock
+Furniture,9262.35,1.26,2.88,Out of Stock
+Furniture,13079.98,3.54,13.42,Out of Stock
+Food,138.17,4.98,6.28,In Stock
+Electronics,,4.99,5.62,Out of Stock
+Furniture,11016.23,1.62,8.7,Out of Stock
+Electronics,9520.17,2.28,13.41,Out of Stock
+Electronics,5939.52,3.5,6.73,In Stock
+Clothing,,2.94,13.05,In Stock
+Clothing,2754.79,3.19,16.04,In Stock
+Furniture,8380.89,2.12,11.17,Out of Stock
+Food,778.41,,25.83,In Stock
+Clothing,1914.66,2.47,36.08,In Stock
+Clothing,1783.59,3.95,45.04,In Stock
+Furniture,8285.21,4.15,11.26,Out of Stock
+Clothing,1721.51,3.81,19.65,In Stock
+Clothing,2958.99,4.0,6.97,In Stock
+Electronics,6633.11,3.49,1.13,Out of Stock
+Furniture,3286.61,2.58,4.99,In Stock
+Food,378.72,3.53,4.94,In Stock
+Electronics,8445.72,3.06,4.0,Out of Stock
+Electronics,6597.95,3.37,1.44,In Stock
+Food,,3.15,24.37,In Stock
+Food,614.31,4.51,21.49,In Stock
+Clothing,2173.46,3.43,33.9,In Stock
+Furniture,3460.34,3.18,11.67,In Stock
+Electronics,7501.79,2.43,5.55,Out of Stock
+Clothing,2107.01,4.08,44.19,In Stock
+Furniture,7108.01,3.69,8.42,Out of Stock
+Clothing,2707.09,3.58,28.29,Out of Stock
+Food,483.41,4.5,28.94,In Stock
+Clothing,683.91,2.16,47.19,In Stock
+Clothing,1824.69,3.84,26.71,In Stock
+Furniture,4123.89,3.69,,Out of Stock
+,1279.26,2.92,42.7,In Stock
+Furniture,3868.29,4.08,3.85,Out of Stock
+Electronics,7964.92,4.74,13.56,In Stock
+Electronics,7072.15,3.76,6.88,Out of Stock
+Electronics,6386.29,4.99,15.02,Out of Stock
+Food,533.54,3.71,1.47,In Stock
+Clothing,577.64,3.66,39.29,In Stock
+Furniture,9448.55,3.94,0.5,Out of Stock
+Clothing,1416.88,2.71,25.13,In Stock
+Furniture,3868.52,4.34,3.35,Out of Stock
+Electronics,9611.54,2.7,19.71,Out of Stock
+Furniture,9648.7,4.26,0.08,In Stock
+Furniture,11978.87,4.16,2.1,Out of Stock
+Furniture,4153.51,2.49,14.01,Out of Stock
+Furniture,9508.64,2.85,2.12,Out of Stock
+Furniture,3009.47,3.84,1.31,Out of Stock
+Food,525.39,4.83,6.26,In Stock
+Electronics,8326.36,1.31,12.08,In Stock
+Electronics,5819.66,,6.02,Out of Stock
+Furniture,8560.69,3.1,2.57,Out of Stock
+Food,606.23,3.61,19.87,In Stock
+Furniture,4899.4,3.41,1.92,In Stock
+Clothing,1563.39,,38.68,In Stock
+Electronics,6310.18,4.53,17.84,In Stock
+Electronics,5982.21,3.46,1.75,In Stock
+Food,343.65,,19.78,In Stock
+Clothing,2061.75,2.85,22.01,In Stock
+Electronics,5514.73,3.88,10.08,In Stock
+Clothing,2271.91,2.75,19.6,Out of Stock
+Electronics,6671.08,1.1,6.82,Out of Stock
+Food,652.48,4.79,15.55,In Stock
+Clothing,1638.75,2.09,44.56,In Stock
+Furniture,3156.12,4.31,7.34,In Stock
+Clothing,1354.84,4.77,6.1,In Stock
+Clothing,1953.56,3.65,14.87,In Stock
+Electronics,7144.44,3.61,14.54,Out of Stock
+Electronics,5003.58,4.75,3.29,In Stock
+Clothing,1083.95,2.79,6.7,In Stock
+Clothing,807.63,4.96,19.18,In Stock
+Food,,3.21,21.58,In Stock
+Clothing,2636.42,2.77,5.94,In Stock
+Food,217.32,3.11,3.1,In Stock
+Furniture,8178.1,1.8,7.74,Out of Stock
+Furniture,6041.93,4.29,13.59,Out of Stock
+Electronics,7834.03,2.42,7.62,Out of Stock
+Clothing,1529.63,4.18,25.32,In Stock
+Electronics,9283.65,4.78,6.72,In Stock
+Electronics,7803.47,1.38,4.01,Out of Stock
+Furniture,7961.59,1.72,13.15,Out of Stock
+Electronics,5791.43,2.82,12.11,In Stock
+Clothing,2229.66,3.15,44.11,In Stock
+Food,476.24,3.88,,In Stock
+Food,398.52,4.64,18.44,In Stock
+Food,674.12,3.99,3.55,In Stock
+Electronics,5068.2,2.21,13.96,Out of Stock
+Clothing,2475.65,2.89,27.3,In Stock
+Food,365.84,3.82,6.94,In Stock
+Electronics,5681.86,,,Out of Stock
+Clothing,995.33,2.03,33.23,In Stock
+,6581.88,4.89,3.87,Out of Stock
+Electronics,6729.14,,0.17,Out of Stock
+Clothing,2598.02,2.1,47.31,In Stock
+,9460.37,3.14,,Out of Stock
+Food,540.33,3.77,19.42,In Stock
+Food,83.58,3.11,13.72,In Stock
+Furniture,,4.11,1.57,Out of Stock
+Electronics,9113.24,1.84,7.88,Out of Stock
+Electronics,6583.01,2.6,3.01,Out of Stock
+Electronics,7517.85,,8.83,Out of Stock
+Food,417.96,,21.18,In Stock
+Food,417.84,3.52,26.55,In Stock
+Electronics,7885.1,1.88,5.38,Out of Stock
+Furniture,,1.15,14.88,Out of Stock
+Electronics,5651.76,4.18,7.9,In Stock
+Food,419.16,4.76,12.39,In Stock
+Food,453.12,3.1,0.07,In Stock
+Furniture,5937.6,3.38,1.82,In Stock
+Food,135.32,3.82,19.44,In Stock
+Furniture,11544.86,1.62,1.19,Out of Stock
+Clothing,2850.99,2.78,43.4,In Stock
+Furniture,,3.7,2.53,Out of Stock
+Electronics,9109.01,4.08,11.93,Out of Stock
+Furniture,7046.42,1.92,1.83,Out of Stock
+Food,432.32,4.17,10.78,In Stock
+Furniture,8704.31,2.27,9.62,Out of Stock
+Clothing,2753.15,2.49,22.16,In Stock
+Food,155.65,4.25,21.87,In Stock
+Food,748.93,3.56,28.51,In Stock
+Food,97.45,4.21,1.71,In Stock
+Electronics,9468.87,3.12,13.39,Out of Stock
+Electronics,9157.87,1.6,0.77,Out of Stock
+Electronics,9394.41,2.26,2.58,Out of Stock
+Electronics,7342.31,3.39,0.62,In Stock
+Furniture,6298.75,1.11,6.31,Out of Stock
+,9475.5,,12.74,In Stock
+Furniture,4939.65,4.17,7.74,Out of Stock
+Clothing,884.37,4.77,39.09,In Stock
+Electronics,,3.84,4.01,Out of Stock
+Furniture,5532.08,3.41,3.3,Out of Stock
+Food,379.0,4.56,23.52,In Stock
+Clothing,1633.15,4.38,42.74,In Stock
+Food,541.08,,8.22,In Stock
+Food,286.13,3.23,8.19,In Stock
+,6047.6,2.82,18.17,In Stock
+Furniture,4253.76,3.52,10.31,Out of Stock
+Furniture,4149.05,4.23,8.53,In Stock
+Food,322.79,4.51,7.72,Out of Stock
+Electronics,8467.55,1.16,16.79,In Stock
+Food,386.13,4.27,6.64,In Stock
+Electronics,8385.37,4.09,9.46,In Stock
+Electronics,8088.63,2.83,17.88,In Stock
+Clothing,1744.67,4.53,41.06,In Stock
+Clothing,1526.26,2.69,23.27,In Stock
+Furniture,12914.61,1.8,7.87,Out of Stock
+Food,654.57,3.71,19.27,In Stock
+Food,234.22,3.22,23.83,In Stock
+Clothing,747.42,2.81,43.48,In Stock
+Clothing,1366.17,,49.09,In Stock
+Clothing,1170.69,2.12,36.73,In Stock
+Furniture,8411.84,1.35,10.61,Out of Stock
+Electronics,5155.87,4.48,2.77,In Stock
+Furniture,4527.74,1.61,14.4,Out of Stock
+Food,569.88,,11.93,In Stock
+Clothing,1340.78,2.7,26.63,In Stock
+Food,463.87,4.26,7.71,In Stock
+Clothing,2871.64,2.51,48.45,In Stock
+,3178.27,2.68,5.0,Out of Stock
+Furniture,8389.48,3.0,6.53,Out of Stock
+Clothing,1537.12,4.2,35.86,In Stock
+Clothing,2583.18,2.75,32.43,In Stock
+Food,488.9,3.74,14.58,In Stock
+Furniture,6765.39,1.5,3.21,Out of Stock
+Electronics,5527.57,,,In Stock
+Food,762.95,4.46,1.56,In Stock
+Food,713.18,4.73,13.3,In Stock
+Food,489.4,4.95,15.97,In Stock
+Electronics,9526.61,1.33,3.82,Out of Stock
+Food,380.57,4.17,24.49,In Stock
+,,,0.71,Out of Stock
+Electronics,9005.86,3.42,3.97,Out of Stock
+Electronics,7474.14,3.97,15.41,In Stock
+Furniture,8995.42,2.07,14.61,Out of Stock
+Electronics,8316.81,2.63,5.61,Out of Stock
+Furniture,11773.24,1.85,2.58,In Stock
+Clothing,1824.58,2.87,33.3,In Stock
+,5589.69,,5.67,In Stock
+Furniture,3002.92,1.44,14.0,Out of Stock
+Clothing,2668.39,2.7,40.03,In Stock
+Food,506.43,4.94,11.21,In Stock
+Clothing,2203.65,2.19,22.83,Out of Stock
+Food,772.86,4.08,8.64,In Stock
+Electronics,5601.35,3.81,12.9,Out of Stock
+Clothing,1434.85,4.85,6.0,In Stock
+Furniture,6644.69,4.22,4.81,In Stock
+Clothing,,3.6,42.07,In Stock
+Food,127.36,4.89,23.85,In Stock
+Clothing,953.13,4.14,22.32,In Stock
+Furniture,7827.54,3.74,14.44,Out of Stock
+Electronics,5633.28,2.68,9.62,Out of Stock
+Furniture,7515.74,2.27,0.78,Out of Stock
+Clothing,2213.85,3.31,13.77,In Stock
+Electronics,9080.17,4.21,9.73,Out of Stock
+Electronics,6492.25,3.55,5.76,Out of Stock
+Electronics,6180.04,3.92,0.81,Out of Stock
+Food,121.08,3.01,4.59,In Stock
+Clothing,672.48,4.99,18.0,In Stock
+Furniture,4791.22,1.84,14.04,Out of Stock
+Clothing,1800.4,3.09,44.3,In Stock
+Electronics,6974.95,2.34,4.15,Out of Stock
+Food,333.35,3.63,20.32,In Stock
+Food,267.19,4.15,1.98,Out of Stock
+Electronics,5956.45,2.63,18.74,Out of Stock
+Electronics,6886.26,3.66,5.1,Out of Stock
+Electronics,5635.17,1.23,6.11,In Stock
+Food,168.25,3.35,22.82,In Stock
+Food,61.88,4.12,11.38,In Stock
+Clothing,1766.37,3.69,19.1,In Stock
+Furniture,6541.31,3.57,13.07,Out of Stock
+Furniture,,1.34,13.47,Out of Stock
+Food,312.42,4.1,10.79,In Stock
+Furniture,4509.63,3.06,,Out of Stock
+Electronics,6014.97,2.81,15.94,In Stock
+Electronics,7952.13,1.39,10.96,Out of Stock
+,2256.85,4.38,33.31,In Stock
+Electronics,5763.29,3.84,13.55,In Stock
+Food,68.32,3.82,9.99,In Stock
+Furniture,11032.94,1.76,8.86,Out of Stock
+Electronics,9566.03,4.19,18.43,In Stock
+Electronics,9892.53,1.04,12.45,Out of Stock
+Clothing,1532.1,4.58,16.33,In Stock
+Furniture,14772.35,3.15,11.9,Out of Stock
+Clothing,714.0,2.55,39.13,In Stock
+,66.49,4.63,0.42,In Stock
+Electronics,8285.59,2.46,12.23,Out of Stock
+Electronics,8480.16,2.37,2.16,Out of Stock
+,3835.75,3.06,7.81,In Stock
+Furniture,11906.41,2.78,6.34,In Stock
+Electronics,6990.44,1.11,6.71,In Stock
+Furniture,14712.24,4.06,4.94,In Stock
+,490.85,4.69,13.24,Out of Stock
+Furniture,3215.49,1.26,7.66,Out of Stock
+Clothing,2923.6,4.08,8.19,In Stock
+Food,192.02,4.54,25.24,Out of Stock
+Clothing,2044.24,3.93,6.28,In Stock
+Food,671.4,4.58,7.77,In Stock
+Electronics,8543.38,1.86,0.81,Out of Stock
+Electronics,6005.68,1.71,6.75,Out of Stock
+Clothing,1546.12,3.53,26.45,In Stock
+Food,253.01,3.06,18.15,In Stock
+Electronics,6978.72,,17.34,Out of Stock
+Food,610.06,4.72,14.85,In Stock
+Furniture,4571.18,3.44,3.09,Out of Stock
+Electronics,7206.15,1.26,16.51,Out of Stock
+Food,144.46,4.81,25.93,In Stock
+,1661.46,4.23,32.88,In Stock
+Furniture,12636.91,,11.79,Out of Stock
+Electronics,7312.28,4.76,9.73,In Stock
+Food,396.96,4.57,24.65,In Stock
+Furniture,9653.87,,7.02,Out of Stock
+Furniture,,3.64,12.17,Out of Stock
+Food,74.62,3.94,19.4,In Stock
+Clothing,2575.08,2.15,43.36,Out of Stock
+Food,461.3,,9.52,In Stock
+Furniture,6383.15,2.86,,Out of Stock
+Food,168.9,4.63,3.98,In Stock
+Electronics,6166.98,2.81,10.34,Out of Stock
+Furniture,12163.33,2.57,11.85,Out of Stock
+Food,513.76,3.23,4.69,Out of Stock
+Food,377.78,,22.31,In Stock
+Electronics,7903.69,2.55,3.42,In Stock
+Food,220.13,4.15,12.7,In Stock
+Clothing,1787.32,2.51,34.83,In Stock
+Food,689.4,3.52,14.75,In Stock
+Electronics,9877.64,2.33,11.9,Out of Stock
+Food,117.65,4.21,2.69,In Stock
+Furniture,14510.83,3.5,11.82,Out of Stock
+,8520.52,3.36,9.0,Out of Stock
+Furniture,13300.48,4.35,7.49,Out of Stock
+Clothing,2828.84,3.75,29.23,In Stock
+Furniture,8453.79,1.73,0.06,Out of Stock
+Furniture,5898.07,2.78,5.7,Out of Stock
+Food,386.36,4.96,10.51,In Stock
+Food,389.14,3.27,1.44,In Stock
+Furniture,12304.91,3.0,11.41,Out of Stock
+Clothing,874.66,3.72,16.41,In Stock
+,1070.15,2.03,10.87,In Stock
+Food,281.95,3.23,29.58,In Stock
+,6703.59,1.46,2.99,Out of Stock
+Furniture,10052.44,1.22,12.94,Out of Stock
+Furniture,14538.0,1.86,6.75,Out of Stock
+Clothing,555.34,3.92,23.63,In Stock
+Furniture,,1.72,9.81,Out of Stock
+Electronics,7081.09,1.72,13.78,Out of Stock
+Food,473.8,4.72,3.52,In Stock
+Electronics,8928.33,,2.3,In Stock
+Clothing,2237.05,3.32,47.52,In Stock
+Clothing,854.03,3.93,22.19,In Stock
+Clothing,2892.04,2.99,48.3,In Stock
+Food,726.11,3.54,24.11,In Stock
+Clothing,2989.01,2.76,24.65,Out of Stock
+Clothing,1800.45,2.88,5.69,Out of Stock
+Electronics,6100.65,2.13,8.87,Out of Stock
+Clothing,927.76,4.62,36.72,In Stock
+Electronics,5426.0,3.6,13.07,Out of Stock
+Electronics,9781.11,1.01,4.96,In Stock
+Food,745.84,4.86,21.62,In Stock
+Food,624.32,3.18,15.42,In Stock
+Food,223.69,3.36,24.31,In Stock
+Clothing,837.6,3.41,47.24,In Stock
+Clothing,964.58,4.93,49.74,In Stock
+,9667.41,,4.74,Out of Stock
+Food,368.37,3.62,8.42,In Stock
+Clothing,2930.57,2.46,38.0,In Stock
+Electronics,5002.05,3.38,18.32,Out of Stock
+Clothing,1219.84,2.56,34.33,In Stock
+Clothing,2281.5,4.06,19.37,In Stock
+Clothing,1130.51,4.87,46.55,In Stock
+Food,392.99,4.69,13.57,In Stock
+Food,368.29,3.31,12.79,In Stock
+Food,453.06,3.05,13.32,In Stock
+Furniture,12376.27,3.38,9.53,Out of Stock
+Furniture,13914.67,1.06,8.36,Out of Stock
+Food,640.51,4.08,9.72,In Stock
+Furniture,4635.01,4.11,7.06,In Stock
+Electronics,9390.58,3.34,13.48,Out of Stock
+Electronics,9021.31,3.64,7.96,Out of Stock
+Electronics,,4.21,7.47,Out of Stock
+Food,341.09,3.19,27.44,In Stock
+Furniture,4092.44,3.27,6.2,Out of Stock
+Electronics,,3.72,1.34,Out of Stock
+Furniture,10124.47,3.7,12.42,Out of Stock
+Electronics,5852.65,4.59,13.12,In Stock
+Furniture,13582.26,2.7,8.13,Out of Stock
+Clothing,2797.6,4.7,25.17,In Stock
+Electronics,6372.06,2.57,7.76,Out of Stock
+Clothing,1217.17,2.81,43.75,In Stock
+Clothing,674.65,4.03,12.78,In Stock
+Clothing,1361.26,2.18,17.15,In Stock
+Clothing,2421.05,4.66,14.97,In Stock
+,8562.57,2.65,13.1,Out of Stock
+Food,622.1,4.03,20.12,In Stock
+,2618.39,2.03,23.13,In Stock
+Food,730.43,4.48,16.29,In Stock
+Food,447.23,3.7,15.62,In Stock
+Clothing,2138.46,3.26,37.14,In Stock
+Clothing,2653.08,2.46,25.32,Out of Stock
+Electronics,7040.1,3.75,5.0,Out of Stock
+Electronics,8201.25,4.51,,In Stock
+Food,733.26,4.99,3.18,In Stock
+Electronics,6165.27,4.8,19.17,Out of Stock
+Food,123.28,3.03,4.83,In Stock
+Food,797.01,3.36,15.08,In Stock
+Electronics,9242.09,1.08,12.09,Out of Stock
+,257.77,4.72,8.5,In Stock
+Clothing,2216.89,4.02,14.97,Out of Stock
+Furniture,3417.59,2.43,4.34,Out of Stock
+Clothing,2522.44,4.4,25.57,In Stock
+,10278.15,3.11,12.41,Out of Stock
+Food,368.75,3.55,7.95,In Stock
+Electronics,7680.96,2.8,8.8,Out of Stock
+Food,118.35,4.44,6.41,In Stock
+Furniture,5363.44,2.44,3.42,Out of Stock
+Food,487.89,3.74,13.47,In Stock
+,9446.03,1.71,2.34,Out of Stock
+Furniture,13565.06,2.52,6.18,Out of Stock
+Electronics,5178.06,,11.08,Out of Stock
+Electronics,7794.2,3.83,3.55,In Stock
+Food,239.17,4.62,28.42,In Stock
+Clothing,839.83,3.49,,In Stock
+Furniture,,2.14,2.16,Out of Stock
+Furniture,11519.2,2.87,2.16,Out of Stock
+Clothing,523.1,4.42,12.93,In Stock
+Electronics,8031.08,2.35,11.71,Out of Stock
+Furniture,6787.84,1.3,3.34,Out of Stock
+Clothing,970.15,3.28,34.62,In Stock
+,6165.67,1.04,7.78,Out of Stock
+Clothing,2014.4,4.89,31.53,In Stock
+Food,403.38,4.15,27.84,In Stock
+Electronics,9141.89,2.29,4.75,Out of Stock
+Food,246.98,4.01,22.32,In Stock
+Clothing,1758.05,2.2,37.56,In Stock
+Food,654.48,3.58,19.92,In Stock
+Electronics,7132.96,4.56,16.9,Out of Stock
+Food,444.07,4.38,26.5,In Stock
+Furniture,8948.6,2.1,11.3,Out of Stock
+Electronics,6100.33,2.55,17.31,Out of Stock
+Electronics,8622.11,2.62,4.29,Out of Stock
+Electronics,,2.14,3.52,In Stock
+Food,607.5,3.5,13.63,In Stock
+Food,339.39,4.96,11.73,In Stock
+Food,109.99,3.18,17.72,In Stock
+Electronics,7996.82,2.68,8.64,Out of Stock
+Clothing,634.83,3.55,27.71,In Stock
+Food,162.16,3.21,3.71,In Stock
+Clothing,752.57,3.83,13.84,In Stock
+Furniture,6017.16,1.61,14.37,Out of Stock
+Electronics,9273.09,1.92,6.55,Out of Stock
+Food,207.42,3.98,0.59,In Stock
+Clothing,2178.42,3.57,45.44,In Stock
+Clothing,910.98,4.41,40.64,In Stock
+Food,145.39,3.8,5.1,In Stock
+,241.04,3.53,16.69,In Stock
+Furniture,7936.93,4.32,1.9,Out of Stock
+Electronics,,1.92,,Out of Stock
+Electronics,6694.85,1.57,17.16,In Stock
+Food,281.65,4.32,16.99,In Stock
+Food,403.82,3.99,21.97,In Stock
+Clothing,719.43,4.0,45.31,In Stock
+Electronics,5288.94,1.56,14.33,In Stock
+Electronics,7186.41,2.61,2.74,Out of Stock
+Furniture,9081.24,1.44,7.15,Out of Stock
+Electronics,8818.08,2.03,9.62,Out of Stock
+Clothing,2980.04,4.06,,In Stock
+Electronics,7074.24,4.07,0.81,In Stock
+Clothing,807.28,2.61,23.09,In Stock
+Electronics,9228.72,2.39,13.09,In Stock
+Food,,4.17,10.72,In Stock
+Electronics,7885.27,2.37,1.68,In Stock
+Furniture,14913.65,1.45,1.09,Out of Stock
+Electronics,9392.65,2.21,13.01,Out of Stock
+Food,296.75,3.78,7.86,In Stock
+Furniture,7116.53,2.44,10.81,In Stock
+Food,433.65,4.89,1.26,In Stock
+Food,427.3,4.17,27.61,In Stock
+Clothing,622.9,3.72,43.41,In Stock
+Clothing,1104.82,,5.86,In Stock
+Food,599.34,4.87,19.72,In Stock
+Furniture,8268.35,1.16,13.8,Out of Stock
+Food,402.72,3.06,20.69,In Stock
+Food,411.38,3.25,6.43,In Stock
+Food,98.37,4.15,18.66,In Stock
+Clothing,1764.36,4.45,43.75,In Stock
+Electronics,8078.12,1.05,13.9,Out of Stock
+Food,363.5,4.13,19.47,In Stock
+Furniture,7202.84,4.21,2.01,Out of Stock
+Electronics,8357.56,1.02,18.49,Out of Stock
+Food,134.38,,9.99,In Stock
+Electronics,6867.83,1.86,11.7,Out of Stock
+Food,382.19,3.07,,In Stock
+Electronics,9052.16,3.76,14.5,Out of Stock
+Clothing,2245.29,2.93,9.48,Out of Stock
+Furniture,,3.91,14.71,Out of Stock
+Clothing,1734.62,2.03,11.3,In Stock
+Food,291.56,4.16,2.25,In Stock
+Furniture,14320.29,2.28,,Out of Stock
+Furniture,12366.26,3.64,9.1,Out of Stock
+Electronics,8133.92,3.55,12.57,Out of Stock
+Clothing,1884.32,4.96,37.95,In Stock
+Electronics,8884.73,4.49,4.31,In Stock
+Furniture,4005.65,2.69,7.71,Out of Stock
+Furniture,12950.18,2.55,8.56,Out of Stock
+Food,445.3,3.08,18.46,In Stock
+Furniture,12936.52,1.55,8.91,Out of Stock
+Food,,3.33,3.7,In Stock
+Food,785.04,3.79,,In Stock
+Electronics,5856.62,3.67,12.19,Out of Stock
+,10722.63,1.31,13.4,Out of Stock
+Electronics,6946.33,2.25,9.25,In Stock
+,7680.79,4.02,13.94,Out of Stock
+Furniture,6641.44,,11.72,In Stock
+Food,748.11,3.49,17.31,Out of Stock
+Electronics,6372.72,4.3,0.11,In Stock
+Clothing,1912.05,3.02,19.52,In Stock
+Clothing,2112.27,4.55,32.41,In Stock
+Clothing,,2.79,28.38,Out of Stock
+Electronics,7252.68,1.05,11.14,Out of Stock
+Furniture,10938.29,3.07,11.04,Out of Stock
+Food,478.5,3.13,3.49,In Stock
+Clothing,1991.19,2.82,,Out of Stock
+Clothing,1574.01,3.66,19.79,In Stock
+Clothing,2301.08,3.93,19.98,In Stock
+,616.15,4.3,19.12,In Stock
+Food,465.07,3.02,20.9,In Stock
+Furniture,7512.5,4.3,12.27,Out of Stock
+Clothing,1969.24,2.76,,Out of Stock
+Furniture,7084.62,2.67,4.44,Out of Stock
+Furniture,9179.15,1.58,14.67,Out of Stock
+Electronics,5539.62,4.73,18.27,In Stock
+Furniture,9304.33,,,Out of Stock
+Electronics,8150.17,2.36,6.02,Out of Stock
+Furniture,9938.76,2.74,8.69,Out of Stock
+Clothing,1216.65,3.1,8.78,In Stock
+Furniture,3627.32,1.89,,Out of Stock
+Furniture,4245.3,3.85,0.58,Out of Stock
+Furniture,10907.31,1.95,13.07,Out of Stock
+Furniture,8819.91,2.07,7.76,Out of Stock
+Clothing,1454.9,3.69,10.15,In Stock
+Electronics,9984.95,2.7,6.96,Out of Stock
+Clothing,2275.52,3.09,42.5,In Stock
+Electronics,7271.35,3.88,2.15,Out of Stock
+Food,684.59,4.47,6.35,In Stock
+Clothing,863.22,2.95,48.92,In Stock
+Furniture,6081.98,2.6,0.45,Out of Stock
+,347.92,4.14,28.59,In Stock
+Furniture,9200.83,3.87,8.21,In Stock
+Electronics,5203.93,2.26,11.51,Out of Stock
+Furniture,,4.01,3.43,Out of Stock
+Furniture,5641.32,1.7,13.84,Out of Stock
+Clothing,2631.67,4.32,22.67,In Stock
+Food,428.29,3.93,7.6,In Stock
+Furniture,9060.34,1.11,1.98,Out of Stock
+Electronics,9432.95,4.01,8.46,In Stock
+Food,437.86,3.74,22.22,In Stock
+Clothing,2460.47,4.29,37.52,In Stock
+Electronics,6022.52,2.35,9.4,Out of Stock
+Clothing,1326.98,4.26,19.82,In Stock
+Electronics,5691.16,2.6,19.6,Out of Stock
+,6129.41,3.45,8.66,In Stock
+Electronics,5355.12,2.95,14.04,Out of Stock
+Furniture,9158.64,4.05,4.33,Out of Stock
+Food,114.69,,11.35,In Stock
+Furniture,,3.77,4.86,Out of Stock
+Clothing,2290.41,,18.11,In Stock
+,861.78,4.43,15.02,In Stock
+Food,588.05,4.89,15.83,In Stock
+Clothing,1850.07,3.38,19.67,In Stock
+Electronics,7378.28,3.41,19.72,Out of Stock
+Food,753.32,4.72,26.67,In Stock
+Electronics,7339.25,3.63,17.9,In Stock
+Food,344.71,4.92,12.47,In Stock
+Food,500.81,4.42,28.52,In Stock
+Electronics,6223.08,3.98,10.42,In Stock
+Electronics,6342.79,,11.04,Out of Stock
+Furniture,10931.69,2.13,7.22,Out of Stock
+Clothing,,3.21,13.93,In Stock
+Electronics,9808.2,3.05,14.68,In Stock
+Furniture,,2.24,6.11,Out of Stock
+Electronics,7045.98,3.18,10.87,In Stock
+Food,422.87,3.27,14.88,In Stock
+Furniture,5029.25,1.44,13.99,Out of Stock
+Electronics,8024.75,3.64,8.04,Out of Stock
+Electronics,9544.9,3.55,15.38,Out of Stock
+Electronics,6842.81,4.84,,In Stock
+Clothing,2634.87,2.52,17.19,In Stock
+Electronics,6428.13,2.08,17.11,Out of Stock
+Food,73.91,3.15,8.22,In Stock
+Electronics,5999.36,1.93,15.96,Out of Stock
+,472.34,3.01,12.88,In Stock
+Furniture,7894.62,1.4,10.14,Out of Stock
+,11425.17,3.52,10.93,Out of Stock
+Food,50.04,4.91,24.43,In Stock
+Clothing,2759.95,2.05,,In Stock
+Food,657.34,4.67,2.8,In Stock
+Food,604.08,4.92,20.36,In Stock
+Clothing,1926.4,4.84,24.93,In Stock
+Electronics,7996.47,2.91,18.66,Out of Stock
+Furniture,3913.02,2.75,10.3,Out of Stock
+Clothing,2479.77,3.75,45.9,In Stock
+Electronics,9709.96,1.26,8.05,Out of Stock
+Clothing,558.65,2.99,29.16,In Stock
+Clothing,2776.99,4.54,10.74,In Stock
+Furniture,,3.06,7.98,Out of Stock
+Food,249.78,4.8,27.82,In Stock
+Furniture,7831.34,4.12,5.76,Out of Stock
+Electronics,8684.08,2.9,2.45,Out of Stock
+Clothing,2819.84,3.36,38.05,In Stock
+Clothing,1417.93,2.06,9.52,In Stock
+Electronics,7481.1,3.76,6.69,Out of Stock
+Clothing,2238.72,4.1,36.68,In Stock
+Furniture,8910.26,4.2,7.34,In Stock
+Electronics,,1.8,6.15,Out of Stock
+Food,81.75,4.27,7.46,In Stock
+Electronics,6520.78,,6.54,In Stock
+Electronics,6210.98,,15.5,Out of Stock
+Electronics,5648.53,2.82,10.14,Out of Stock
+Furniture,11248.68,3.22,12.16,In Stock
+Furniture,3537.02,2.04,4.2,Out of Stock
+Furniture,4752.2,2.01,,Out of Stock
+Clothing,1804.71,3.99,22.15,In Stock
+Electronics,8597.35,2.34,5.81,In Stock
+Food,455.89,3.05,2.39,In Stock
+Clothing,1544.92,4.83,37.47,In Stock
+,4057.52,3.96,10.98,Out of Stock
+Electronics,8054.73,4.28,8.08,In Stock
+Clothing,1053.75,,29.7,In Stock
+Electronics,7691.63,3.26,18.97,In Stock
+Clothing,2755.61,4.63,41.06,In Stock
+Food,757.57,3.2,7.95,In Stock
+Clothing,1737.64,4.54,27.73,In Stock
+Clothing,2370.09,2.42,16.36,In Stock
+Clothing,2329.44,2.49,20.81,In Stock
+Clothing,1162.17,3.05,36.87,In Stock
+Furniture,7414.17,2.94,1.5,Out of Stock
+Furniture,12660.21,2.29,9.73,Out of Stock
+Furniture,11704.68,1.73,13.27,Out of Stock
+Furniture,10394.69,2.5,2.74,Out of Stock
+Clothing,2855.75,4.27,14.36,In Stock
+Food,303.28,4.62,20.87,In Stock
+Clothing,2414.46,3.32,37.24,In Stock
+Clothing,1466.23,2.63,33.47,In Stock
+Furniture,14712.17,2.09,6.91,Out of Stock
+Electronics,8370.01,3.17,16.87,In Stock
+Furniture,12140.91,1.2,14.98,Out of Stock
+Clothing,2381.01,4.59,34.3,In Stock
+Food,692.21,3.22,10.43,In Stock
+Food,707.32,3.4,2.35,In Stock
+Furniture,12457.43,3.92,2.44,Out of Stock
+Food,690.76,4.37,15.6,In Stock
+Food,672.69,3.84,5.82,In Stock
+Electronics,6424.26,3.02,10.63,In Stock
+Food,654.19,4.58,17.44,In Stock
+Electronics,8903.93,1.77,1.0,Out of Stock
+Food,705.23,,7.4,In Stock
+Food,571.49,3.82,26.29,In Stock
+Food,273.48,3.02,9.02,In Stock
+Electronics,7890.38,2.5,10.7,Out of Stock
+Electronics,9382.99,4.65,5.32,In Stock
+Food,396.61,4.1,28.47,In Stock
+Electronics,9993.09,1.94,14.54,Out of Stock
+Electronics,6890.16,1.03,0.19,Out of Stock
+Electronics,7302.83,2.95,0.45,Out of Stock
+Furniture,11243.13,2.03,8.4,Out of Stock
+Food,275.69,3.33,12.22,In Stock
+Clothing,1080.68,3.6,13.95,In Stock
+Clothing,1771.01,2.47,35.19,In Stock
+Clothing,2384.84,2.33,26.05,Out of Stock
+Furniture,3850.46,3.09,3.97,Out of Stock
+Food,445.72,4.03,27.73,In Stock
+Electronics,7745.42,3.33,8.03,Out of Stock
+Electronics,9745.4,4.11,5.71,In Stock
+Electronics,9221.05,2.73,16.57,In Stock
+Food,667.17,3.38,21.03,In Stock
+Furniture,6487.72,2.04,4.45,Out of Stock
+Clothing,2313.92,2.69,5.04,In Stock
+Electronics,8576.18,1.68,2.09,Out of Stock
+Electronics,6187.58,2.52,9.52,Out of Stock
+Furniture,3534.84,4.4,10.74,In Stock
+Clothing,1307.99,2.96,25.18,In Stock
+Furniture,10514.94,1.51,2.83,Out of Stock
+Food,694.58,3.51,11.41,In Stock
+Clothing,2678.18,3.99,20.38,In Stock
+Electronics,8418.5,1.08,14.71,Out of Stock
+Electronics,7435.08,4.25,19.09,In Stock
+Food,744.34,4.82,15.37,In Stock
+Furniture,7321.71,2.63,10.35,Out of Stock
+Food,713.0,3.41,27.55,In Stock
+Food,661.39,4.96,26.41,In Stock
+Electronics,6399.69,1.42,2.24,Out of Stock
+Furniture,6494.68,3.15,12.06,In Stock
+Furniture,13791.0,3.18,0.08,Out of Stock
+Clothing,965.79,2.3,21.35,In Stock
+Furniture,9016.21,1.15,5.23,Out of Stock
+Food,184.38,4.29,13.93,In Stock
+Food,,3.86,28.68,In Stock
+Food,211.05,4.03,22.08,In Stock
+Furniture,9682.13,4.25,5.67,Out of Stock
+Food,397.76,3.18,18.27,In Stock
+Electronics,6441.06,1.64,10.89,In Stock
+Clothing,1830.78,2.23,36.42,In Stock
+Furniture,10485.27,1.66,7.04,Out of Stock
+Electronics,8601.61,3.12,7.91,Out of Stock
+Clothing,1305.85,3.83,47.26,In Stock
+Clothing,2179.36,2.22,25.73,In Stock
+,2727.06,2.28,49.5,Out of Stock
+Food,761.8,3.16,28.0,In Stock
+Furniture,,3.96,6.28,Out of Stock
+Electronics,7204.28,3.54,15.49,In Stock
+Electronics,5168.95,3.37,3.73,Out of Stock
+Electronics,6729.75,2.39,9.38,Out of Stock
+Furniture,7009.64,,2.18,Out of Stock
+Food,75.08,3.94,28.63,In Stock
+Clothing,789.19,4.84,,In Stock
+Furniture,10649.99,3.26,12.4,Out of Stock
+Furniture,4283.04,2.77,10.46,Out of Stock
+Furniture,10041.85,3.91,1.08,Out of Stock
+Furniture,11288.41,2.87,5.69,Out of Stock
+Clothing,1350.69,3.86,45.09,Out of Stock
+Furniture,8954.11,3.89,6.03,Out of Stock
+Clothing,755.99,2.18,7.31,In Stock
+Furniture,7561.8,2.18,10.77,Out of Stock
+Food,607.12,3.1,6.63,In Stock
+Furniture,6291.14,2.92,2.17,Out of Stock
+Food,150.46,4.89,24.13,In Stock
+Electronics,5903.27,2.63,7.11,Out of Stock
+Food,643.25,4.02,3.84,In Stock
+Furniture,11867.9,2.39,3.94,Out of Stock
+Furniture,7505.98,2.74,5.15,In Stock
+Electronics,6209.53,2.59,0.38,In Stock
+Electronics,8862.49,1.68,0.88,Out of Stock
+Electronics,8268.49,4.1,16.28,In Stock
+Food,420.13,3.41,22.12,In Stock
+Furniture,11396.56,1.86,13.55,In Stock
+Electronics,5521.86,4.93,17.2,Out of Stock
+Food,565.92,4.88,21.67,In Stock
+Furniture,5285.48,2.55,1.07,Out of Stock
+Food,342.24,4.48,11.59,In Stock
+Food,297.72,4.19,26.17,In Stock
+Food,85.69,3.77,,In Stock
+Food,571.52,3.21,19.94,In Stock
+Clothing,1215.45,2.6,47.14,In Stock
+Food,63.89,3.88,0.65,In Stock
+Food,412.69,,9.65,In Stock
+Furniture,4585.94,,10.08,Out of Stock
+Food,636.8,4.06,17.7,In Stock
+Furniture,5407.4,2.01,2.43,Out of Stock
+Electronics,6246.48,1.9,10.39,Out of Stock
+Clothing,,4.83,13.8,In Stock
+Electronics,8208.38,4.27,11.2,In Stock
+Electronics,6275.02,2.05,0.79,Out of Stock
+Food,279.08,4.49,1.43,In Stock
+Furniture,5631.54,3.47,11.74,Out of Stock
+Electronics,7276.59,3.79,7.76,In Stock
+Clothing,899.78,3.19,,In Stock
+Furniture,14376.64,1.24,7.61,Out of Stock
+Electronics,6644.6,,0.48,Out of Stock
+Food,284.77,4.64,16.62,In Stock
+Food,387.94,3.57,8.94,In Stock
+Food,337.33,4.67,29.02,In Stock
+,7193.28,2.57,16.93,Out of Stock
+Clothing,1567.26,3.66,15.39,In Stock
+Furniture,11922.03,2.86,12.14,Out of Stock
+Food,635.55,3.43,21.47,In Stock
+Electronics,9000.27,2.38,3.45,Out of Stock
+Furniture,3031.59,2.58,5.29,Out of Stock
+Electronics,7774.55,1.75,17.19,In Stock
+Food,243.32,3.45,14.42,In Stock
+Electronics,7494.26,1.86,5.44,Out of Stock
+Furniture,5036.46,3.51,11.55,Out of Stock
+Clothing,1655.82,4.14,38.12,In Stock
+,,4.9,41.95,In Stock
+Electronics,6022.42,1.74,2.51,Out of Stock
+Clothing,845.95,4.24,26.13,In Stock
+Furniture,12395.21,3.61,9.07,In Stock
+Furniture,11236.4,1.06,4.68,Out of Stock
+Clothing,2094.56,2.03,6.48,Out of Stock
+Clothing,2629.72,4.05,16.94,In Stock
+Food,565.97,4.58,9.2,In Stock
+Furniture,3432.45,4.26,5.18,In Stock
+Food,129.86,3.98,23.05,In Stock
+Clothing,1054.12,2.81,15.92,In Stock
+Clothing,2979.18,2.59,30.9,Out of Stock
+,743.95,3.29,29.13,In Stock
+Electronics,9737.39,4.54,4.29,Out of Stock
+Food,,4.52,29.58,In Stock
+Clothing,951.06,4.3,20.25,In Stock
+Furniture,5107.52,2.47,11.91,Out of Stock
+,7324.25,3.15,19.9,Out of Stock
+Food,349.33,4.23,10.96,In Stock
+Clothing,1481.96,4.09,47.2,In Stock
+Food,456.77,4.54,2.68,In Stock
+Electronics,6055.79,3.01,0.4,Out of Stock
+Food,239.64,4.03,0.45,In Stock
+Food,248.41,4.03,17.19,In Stock
+Food,744.31,4.29,12.44,In Stock
+Food,747.76,4.57,6.0,In Stock
+Food,148.13,4.35,,In Stock
+Furniture,12476.08,3.59,9.38,Out of Stock
+Clothing,2965.96,3.6,,In Stock
+Furniture,12939.28,1.88,,Out of Stock
+Clothing,2892.77,4.09,31.82,In Stock
+Electronics,7301.93,,7.06,Out of Stock
+Electronics,8181.86,4.01,13.57,Out of Stock
+Clothing,996.03,3.48,40.62,In Stock
+Furniture,8708.45,2.88,11.57,Out of Stock
+Food,545.95,3.82,26.86,In Stock
+Furniture,4950.8,4.48,1.78,Out of Stock
+Food,61.21,4.78,7.35,In Stock
+Clothing,2324.25,4.43,43.65,In Stock
+Electronics,,2.18,14.2,Out of Stock
+Clothing,788.5,3.22,43.16,In Stock
+Clothing,1419.15,3.77,27.67,In Stock
+Electronics,8229.76,4.89,1.11,Out of Stock
+Electronics,7869.81,4.45,9.63,In Stock
+Food,108.9,4.12,9.96,In Stock
+Food,166.21,4.7,15.65,In Stock
+Furniture,14199.32,3.82,10.39,Out of Stock
+Furniture,3060.31,2.5,2.96,Out of Stock
+Food,733.1,3.35,8.58,In Stock
+Clothing,1792.09,2.79,14.44,Out of Stock
+Food,499.32,,1.75,In Stock
+Furniture,7466.94,3.52,8.32,Out of Stock
+Electronics,7114.38,3.26,7.31,In Stock
+Clothing,2840.37,,35.3,In Stock
+Furniture,13695.39,3.81,2.76,Out of Stock
+Clothing,1239.82,4.15,8.79,In Stock
+Food,658.9,4.44,21.89,In Stock
+Food,125.18,4.44,,In Stock
+Electronics,9154.61,1.17,,Out of Stock
+Clothing,1432.52,2.45,30.13,In Stock
+Clothing,2793.37,3.17,43.02,In Stock
+Electronics,5001.2,1.67,0.61,Out of Stock
+Electronics,6640.74,4.63,1.94,In Stock
+Furniture,10276.92,2.58,14.08,Out of Stock
+Clothing,806.3,2.64,6.33,In Stock
+Food,,3.56,26.1,In Stock
+Clothing,2012.35,3.84,28.94,In Stock
+Furniture,4102.2,2.56,14.99,Out of Stock
+Clothing,2588.07,4.68,42.05,In Stock
+Clothing,757.6,2.68,5.14,In Stock
+Furniture,6642.12,1.38,7.09,Out of Stock
+Furniture,11125.53,4.06,11.24,Out of Stock
+Electronics,9692.93,,0.24,Out of Stock
+Furniture,10936.06,2.01,3.8,Out of Stock
+Clothing,1327.22,,28.01,In Stock
+Clothing,1600.37,3.54,35.27,In Stock
+Electronics,6935.65,2.01,3.32,Out of Stock
+Electronics,6747.37,3.97,15.13,In Stock
+Food,550.18,3.47,17.64,In Stock
+Clothing,1926.72,3.45,,In Stock
+Clothing,1729.48,,37.2,In Stock
+Food,132.22,4.5,4.08,In Stock
+Furniture,3799.54,4.42,14.35,In Stock
+Electronics,5302.18,2.77,3.72,Out of Stock
+Food,414.01,4.66,28.52,In Stock
+Electronics,8171.26,2.42,12.07,Out of Stock
+Furniture,6744.02,4.18,13.06,Out of Stock
+,468.67,3.65,8.8,In Stock
+Furniture,3401.02,3.86,6.76,Out of Stock
+Electronics,6625.66,2.88,16.37,Out of Stock
+Electronics,5623.07,4.43,17.95,In Stock
+Clothing,2866.77,3.19,14.77,In Stock
+Clothing,1434.1,3.0,12.93,In Stock
+Electronics,8036.33,2.91,17.31,Out of Stock
+,3385.31,3.25,11.44,In Stock
+Electronics,8797.43,4.54,14.58,Out of Stock
+Clothing,2819.53,3.0,27.64,Out of Stock
+Furniture,3168.96,1.02,3.6,Out of Stock
+Clothing,752.02,2.78,12.97,In Stock
+Furniture,3342.24,4.18,0.12,Out of Stock
+Electronics,8680.41,1.61,18.24,Out of Stock
+Clothing,2731.99,3.96,35.25,In Stock
+Electronics,5026.7,4.94,17.56,In Stock
+Electronics,9475.53,3.64,6.9,Out of Stock
+Furniture,13723.78,2.02,8.44,Out of Stock
+Electronics,5498.65,4.69,2.82,Out of Stock
+Food,218.67,,22.92,In Stock
+,2048.38,2.7,5.04,Out of Stock
+Clothing,2392.88,4.96,41.45,In Stock
+Furniture,8522.48,4.16,6.15,Out of Stock
+Electronics,7624.67,2.91,8.95,Out of Stock
+Food,631.39,,9.5,In Stock
+Furniture,6097.9,1.13,8.75,Out of Stock
+Food,222.47,3.3,19.61,In Stock
+Furniture,11174.51,3.63,7.55,Out of Stock
+Electronics,9470.27,4.75,16.15,Out of Stock
+Clothing,2088.98,2.91,49.23,In Stock
+Clothing,1185.34,2.61,24.9,Out of Stock
+Food,92.63,4.96,17.65,In Stock
+Furniture,,3.3,7.46,Out of Stock
+Clothing,580.16,3.84,37.23,In Stock
+Food,362.56,4.51,6.81,In Stock
+Electronics,6106.38,1.65,7.44,Out of Stock
+Food,685.26,4.66,11.48,In Stock
+Clothing,1972.8,4.16,15.85,In Stock
+Furniture,5017.69,4.4,9.26,In Stock
+Food,786.06,3.68,21.09,In Stock
+Clothing,1056.51,2.78,28.04,Out of Stock
+Electronics,6598.09,,5.26,Out of Stock
+Electronics,5178.74,3.82,9.84,Out of Stock
+Electronics,,1.69,2.05,Out of Stock
+Clothing,2031.48,2.28,38.94,In Stock
+,3246.13,1.87,13.36,Out of Stock
+Food,588.9,3.15,24.63,In Stock
+Food,419.78,,18.02,In Stock
+Electronics,8409.17,4.97,4.65,In Stock
+Furniture,10487.35,2.61,0.59,Out of Stock
+Food,60.85,3.24,19.47,In Stock
+Electronics,7835.82,3.21,0.64,Out of Stock
+Food,401.98,,11.93,In Stock
+Food,518.69,4.56,23.52,In Stock
+Electronics,7596.4,4.43,7.83,Out of Stock
+Clothing,2721.73,2.72,,In Stock
+Clothing,,4.39,23.77,In Stock
+Electronics,6145.58,1.93,18.03,Out of Stock
+,13007.0,2.94,9.24,Out of Stock
+Furniture,8691.91,2.37,13.73,Out of Stock
+Food,144.21,3.84,10.34,In Stock
+Clothing,1745.38,,28.35,In Stock
+Clothing,849.8,3.54,15.91,In Stock
+Food,188.25,,22.88,In Stock
+,370.58,4.25,21.83,In Stock
+Electronics,8396.58,2.88,7.76,In Stock
+Food,331.97,4.28,14.84,In Stock
+Furniture,13189.59,4.06,2.56,Out of Stock
+Clothing,840.58,3.89,18.56,Out of Stock
+Electronics,5092.85,4.55,4.54,Out of Stock
+Furniture,14151.37,3.51,11.44,Out of Stock
+Electronics,6007.31,1.94,10.43,Out of Stock
+Clothing,930.25,2.92,19.47,In Stock
+,5798.15,1.82,15.77,Out of Stock
+Clothing,,2.09,33.32,In Stock
+Furniture,14711.8,2.16,1.78,Out of Stock
+Food,477.79,4.81,23.52,In Stock
+Electronics,8112.58,2.26,10.84,Out of Stock
+Furniture,4094.94,3.38,10.88,Out of Stock
+Furniture,14580.38,1.91,0.28,Out of Stock
+Furniture,9547.3,3.47,11.86,Out of Stock
+Electronics,5968.69,2.05,10.25,Out of Stock
+Clothing,1326.5,4.58,,In Stock
+Furniture,12594.94,3.03,11.6,In Stock
+Furniture,6992.08,3.91,4.12,Out of Stock
+Electronics,7730.49,1.86,9.51,Out of Stock
+Electronics,6590.88,2.07,19.34,Out of Stock
+Clothing,900.19,4.36,49.29,In Stock
+Furniture,3238.82,3.45,3.79,Out of Stock
+Food,80.37,3.81,28.06,In Stock
+Clothing,529.41,3.76,27.56,In Stock
+Electronics,9366.92,,13.63,Out of Stock
+Food,560.08,4.34,28.27,In Stock
+Furniture,12877.05,1.15,7.07,Out of Stock
+Clothing,1494.88,,25.31,In Stock
+Furniture,7610.33,2.51,14.69,Out of Stock
+Furniture,4063.6,4.23,7.2,Out of Stock
+Electronics,8118.71,4.32,7.21,In Stock
+Food,372.82,3.82,11.24,In Stock
+Clothing,2813.82,4.49,9.9,In Stock
+Furniture,4297.48,2.5,1.48,Out of Stock
+Food,514.32,3.29,15.67,In Stock
+Food,55.41,3.63,20.32,In Stock
+Furniture,8808.47,4.42,13.11,Out of Stock
+Clothing,1397.68,2.14,43.05,In Stock
+Furniture,13934.81,3.87,1.92,In Stock
+,798.44,3.52,21.73,In Stock
+Electronics,9540.17,1.94,18.17,In Stock
+Food,282.11,4.95,8.44,In Stock
+Furniture,14441.23,,10.64,Out of Stock
+Clothing,1830.28,3.43,15.06,In Stock
+Furniture,11467.15,1.67,8.29,Out of Stock
+Furniture,6038.94,4.34,0.43,Out of Stock
+Clothing,999.32,2.73,23.63,In Stock
+Furniture,5792.76,2.72,13.09,Out of Stock
+Electronics,8560.32,3.32,1.78,Out of Stock
+Electronics,8469.96,1.67,15.73,In Stock
+Electronics,6250.28,2.67,7.01,In Stock
+Furniture,13305.77,1.44,8.48,Out of Stock
+Food,156.55,4.41,27.15,In Stock
+Electronics,,2.95,18.55,In Stock
+Clothing,1802.48,,31.02,In Stock
+Food,566.92,3.21,24.63,In Stock
+Electronics,7177.53,1.29,15.72,Out of Stock
+Furniture,7523.4,1.35,9.51,Out of Stock
+Furniture,13561.58,4.11,14.36,Out of Stock
+Food,700.78,3.0,11.41,Out of Stock
+Furniture,12822.51,2.28,9.02,Out of Stock
+Clothing,2015.79,3.1,45.7,In Stock
+Furniture,9038.74,2.63,14.96,Out of Stock
+Food,420.13,3.36,15.39,In Stock
+Food,660.51,,23.66,In Stock
+Electronics,8540.12,2.02,17.24,Out of Stock
+Furniture,13721.32,1.68,1.96,Out of Stock
+Clothing,2939.01,4.6,45.2,In Stock
+Electronics,9431.88,3.17,12.93,Out of Stock
+Electronics,7726.81,1.2,14.91,Out of Stock
+Food,,4.3,15.08,In Stock
+,418.86,3.34,8.36,In Stock
+Food,169.14,3.39,29.19,In Stock
+Furniture,4837.36,,8.86,Out of Stock
+Electronics,8050.89,1.62,15.87,Out of Stock
+Food,638.9,3.47,8.66,In Stock
+Electronics,9689.94,4.3,13.96,In Stock
+Furniture,3986.8,,8.39,Out of Stock
+Furniture,5248.94,2.57,9.02,Out of Stock
+Food,295.53,,25.21,In Stock
+Food,292.71,4.68,,In Stock
+Clothing,2594.32,2.46,8.73,In Stock
+Clothing,2104.44,3.42,45.86,In Stock
+Furniture,7358.27,2.01,7.51,Out of Stock
+Clothing,1639.87,3.03,36.22,In Stock
+Clothing,2398.9,,48.78,In Stock
+Clothing,1166.64,4.15,22.74,In Stock
+Furniture,11124.98,,14.91,Out of Stock
+Clothing,2322.26,4.86,42.57,In Stock
+Electronics,9514.51,4.26,9.18,Out of Stock
+,238.84,3.74,0.61,In Stock
+Furniture,9287.92,2.77,7.88,Out of Stock
+Electronics,9870.16,4.65,3.23,In Stock
+Electronics,6844.41,2.7,7.21,Out of Stock
+Electronics,8992.48,3.1,11.44,Out of Stock
+Clothing,2632.53,4.42,10.95,In Stock
+Clothing,2284.79,3.31,18.26,In Stock
+Food,87.51,3.97,10.66,In Stock
+Food,238.63,4.39,23.08,In Stock
+Food,233.59,3.1,25.46,In Stock
+Clothing,524.9,4.81,33.24,In Stock
+Furniture,6862.16,1.86,0.14,Out of Stock
+Clothing,1088.68,2.41,32.55,In Stock
+Furniture,4998.55,,8.85,Out of Stock
+Food,273.53,3.07,1.12,Out of Stock
+Electronics,5131.74,3.96,6.36,Out of Stock
+Food,647.23,3.86,13.59,In Stock
+Clothing,1782.21,4.14,,In Stock
+Food,141.19,4.11,9.81,In Stock
+Electronics,7212.46,3.59,9.88,Out of Stock
+Electronics,8101.39,3.18,14.8,In Stock
+Furniture,11471.24,,10.18,Out of Stock
+Electronics,9367.8,2.73,8.26,Out of Stock
+Furniture,12170.95,3.04,1.07,Out of Stock
+Clothing,2730.28,2.09,38.68,In Stock
+,619.1,4.91,1.62,In Stock
+Food,497.64,3.86,9.92,In Stock
+Food,117.74,4.13,14.37,In Stock
+,761.39,3.84,38.21,In Stock
+Electronics,8836.39,4.62,8.19,In Stock
+Electronics,9765.36,4.46,5.93,In Stock
+Clothing,898.21,3.31,23.09,In Stock
+Food,481.79,4.17,22.5,In Stock
+Furniture,9118.68,1.37,12.87,Out of Stock
+Furniture,6717.17,4.4,1.77,In Stock
+Furniture,14499.01,1.32,3.47,Out of Stock
+Furniture,3558.96,3.47,12.75,In Stock
+Food,375.55,4.86,17.71,In Stock
+Clothing,2075.02,,18.36,In Stock
+Furniture,7251.19,4.17,13.51,Out of Stock
+Food,782.36,4.8,3.82,In Stock
+Food,667.79,3.82,29.72,In Stock
+Electronics,7361.4,3.22,10.6,Out of Stock
+Clothing,1304.34,2.23,45.3,In Stock
+Clothing,2506.69,2.42,39.95,In Stock
+Furniture,10510.16,2.43,3.81,Out of Stock
+Food,694.8,4.4,16.43,In Stock
+Clothing,2023.92,2.27,26.33,In Stock
+Furniture,5324.4,1.73,9.92,Out of Stock
+Electronics,9556.28,2.62,4.15,Out of Stock
+Clothing,2121.87,4.61,38.67,Out of Stock
+Electronics,9343.79,3.15,15.04,Out of Stock
+Food,155.05,3.7,11.69,In Stock
+Furniture,9135.55,4.25,13.11,Out of Stock
+Clothing,836.31,2.52,21.09,In Stock
+Furniture,6488.93,3.15,13.54,Out of Stock
+Clothing,2905.73,3.96,42.72,In Stock
+Furniture,9302.43,1.73,7.87,Out of Stock
+Furniture,9660.99,3.6,3.3,Out of Stock
+Furniture,7419.72,2.27,14.39,Out of Stock
+Electronics,7219.72,4.02,15.02,In Stock
+Furniture,6186.53,3.0,13.41,Out of Stock
+Food,406.4,4.89,6.43,In Stock
+Clothing,685.4,4.67,43.15,In Stock
+Furniture,14911.08,3.38,14.05,Out of Stock
+Clothing,,4.53,30.61,In Stock
+Furniture,7588.38,4.27,6.48,In Stock
+Electronics,7694.1,2.78,11.3,Out of Stock
+Food,402.88,3.1,26.46,In Stock
+Food,383.3,4.18,4.18,In Stock
+Electronics,5016.94,1.98,14.09,Out of Stock
+Electronics,5495.97,4.64,4.3,Out of Stock
+Electronics,6022.97,1.73,0.28,Out of Stock
+Clothing,2429.51,4.63,32.64,In Stock
+Clothing,970.5,2.86,26.42,In Stock
+,765.76,3.49,21.95,In Stock
+Clothing,1598.62,2.89,25.52,In Stock
+Clothing,678.02,4.4,15.95,In Stock
+Food,594.06,3.14,28.65,In Stock
+Electronics,5965.07,4.53,16.19,In Stock
+Furniture,14614.32,2.67,10.91,Out of Stock
+Furniture,7448.53,1.65,6.65,Out of Stock
+Food,174.31,4.96,2.89,In Stock
+Food,491.91,4.25,16.14,In Stock
+Furniture,10946.23,1.41,8.33,Out of Stock
+Electronics,6436.06,4.76,15.24,In Stock
+Electronics,9862.57,1.15,5.7,Out of Stock
+Electronics,5977.11,1.04,4.85,Out of Stock
+Furniture,11145.31,1.81,7.64,Out of Stock
+Electronics,9439.09,3.78,7.89,In Stock
+Food,329.35,3.91,5.31,In Stock
+Furniture,10608.01,2.27,12.79,Out of Stock
+Furniture,12078.63,3.14,5.46,Out of Stock
+Food,207.45,4.55,14.59,In Stock
+Electronics,,1.78,3.31,In Stock
+Furniture,12325.93,1.8,7.9,Out of Stock
+Food,388.66,4.16,26.31,In Stock
+Electronics,9338.74,2.8,0.31,Out of Stock
+Electronics,7132.22,3.42,11.16,In Stock
+Furniture,10816.03,1.54,9.7,Out of Stock
+Food,186.99,4.5,10.17,In Stock
+Furniture,11518.75,1.17,6.12,Out of Stock
+Furniture,11460.41,1.79,11.93,Out of Stock
+Food,523.08,4.18,10.61,In Stock
+Food,411.84,4.19,14.17,In Stock
+Clothing,2245.78,3.3,14.1,In Stock
+Clothing,1034.83,2.02,18.54,In Stock
+Clothing,2372.29,4.38,14.11,In Stock
+Furniture,,2.76,13.75,Out of Stock
+Food,580.07,4.44,2.55,In Stock
+Furniture,5639.89,1.03,10.74,Out of Stock
+Clothing,1361.1,4.36,20.25,In Stock
+Food,664.5,3.26,5.2,In Stock
+Food,305.66,3.82,10.46,In Stock
+Food,622.74,3.19,10.54,In Stock
+Food,677.93,3.13,28.27,In Stock
+Electronics,9931.58,1.35,5.83,In Stock
+Food,329.3,4.55,17.88,In Stock
+Electronics,8221.83,4.03,2.36,In Stock
+,2583.02,4.12,,In Stock
+Clothing,2724.34,4.1,14.08,In Stock
+Food,372.31,3.99,1.66,In Stock
+Furniture,14455.65,1.45,10.46,Out of Stock
+Food,429.67,3.05,27.74,In Stock
+Food,688.88,4.05,6.87,In Stock
+Food,141.22,3.73,7.66,In Stock
+Food,430.02,4.93,17.25,In Stock
+Electronics,9449.66,3.6,9.5,Out of Stock
+Clothing,2636.52,3.41,44.09,Out of Stock
+Clothing,1228.94,2.39,43.49,In Stock
+Clothing,1968.54,,47.2,In Stock
+Electronics,5268.14,3.0,7.5,In Stock
+Electronics,,4.17,5.61,Out of Stock
+Clothing,1892.0,4.13,11.05,In Stock
+Furniture,12768.8,3.12,14.24,In Stock
+Clothing,1348.82,2.32,27.79,Out of Stock
+Clothing,714.53,4.91,6.74,In Stock
+Electronics,8767.52,3.1,7.37,In Stock
+Food,99.38,4.24,17.56,In Stock
+Clothing,1202.21,4.73,18.68,In Stock
+Electronics,7248.63,3.18,2.0,In Stock
+Food,749.12,3.75,2.42,In Stock
+Electronics,6936.46,3.4,10.27,Out of Stock
+Electronics,8472.71,1.22,5.69,Out of Stock
+Electronics,9096.15,,17.11,In Stock
+Electronics,5459.48,4.34,7.22,Out of Stock
+Electronics,8061.05,1.61,1.32,Out of Stock
+Clothing,1039.85,2.38,19.06,In Stock
+Furniture,9172.6,3.06,11.85,Out of Stock
+Food,542.18,4.22,12.35,In Stock
+Food,405.36,3.83,25.26,In Stock
+Clothing,1075.0,2.02,34.31,In Stock
+Furniture,5429.55,4.12,12.89,Out of Stock
+Clothing,691.82,2.32,27.28,In Stock
+Electronics,8046.11,2.1,14.34,Out of Stock
+,,3.65,0.76,In Stock
+Electronics,8750.75,1.86,16.69,Out of Stock
+Clothing,1550.73,3.73,44.28,In Stock
+Food,697.72,3.74,6.27,In Stock
+Furniture,12301.75,2.52,2.88,Out of Stock
+Clothing,2761.06,2.59,6.16,In Stock
+Food,,4.24,19.85,In Stock
+Furniture,6732.5,2.12,5.09,Out of Stock
+Electronics,8400.79,1.23,18.58,Out of Stock
+,1056.3,5.0,12.72,In Stock
+Clothing,2428.87,2.67,8.64,Out of Stock
+Clothing,2687.33,4.58,23.16,In Stock
+Clothing,2255.99,3.67,,In Stock
+Furniture,6780.67,2.83,7.28,Out of Stock
+Food,315.43,4.78,4.98,In Stock
+Food,162.13,4.15,19.72,In Stock
+Clothing,986.55,3.17,47.6,In Stock
+Furniture,5959.41,3.34,11.1,In Stock
+Furniture,8377.54,4.28,11.05,Out of Stock
+Furniture,8495.09,2.99,10.39,Out of Stock
+Electronics,7960.95,4.51,7.14,In Stock
+Food,274.91,3.43,1.13,In Stock
+Electronics,5215.07,4.48,13.57,Out of Stock
+Clothing,2151.33,3.84,43.21,In Stock
+,7401.33,4.48,7.19,In Stock
+Food,745.03,4.4,7.72,In Stock
+Food,,4.07,4.14,In Stock
+Electronics,7956.21,2.26,1.05,Out of Stock
+Clothing,2871.64,3.92,44.46,Out of Stock
+Clothing,2190.14,3.07,28.07,In Stock
+Clothing,2189.37,4.88,16.42,In Stock
+,9374.89,4.7,13.41,In Stock
+Clothing,2828.17,,47.89,In Stock
+Furniture,11433.39,1.15,13.6,Out of Stock
+Electronics,7422.36,2.84,11.33,Out of Stock
+Electronics,5746.92,2.88,16.62,Out of Stock
+Clothing,,2.82,5.11,In Stock
+Furniture,7988.54,3.55,11.98,Out of Stock
+Food,758.89,4.22,7.64,In Stock
+Food,743.11,4.55,17.23,In Stock
+Clothing,2239.1,4.77,37.06,In Stock
+Food,326.28,4.43,1.21,Out of Stock
+Electronics,6932.08,2.63,3.34,Out of Stock
+,67.31,3.27,19.64,In Stock
+Furniture,12627.47,4.46,5.2,Out of Stock
+Food,499.53,4.87,5.01,In Stock
+Furniture,11611.75,3.64,1.33,Out of Stock
+Food,695.94,4.63,1.0,In Stock
+,5455.42,1.2,6.69,Out of Stock
+Furniture,9111.47,2.86,4.02,Out of Stock
+Electronics,9557.98,2.47,0.91,Out of Stock
+Food,275.17,4.06,12.25,In Stock
+Electronics,6369.21,1.53,16.38,In Stock
+Electronics,9980.73,2.32,7.63,In Stock
+Clothing,2045.09,4.16,22.64,In Stock
+Clothing,2762.32,3.68,25.27,In Stock
+Clothing,2116.68,4.86,40.75,In Stock
+,80.01,3.66,14.12,In Stock
+Electronics,6572.59,,16.53,In Stock
+Electronics,8656.73,4.96,5.45,Out of Stock
+Food,706.24,4.53,10.87,In Stock
+Clothing,2335.31,2.31,40.52,In Stock
+Food,449.25,3.58,19.67,In Stock
+Food,531.21,3.42,0.91,In Stock
+Furniture,8203.47,,13.15,Out of Stock
+Food,746.16,4.06,22.61,In Stock
+Clothing,1598.26,4.24,14.22,Out of Stock
+Food,328.3,4.27,0.54,In Stock
+Clothing,2306.15,4.51,22.96,Out of Stock
+Clothing,1619.86,4.55,39.9,In Stock
+Furniture,6457.79,,10.18,Out of Stock
+Clothing,1908.0,2.49,18.95,In Stock
+Furniture,13799.8,3.41,14.79,Out of Stock
+Furniture,12204.15,4.3,3.24,In Stock
+Furniture,12257.82,1.07,10.06,Out of Stock
+Furniture,8631.39,2.21,12.94,Out of Stock
+,2635.67,2.07,32.43,In Stock
+Clothing,1419.58,3.25,42.44,In Stock
+Food,282.38,4.89,5.39,In Stock
+Clothing,2156.81,4.02,,In Stock
+Food,293.56,4.67,22.85,In Stock
+Food,296.82,4.07,1.85,In Stock
+Food,206.56,3.97,2.58,In Stock
+Clothing,2608.33,4.15,47.46,In Stock
+Electronics,,4.76,11.09,Out of Stock
+Clothing,2000.55,4.93,33.9,In Stock
+Electronics,5153.93,3.9,,In Stock
+Furniture,,3.04,10.07,In Stock
+Clothing,2975.48,2.27,35.03,In Stock
+Electronics,6416.99,3.56,12.15,In Stock
+Electronics,5767.28,1.83,12.43,Out of Stock
+Food,146.17,3.53,25.06,In Stock
+Food,295.32,3.98,28.23,In Stock
+Clothing,1067.87,3.17,32.29,In Stock
+,8776.69,4.61,18.31,In Stock
+Clothing,,2.68,6.12,Out of Stock
+Clothing,1459.43,2.42,36.97,In Stock
+Food,545.85,3.09,25.1,In Stock
+Food,236.56,3.86,20.04,In Stock
+Clothing,1573.55,3.32,7.95,Out of Stock
+Electronics,7007.22,4.06,18.3,Out of Stock
+Furniture,7961.97,2.48,10.54,Out of Stock
+Clothing,2856.93,,24.81,In Stock
+Food,646.98,4.22,,In Stock
+Electronics,8138.66,1.75,10.2,Out of Stock
+Clothing,1822.76,4.63,25.81,In Stock
+Electronics,6397.21,1.92,17.49,Out of Stock
+Food,178.26,3.85,5.62,In Stock
+Furniture,12279.65,2.66,5.27,Out of Stock
+Clothing,1402.75,4.56,29.92,In Stock
+Electronics,8589.34,4.59,18.03,Out of Stock
+Electronics,6642.55,4.81,0.5,Out of Stock
+Clothing,1442.09,4.69,17.36,Out of Stock
+Electronics,6365.41,,12.25,Out of Stock
+Electronics,7191.66,3.91,17.9,In Stock
+Furniture,11090.39,1.72,13.99,Out of Stock
+Clothing,1161.23,,9.05,In Stock
+Clothing,1908.46,2.34,11.24,In Stock
+Furniture,6600.37,1.99,9.06,Out of Stock
+Electronics,9083.73,4.05,5.25,Out of Stock
+Furniture,5943.73,4.38,0.12,Out of Stock
+Clothing,2699.3,2.6,47.63,In Stock
+Furniture,7107.69,2.54,10.61,Out of Stock
+Food,490.75,3.64,16.61,In Stock
+Furniture,11768.48,1.15,0.17,Out of Stock
+Furniture,8496.8,1.46,9.97,In Stock
+,1035.13,3.3,13.9,In Stock
+Furniture,9581.8,1.41,0.35,Out of Stock
+Clothing,627.83,4.86,11.4,In Stock
+Clothing,2271.2,2.2,9.87,In Stock
+Clothing,1772.19,3.39,47.82,In Stock
+Food,758.63,4.56,18.06,In Stock
+Electronics,7274.8,2.42,18.94,Out of Stock
+Food,502.18,4.16,6.96,In Stock
+Food,85.02,4.89,9.41,In Stock
+Furniture,8311.07,1.4,12.55,Out of Stock
+Furniture,3331.58,3.92,2.1,In Stock
+Clothing,,4.19,12.41,In Stock
+Clothing,,2.94,13.02,In Stock
+Clothing,2647.96,3.21,,In Stock
+Electronics,5849.43,2.53,17.43,Out of Stock
+Electronics,6815.64,4.81,18.93,In Stock
+Clothing,862.25,2.53,43.82,In Stock
+Clothing,1481.9,2.01,17.32,In Stock
+Furniture,10171.55,3.8,2.0,Out of Stock
+Food,132.91,4.84,22.53,In Stock
+,1974.45,4.31,24.3,In Stock
+Food,618.84,3.74,7.32,In Stock
+Electronics,8645.07,2.68,19.63,In Stock
+Clothing,1373.71,4.77,46.98,In Stock
+Food,231.39,4.6,12.99,In Stock
+Clothing,,3.35,38.49,In Stock
+Clothing,1667.42,2.68,13.97,In Stock
+Furniture,8105.17,3.64,9.08,In Stock
+Furniture,11263.55,1.99,7.22,Out of Stock
+Food,83.3,4.64,29.7,In Stock
+Food,355.16,3.02,5.09,In Stock
+,539.4,4.22,23.64,In Stock
+Electronics,6269.42,4.05,13.76,Out of Stock
+Clothing,1307.04,3.64,11.63,In Stock
+Electronics,7262.82,4.52,8.42,In Stock
+Clothing,,3.77,13.63,In Stock
+Food,485.83,4.01,11.96,In Stock
+Electronics,5598.15,2.67,1.46,Out of Stock
+Furniture,4185.23,2.46,4.58,Out of Stock
+Furniture,14106.53,2.31,11.37,Out of Stock
+Food,447.69,4.41,7.8,In Stock
+Food,756.43,4.06,24.94,In Stock
+Furniture,7380.55,1.35,10.11,Out of Stock
+Electronics,5038.8,2.9,3.86,Out of Stock
+Furniture,10528.51,4.43,6.97,In Stock
+Electronics,9087.49,3.03,9.92,Out of Stock
+Furniture,14165.08,4.11,11.79,Out of Stock
+Clothing,1240.64,3.64,15.08,In Stock
+Furniture,8327.0,2.69,12.47,Out of Stock
+Furniture,13752.34,2.45,0.27,Out of Stock
+Electronics,9308.87,1.7,12.44,Out of Stock
+Clothing,562.43,3.2,49.37,In Stock
+Furniture,4208.32,2.48,4.61,Out of Stock
+Clothing,2762.72,4.61,15.7,In Stock
+Furniture,,3.19,5.05,In Stock
+Food,554.06,3.06,4.0,In Stock
+Clothing,2215.93,2.64,43.59,In Stock
+,646.48,2.65,49.94,In Stock
+Electronics,7165.38,3.81,3.65,In Stock
+Furniture,10318.42,3.54,4.72,Out of Stock
+Clothing,2572.24,3.81,22.51,In Stock
+Food,,4.15,4.97,In Stock
+Clothing,1506.83,3.03,23.04,In Stock
+Food,620.83,3.97,28.21,Out of Stock
+Furniture,6524.12,2.45,11.8,In Stock
+Furniture,9552.3,2.91,0.8,Out of Stock
+Clothing,1496.5,2.81,49.97,In Stock
+Furniture,6700.26,4.1,10.14,Out of Stock
+Furniture,7091.0,,12.61,Out of Stock
+Food,712.53,3.32,10.19,In Stock
+Furniture,7022.68,,8.97,Out of Stock
+Electronics,9274.1,2.53,14.8,Out of Stock
+Electronics,8138.5,2.5,2.82,Out of Stock
+Furniture,11511.89,3.99,10.29,Out of Stock
+Clothing,544.7,2.65,8.13,In Stock
+Furniture,9844.63,3.65,1.66,In Stock
+Furniture,13060.05,2.94,10.35,Out of Stock
+Electronics,9857.01,1.33,18.02,Out of Stock
+Furniture,4513.23,2.38,12.77,Out of Stock
+Clothing,2765.64,3.52,31.73,In Stock
+Food,581.11,4.67,3.65,In Stock
+Food,657.55,3.96,13.52,In Stock
+Furniture,8086.8,2.78,14.18,Out of Stock
+Electronics,7741.02,4.81,3.61,Out of Stock
+Clothing,2310.34,4.44,35.56,In Stock
+Food,505.19,4.13,25.83,In Stock
+Food,666.23,3.24,25.46,In Stock
+Food,360.55,3.51,26.09,In Stock
+Electronics,7160.12,4.23,5.27,In Stock
+Clothing,509.82,3.49,9.51,In Stock
+Clothing,2385.94,2.83,24.96,Out of Stock
+Furniture,4044.4,2.0,11.72,Out of Stock
+Clothing,878.97,3.94,46.28,In Stock
+Electronics,8399.18,4.24,2.18,In Stock
+Furniture,6008.78,4.13,10.73,In Stock
+Electronics,8197.77,3.66,8.28,Out of Stock
+Furniture,3534.68,3.75,,Out of Stock
+Food,404.6,4.8,10.08,In Stock
+Furniture,6531.86,4.05,11.95,In Stock
+Clothing,1787.45,2.39,14.68,In Stock
+Electronics,8281.14,2.54,16.73,Out of Stock
+Food,762.47,4.61,11.33,In Stock
+Furniture,12464.24,2.23,2.51,Out of Stock
+Food,75.04,3.77,27.11,In Stock
+Electronics,6194.93,1.83,19.4,Out of Stock
+Furniture,3300.05,3.75,4.82,In Stock
+Furniture,3449.86,4.21,2.09,Out of Stock
+Food,463.83,,1.96,In Stock
+Furniture,3599.07,1.4,1.07,Out of Stock
+Furniture,12126.7,2.7,5.14,Out of Stock
+Food,363.78,4.86,27.32,In Stock
+Electronics,8578.38,4.54,6.39,In Stock
+Clothing,1452.77,3.84,33.06,In Stock
+Electronics,7408.5,2.6,19.72,Out of Stock
+Clothing,2552.81,3.3,37.73,In Stock
+,1173.9,2.3,20.86,Out of Stock
+Electronics,7014.86,1.07,16.3,In Stock
+Clothing,1397.98,3.74,8.33,Out of Stock
+Electronics,5874.98,4.56,12.17,Out of Stock
+Furniture,14403.41,4.5,5.58,Out of Stock
+Furniture,6585.64,4.0,14.98,Out of Stock
+,8148.21,4.18,15.63,In Stock
+Furniture,7264.08,3.01,12.5,Out of Stock
+Food,566.09,3.04,10.1,In Stock
+Clothing,861.19,2.7,45.75,In Stock
+,5184.47,1.88,6.19,Out of Stock
+Food,512.66,4.07,6.55,In Stock
+Furniture,4970.89,1.83,7.54,Out of Stock
+Food,253.38,4.9,13.92,In Stock
+Electronics,5293.98,3.92,6.58,In Stock
+Electronics,8267.44,2.12,11.41,Out of Stock
+Clothing,,4.78,16.75,In Stock
+Clothing,,3.39,46.72,In Stock
+Electronics,9506.93,1.36,2.64,Out of Stock
+Clothing,1738.77,2.32,20.55,In Stock
+Furniture,4780.62,3.23,14.24,Out of Stock
+Furniture,14960.81,2.31,8.99,Out of Stock
+Clothing,2640.67,2.35,36.03,In Stock
+Furniture,7906.12,1.72,6.04,Out of Stock
+Clothing,689.9,4.09,16.37,In Stock
+Clothing,1278.51,2.36,43.91,In Stock
+Electronics,7467.22,3.29,11.39,In Stock
+Food,357.87,3.39,22.35,In Stock
+Furniture,4524.68,1.36,10.65,Out of Stock
+Food,,3.61,14.26,In Stock
+Clothing,1623.38,4.13,33.05,In Stock
+Food,533.3,4.43,8.78,In Stock
+Electronics,6611.67,2.75,6.15,Out of Stock
+Furniture,14819.25,3.85,2.47,Out of Stock
+Food,54.2,3.09,7.32,In Stock
+Clothing,785.73,3.6,43.61,In Stock
+Food,602.56,3.43,11.98,In Stock
+Food,430.92,4.62,25.17,In Stock
+Electronics,9548.59,3.04,13.89,Out of Stock
+Food,133.85,4.13,7.46,In Stock
+Electronics,7158.58,3.54,5.14,Out of Stock
+Food,89.14,3.02,,In Stock
+Furniture,3100.2,1.39,3.59,Out of Stock
+Furniture,5654.66,4.45,4.59,In Stock
+Food,145.57,4.09,25.74,In Stock
+Food,,3.59,16.85,In Stock
+Electronics,8574.28,3.91,,Out of Stock
+Furniture,13449.73,4.05,8.68,Out of Stock
+Clothing,1574.64,3.92,41.82,In Stock
+Clothing,514.13,4.98,13.23,In Stock
+Clothing,1675.62,4.62,15.13,In Stock
+Electronics,7383.98,1.53,7.9,Out of Stock
+Food,182.85,3.73,11.2,In Stock
+Electronics,9965.85,4.98,2.3,Out of Stock
+Food,594.48,3.1,0.91,In Stock
+Clothing,763.33,4.9,47.34,In Stock
+Electronics,5969.64,1.65,4.81,Out of Stock
+Food,436.66,4.14,6.65,In Stock
+Electronics,8783.11,2.24,18.44,Out of Stock
+Clothing,2141.81,3.31,40.55,In Stock
+Food,663.44,3.58,10.19,In Stock
+Electronics,9679.78,1.66,0.84,Out of Stock
+Furniture,8448.66,3.8,11.58,Out of Stock
+Electronics,9597.65,,2.0,In Stock
+Electronics,7943.44,4.11,,Out of Stock
+Food,179.49,3.02,17.81,In Stock
+Clothing,2716.84,4.01,49.19,In Stock
+Electronics,,4.61,16.28,In Stock
+Clothing,1285.6,4.92,,In Stock
+Clothing,2723.26,,39.09,In Stock
+Furniture,9761.65,1.42,7.98,Out of Stock
+Clothing,1391.99,4.38,39.12,In Stock
+Furniture,13927.35,1.05,12.14,Out of Stock
+Furniture,14261.54,3.76,1.95,Out of Stock
+Clothing,703.2,2.06,33.29,In Stock
+Furniture,10556.07,4.45,5.97,Out of Stock
+Clothing,1329.77,3.87,42.15,Out of Stock
+Furniture,14241.29,3.81,6.4,Out of Stock
+Electronics,8174.57,4.43,9.81,In Stock
+Food,,3.34,0.0,In Stock
+Clothing,2295.59,2.33,15.97,Out of Stock
+Clothing,1244.69,3.68,22.91,In Stock
+Food,556.01,3.11,3.72,In Stock
+Food,424.41,3.67,8.87,In Stock
+Electronics,5335.14,4.58,13.84,Out of Stock
+Electronics,5608.09,1.26,19.5,Out of Stock
+Food,560.88,3.83,21.05,In Stock
+Food,617.25,4.56,14.34,In Stock
+Furniture,8158.59,1.04,13.9,Out of Stock
+,10239.69,,13.79,Out of Stock
+Furniture,13979.18,4.46,13.11,Out of Stock
+Food,798.34,3.49,25.27,In Stock
+Clothing,2557.57,2.69,9.43,Out of Stock
+Electronics,9897.1,2.18,17.42,Out of Stock
+Furniture,3049.53,1.07,6.99,Out of Stock
+Food,229.04,4.38,16.97,In Stock
+Electronics,5387.43,1.65,7.76,Out of Stock
+Clothing,964.01,4.38,23.72,In Stock
+Furniture,4121.18,2.7,1.36,Out of Stock
+Food,146.7,3.48,25.79,In Stock
+Clothing,2811.53,4.48,20.03,In Stock
+Clothing,1181.12,3.65,37.48,In Stock
+Electronics,9966.86,1.53,0.99,Out of Stock
+,,4.5,43.09,In Stock
+Clothing,2196.16,,28.0,Out of Stock
+Electronics,9569.07,4.87,16.94,Out of Stock
+Furniture,6717.1,1.69,8.22,Out of Stock
+Clothing,1632.54,4.63,9.5,In Stock
+Furniture,6092.88,3.63,1.42,Out of Stock
+Furniture,6849.17,2.36,9.34,Out of Stock
+Electronics,5790.66,4.44,8.95,In Stock
+,737.77,3.94,8.25,Out of Stock
+Clothing,854.57,2.01,,In Stock
+Furniture,4285.88,2.37,8.84,Out of Stock
+Electronics,6378.43,1.7,15.49,Out of Stock
+Food,760.09,3.2,4.67,In Stock
+Food,770.01,3.08,29.33,In Stock
+Clothing,511.61,4.62,18.83,In Stock
+Electronics,9692.94,2.27,13.09,Out of Stock
+Food,110.02,3.48,23.21,Out of Stock
+Food,446.51,4.86,12.86,Out of Stock
+Clothing,2674.53,3.35,49.07,Out of Stock
+Food,769.88,3.66,26.58,In Stock
+Clothing,2619.03,2.63,33.09,Out of Stock
+Food,104.51,4.67,5.24,In Stock
+Electronics,5354.07,2.6,11.54,Out of Stock
+Furniture,13259.0,4.41,,In Stock
+Clothing,651.12,4.25,30.43,In Stock
+Clothing,1619.73,2.93,27.61,Out of Stock
+Electronics,6693.4,,10.88,Out of Stock
+Electronics,9384.24,3.17,,Out of Stock
+Food,688.32,4.11,6.21,In Stock
+Clothing,2058.77,3.07,43.0,In Stock
+,8439.6,3.54,1.43,Out of Stock
+Electronics,6980.12,4.93,16.17,In Stock
+Clothing,899.85,2.83,19.84,In Stock
+Clothing,2125.91,4.27,38.73,In Stock
+Electronics,7549.37,4.24,8.74,In Stock
+Electronics,5619.4,3.26,19.05,Out of Stock
+Clothing,2482.48,3.74,34.11,In Stock
+Clothing,2826.41,3.29,19.91,In Stock
+Clothing,2943.1,4.59,19.54,In Stock
+Food,397.84,3.83,4.47,In Stock
+Food,768.36,3.81,26.26,In Stock
+Electronics,5946.78,3.19,0.48,Out of Stock
+Clothing,2410.55,3.74,33.15,In Stock
+Furniture,3620.65,1.74,1.11,Out of Stock
+Food,266.69,4.25,16.99,In Stock
+Food,509.11,4.1,8.19,In Stock
+,1111.27,2.41,43.21,In Stock
+Furniture,10397.75,1.65,2.66,Out of Stock
+Furniture,13476.43,3.6,9.89,Out of Stock
+,355.15,3.52,29.38,In Stock
+Furniture,12566.87,2.06,12.71,Out of Stock
+,8794.66,2.19,8.53,Out of Stock
+Electronics,5929.77,1.44,14.46,Out of Stock
+Furniture,6210.14,3.87,14.93,In Stock
+Furniture,3919.44,2.66,12.03,Out of Stock
+Electronics,8944.75,4.04,6.98,In Stock
+Clothing,1634.63,,48.83,In Stock
+Electronics,6637.74,4.69,5.39,Out of Stock
+Clothing,2972.69,4.01,25.86,In Stock
+Furniture,10360.69,1.95,4.11,Out of Stock
+Food,135.17,3.23,10.43,In Stock
+Clothing,2407.14,3.82,9.62,Out of Stock
+Clothing,2630.59,3.8,48.24,In Stock
+,8350.93,1.7,9.48,In Stock
+Clothing,2121.24,2.08,5.67,In Stock
+Food,147.05,3.5,12.89,In Stock
+Furniture,8849.29,1.48,10.1,In Stock
+Furniture,10153.66,2.03,0.2,Out of Stock
+Electronics,5388.24,2.57,3.08,Out of Stock
+Furniture,7521.84,3.2,8.21,Out of Stock
+Furniture,5774.11,2.2,9.21,Out of Stock
+Furniture,13330.26,3.64,8.3,Out of Stock
+Clothing,1405.73,3.1,44.57,In Stock
+Clothing,598.11,4.96,34.9,In Stock
+Clothing,2202.84,2.11,32.25,In Stock
+Electronics,7423.89,1.42,5.56,In Stock
+Electronics,9451.57,3.2,8.27,In Stock
+Electronics,,3.86,14.06,In Stock
+Clothing,2035.11,,24.52,In Stock
+,494.95,3.47,28.24,In Stock
+Clothing,1971.99,2.93,25.24,Out of Stock
+Electronics,9028.42,1.65,5.86,Out of Stock
+Furniture,11154.1,2.1,11.89,Out of Stock
+,4565.44,3.67,1.03,Out of Stock
+Furniture,3151.11,4.14,8.72,Out of Stock
+,7221.92,1.81,9.25,Out of Stock
+Food,431.75,4.98,29.5,In Stock
+Furniture,10620.29,2.55,7.37,Out of Stock
+Electronics,8412.4,1.41,6.57,Out of Stock
+Clothing,688.18,2.22,13.81,In Stock
+Electronics,7426.27,,9.71,In Stock
+Electronics,6677.38,1.33,11.01,Out of Stock
+Electronics,6356.34,3.46,19.54,Out of Stock
+Food,133.49,3.42,14.19,In Stock
+Furniture,14623.37,3.7,13.47,Out of Stock
+,300.29,4.98,3.08,In Stock
+Electronics,5264.86,4.42,18.55,In Stock
+Furniture,4087.02,1.4,0.5,Out of Stock
+Food,,3.42,29.1,In Stock
+Clothing,2169.65,,39.93,In Stock
+Food,451.31,4.59,17.87,In Stock
+Clothing,,3.68,29.01,In Stock
+Clothing,2558.63,4.95,23.5,In Stock
+Furniture,12160.69,1.35,11.65,Out of Stock
+Clothing,1428.54,2.12,21.35,In Stock
+Clothing,,2.36,46.58,In Stock
+Furniture,3932.07,4.26,10.61,In Stock
+,297.28,3.78,22.22,In Stock
+Electronics,8007.36,,7.78,Out of Stock
+Electronics,7439.07,4.96,4.28,In Stock
+Electronics,,2.17,15.3,In Stock
+Food,623.01,3.58,2.44,In Stock
+Clothing,528.58,3.28,23.47,In Stock
+Electronics,9941.95,2.88,5.13,Out of Stock
+Furniture,13694.75,2.72,8.99,Out of Stock
+Food,121.75,3.77,28.33,In Stock
+Electronics,7947.53,2.38,12.51,Out of Stock
+Food,732.81,3.55,15.15,In Stock
+Food,769.02,3.34,21.59,In Stock
+Electronics,8072.41,3.72,7.02,Out of Stock
+Clothing,1284.7,4.05,14.7,In Stock
+Furniture,8035.86,1.66,0.12,Out of Stock
+Clothing,2925.14,3.3,48.62,In Stock
+Food,155.24,4.17,6.03,In Stock
+Clothing,2475.19,4.35,10.07,In Stock
+Electronics,9560.32,1.78,12.26,Out of Stock
+Electronics,9928.17,4.53,19.13,Out of Stock
+Clothing,1356.5,2.32,13.48,Out of Stock
+Electronics,7502.47,4.17,3.0,Out of Stock
+Electronics,8298.66,2.29,6.82,Out of Stock
+Furniture,,2.63,,Out of Stock
+Furniture,4871.02,3.76,0.96,In Stock
+Furniture,5328.65,3.3,12.82,Out of Stock
+Furniture,6032.16,2.15,8.06,Out of Stock
+Electronics,6057.86,4.24,15.47,In Stock
+Furniture,4743.5,2.62,11.62,Out of Stock
+Electronics,6686.65,,1.0,Out of Stock
+Furniture,10304.27,1.53,12.46,Out of Stock
+Furniture,7265.39,1.99,12.61,Out of Stock
+Food,87.61,3.79,11.1,In Stock
+Furniture,6417.6,4.19,11.26,Out of Stock
+Food,,4.43,15.82,In Stock
+Clothing,2752.17,2.94,30.84,Out of Stock
+Clothing,1751.89,3.47,25.52,In Stock
+Food,204.22,4.51,13.54,In Stock
+Electronics,9792.58,2.04,13.65,Out of Stock
+Food,755.54,,26.14,In Stock
+Furniture,12929.77,2.26,,Out of Stock
+Electronics,5781.31,3.14,4.61,Out of Stock
+Furniture,11924.84,2.85,6.17,Out of Stock
+Furniture,6225.57,4.5,1.08,Out of Stock
+Furniture,3522.73,1.76,14.57,Out of Stock
+Furniture,14750.86,3.29,13.2,Out of Stock
+Food,210.47,4.94,4.28,In Stock
+Furniture,4213.5,,8.6,Out of Stock
+Furniture,12371.69,2.28,14.67,Out of Stock
+Electronics,7172.1,1.6,9.32,Out of Stock
+Clothing,2197.59,4.5,25.64,In Stock
+Food,495.21,3.53,19.38,In Stock
+Electronics,9929.86,1.2,17.73,Out of Stock
+Food,471.71,3.5,28.65,In Stock
+Food,412.52,3.66,5.44,In Stock
+Electronics,6222.26,4.33,12.29,In Stock
+Food,734.93,3.46,3.63,In Stock
+Furniture,3073.05,2.78,14.97,In Stock
+Clothing,2237.41,2.93,44.46,In Stock
+Electronics,8908.61,1.06,16.34,In Stock
+Electronics,6502.63,1.6,4.53,Out of Stock
+Clothing,1671.45,3.27,18.0,In Stock
+Furniture,,3.67,14.85,Out of Stock
+Electronics,8888.96,2.18,4.9,Out of Stock
+Food,213.25,3.27,16.54,In Stock
+Electronics,8027.0,3.82,13.6,Out of Stock
+Clothing,1230.83,2.99,35.67,In Stock
+Furniture,7193.37,,5.62,Out of Stock
+Food,254.06,3.18,24.9,In Stock
+Electronics,9265.56,1.88,1.3,Out of Stock
+Clothing,2347.07,2.63,22.7,Out of Stock
+Electronics,5320.68,1.91,15.86,Out of Stock
+Clothing,2510.99,2.62,20.12,Out of Stock
+Food,,3.15,29.77,In Stock
+Electronics,8277.97,3.17,,In Stock
+Clothing,2600.19,4.42,,In Stock
+Clothing,967.02,3.96,21.91,In Stock
+Furniture,14789.79,3.33,14.35,Out of Stock
+Furniture,5417.36,4.02,4.82,In Stock
+Electronics,9947.82,1.63,10.33,Out of Stock
+Furniture,12514.13,2.51,7.02,Out of Stock
+Clothing,2965.89,3.28,32.18,In Stock
+Clothing,636.35,4.53,34.17,In Stock
+Furniture,7848.24,1.06,8.88,Out of Stock
+Furniture,3151.89,,9.24,Out of Stock
+Furniture,5268.2,1.67,9.8,Out of Stock
+Food,90.27,3.63,4.48,In Stock
+Clothing,1950.44,3.99,37.45,In Stock
+Furniture,6062.77,1.31,1.18,Out of Stock
+Clothing,1565.38,4.84,14.8,In Stock
+Food,242.56,3.2,18.17,Out of Stock
+Clothing,2199.68,3.93,43.75,In Stock
+Food,414.82,3.27,8.68,Out of Stock
+Electronics,8312.15,3.45,10.62,In Stock
+Electronics,8414.82,3.55,17.63,In Stock
+Furniture,10032.2,3.73,3.73,Out of Stock
+,8390.91,4.61,7.71,In Stock
+Food,634.33,4.45,1.79,In Stock
+Electronics,7907.54,1.52,19.35,In Stock
+Electronics,9057.04,1.44,2.44,Out of Stock
+,7972.37,2.38,,Out of Stock
+Electronics,7708.21,2.55,2.02,Out of Stock
+Furniture,12623.04,4.2,11.35,Out of Stock
+Clothing,2556.06,2.65,16.86,In Stock
+Furniture,5502.33,3.68,14.22,In Stock
+Food,587.63,4.76,19.16,In Stock
+Clothing,1469.15,3.28,8.39,In Stock
+Food,73.59,4.39,13.15,In Stock
+Food,,4.12,8.32,In Stock
+Furniture,8710.71,2.65,5.83,Out of Stock
+Clothing,2551.69,3.35,32.16,In Stock
+Clothing,2738.8,4.6,45.07,In Stock
+Furniture,,1.12,3.92,In Stock
+Furniture,6344.49,4.18,9.74,In Stock
+Furniture,3980.45,1.47,2.34,Out of Stock
+Clothing,2076.05,4.21,43.68,In Stock
+,14287.64,1.71,4.65,Out of Stock
+Clothing,1100.81,3.08,46.16,In Stock
+Clothing,1937.78,4.21,27.06,In Stock
+Electronics,5144.29,1.26,10.76,Out of Stock
+Food,,3.43,21.66,In Stock
+,9053.33,,14.93,In Stock
+Clothing,1510.07,4.04,39.38,In Stock
+Furniture,14903.12,2.21,,Out of Stock
+Electronics,5828.1,1.82,13.87,Out of Stock
+Electronics,9585.23,2.58,3.6,Out of Stock
+,6425.5,2.82,5.81,Out of Stock
+Furniture,5802.95,3.58,0.12,Out of Stock
+Food,454.42,4.59,7.99,In Stock
+,2008.23,4.01,34.48,In Stock
+Furniture,8350.2,2.21,12.54,Out of Stock
+,12101.35,2.12,1.55,Out of Stock
+Clothing,679.52,2.28,31.23,In Stock
+Food,88.75,,22.6,In Stock
+Furniture,6532.18,,11.18,Out of Stock
+Food,234.37,,22.43,In Stock
+Electronics,6987.27,1.84,10.43,Out of Stock
+Furniture,14056.77,3.24,2.59,Out of Stock
+Food,562.07,3.85,17.75,In Stock
+Clothing,2335.16,3.54,41.63,In Stock
+Clothing,2305.39,3.85,11.79,In Stock
+Electronics,9179.75,4.74,2.74,Out of Stock
+Electronics,7441.21,2.04,15.09,In Stock
+Furniture,11659.56,,13.16,Out of Stock
+Electronics,5904.87,4.19,9.14,Out of Stock
+Clothing,1320.68,2.47,12.54,In Stock
+Food,546.42,4.1,3.66,In Stock
+Electronics,5563.49,1.29,14.88,Out of Stock
+Furniture,11542.59,1.2,8.4,Out of Stock
+Electronics,5423.38,,18.14,Out of Stock
+Clothing,2245.58,4.78,41.52,In Stock
+Clothing,2571.35,3.71,18.77,In Stock
+Electronics,6089.0,2.31,12.57,Out of Stock
+Electronics,5863.28,2.03,9.36,Out of Stock
+,224.79,4.18,27.7,Out of Stock
+Furniture,11977.07,3.33,8.74,Out of Stock
+Electronics,7439.74,1.75,,Out of Stock
+Food,236.4,3.18,22.5,In Stock
+Food,181.71,3.74,0.85,In Stock
+,4644.82,1.61,0.82,Out of Stock
+Clothing,2141.64,4.51,21.8,In Stock
+Clothing,2686.44,2.64,19.64,Out of Stock
+Clothing,876.84,3.86,23.89,In Stock
+Food,509.96,4.52,16.37,In Stock
+Furniture,10531.56,4.27,4.49,Out of Stock
+Electronics,6795.82,3.87,12.23,In Stock
+Clothing,946.33,3.13,26.05,In Stock
+Furniture,8032.68,1.62,13.87,Out of Stock
+Furniture,12147.83,2.68,10.2,Out of Stock
+Furniture,13767.39,1.48,3.76,Out of Stock
+Furniture,9512.41,3.8,,In Stock
+Clothing,2960.05,3.36,21.17,In Stock
+Food,269.54,3.35,23.75,In Stock
+Food,766.56,3.83,,In Stock
+Electronics,9118.99,2.92,13.48,Out of Stock
+Food,376.24,4.12,1.74,In Stock
+Food,572.2,3.11,24.51,In Stock
+Electronics,9124.73,1.95,6.47,Out of Stock
+Furniture,,,4.31,Out of Stock
+Food,494.36,3.6,1.66,In Stock
+Furniture,3030.33,1.35,11.88,In Stock
+Electronics,9807.16,2.71,,Out of Stock
+Clothing,867.12,,11.51,In Stock
+Food,508.41,4.87,5.87,In Stock
+Clothing,2411.41,,21.9,In Stock
+Food,133.06,3.7,5.21,In Stock
+,7479.66,2.46,4.51,Out of Stock
+Electronics,8283.11,4.68,8.01,Out of Stock
+Food,194.26,3.54,25.62,In Stock
+Food,478.73,3.91,4.49,In Stock
+,1624.32,2.84,47.44,In Stock
+Furniture,13608.84,1.29,7.75,Out of Stock
+Furniture,5700.7,2.44,13.15,Out of Stock
+Food,445.64,3.67,6.24,In Stock
+Food,650.24,4.25,14.04,In Stock
+Clothing,1043.71,3.0,48.19,In Stock
+Furniture,9241.08,2.4,7.82,Out of Stock
+Food,634.24,3.68,5.36,In Stock
+Food,488.7,4.33,21.38,In Stock
+Furniture,13583.85,2.3,1.13,Out of Stock
+Clothing,2895.87,3.31,33.05,In Stock
+Furniture,10995.66,2.91,3.08,Out of Stock
+Electronics,8775.72,4.22,11.06,Out of Stock
+Clothing,1721.4,2.34,8.78,In Stock
+Clothing,1348.91,2.93,47.91,In Stock
+Furniture,12403.47,3.31,7.76,Out of Stock
+Furniture,5008.41,4.42,5.63,Out of Stock
+,130.19,3.99,26.22,In Stock
+Food,715.47,3.02,26.59,In Stock
+,253.61,3.08,25.43,In Stock
+Furniture,13366.4,3.09,8.62,Out of Stock
+Clothing,2532.8,4.36,45.05,In Stock
+Clothing,1881.87,4.9,49.83,In Stock
+Electronics,5582.72,4.4,10.0,In Stock
+Furniture,7650.8,3.15,0.84,Out of Stock
+Food,429.85,4.74,6.4,In Stock
+Clothing,1565.97,4.82,24.29,In Stock
+Electronics,6791.84,2.76,10.39,Out of Stock
+Furniture,10583.9,3.8,6.78,Out of Stock
+Electronics,9087.4,3.13,6.77,Out of Stock
+Food,543.46,4.44,16.74,In Stock
+Furniture,3679.38,1.59,4.28,In Stock
+Clothing,1206.56,4.02,5.83,In Stock
+Electronics,8778.41,2.06,6.2,Out of Stock
+Food,445.93,3.43,26.53,In Stock
+Furniture,4024.43,2.56,12.74,Out of Stock
+Food,511.88,3.58,12.62,In Stock
+,11480.33,,13.4,Out of Stock
+Electronics,6712.16,4.99,0.07,Out of Stock
+Food,70.72,4.65,5.98,In Stock
+Food,95.58,3.47,12.78,In Stock
+Furniture,11766.8,3.19,3.56,In Stock
+Electronics,7516.35,4.7,16.3,In Stock
+Furniture,6878.28,4.44,10.63,In Stock
+Food,96.84,3.07,5.05,In Stock
+Clothing,,2.55,28.02,In Stock
+Electronics,5466.3,4.68,6.88,Out of Stock
+Furniture,13897.58,4.31,0.09,In Stock
+Electronics,7320.68,1.1,18.17,In Stock
+Clothing,1796.02,2.22,9.96,In Stock
+Clothing,1458.77,4.82,36.18,In Stock
+Furniture,13411.43,2.28,0.65,Out of Stock
+Food,780.74,3.03,28.43,In Stock
+Furniture,7424.13,1.04,10.34,Out of Stock
+Clothing,2951.35,4.9,12.24,In Stock
+Food,185.94,4.13,19.12,In Stock
+,604.56,3.36,28.77,In Stock
+Furniture,10664.87,3.96,8.1,Out of Stock
+Furniture,7971.32,4.42,8.73,Out of Stock
+Electronics,9334.37,4.81,,Out of Stock
+Food,461.7,3.01,1.2,In Stock
+Electronics,6004.26,1.74,5.1,In Stock
+Food,278.7,3.72,12.62,In Stock
+Clothing,747.17,2.13,35.33,In Stock
+Clothing,1843.34,3.33,33.55,In Stock
+Clothing,2569.2,3.28,33.85,In Stock
+Food,765.18,4.68,12.78,In Stock
+Clothing,2111.79,2.53,30.22,In Stock
+Food,786.0,4.04,27.83,In Stock
+Clothing,1518.34,5.0,31.06,In Stock
+Electronics,5211.34,3.35,5.49,In Stock
+Furniture,3389.78,3.87,4.14,In Stock
+Clothing,2491.37,2.86,13.74,In Stock
+Clothing,2934.84,3.08,32.06,In Stock
+Food,507.49,4.12,27.44,In Stock
+Clothing,2186.1,3.21,43.81,In Stock
+Electronics,5905.31,3.18,19.01,In Stock
+Clothing,2063.49,4.45,34.41,In Stock
+Furniture,13072.45,4.31,4.09,Out of Stock
+Food,177.25,3.97,21.06,In Stock
+Food,220.39,3.01,10.29,In Stock
+Food,776.64,,12.04,In Stock
+Electronics,5962.88,2.42,3.4,Out of Stock
+Clothing,765.76,4.72,49.89,In Stock
+Furniture,4969.37,1.19,4.95,Out of Stock
+Electronics,7308.3,1.82,6.03,Out of Stock
+Clothing,1002.18,4.32,37.07,In Stock
+Clothing,2087.38,3.16,45.91,In Stock
+Clothing,2923.83,2.52,15.04,In Stock
+Furniture,9307.57,1.32,6.55,Out of Stock
+,7908.96,3.09,6.62,Out of Stock
+Food,456.83,4.92,6.18,In Stock
+Electronics,8274.16,1.17,1.33,Out of Stock
+Furniture,9621.94,1.37,0.34,Out of Stock
+Electronics,5857.56,3.26,14.07,In Stock
+Clothing,1006.2,,13.21,In Stock
+Food,510.09,3.82,19.61,In Stock
+Food,796.29,4.88,0.13,In Stock
+Clothing,2713.6,2.2,47.89,In Stock
+Clothing,1204.56,3.15,9.12,In Stock
+Clothing,780.68,,47.49,In Stock
+Clothing,2026.87,4.15,39.29,In Stock
+Electronics,6314.07,1.18,0.04,Out of Stock
+Clothing,1376.62,2.72,7.8,In Stock
+Clothing,948.82,2.37,46.17,Out of Stock
+Clothing,850.67,3.61,31.69,In Stock
+Food,457.62,3.2,9.56,In Stock
+Furniture,3615.24,2.38,2.83,Out of Stock
+,471.22,4.39,15.96,In Stock
+,7171.18,2.55,16.83,In Stock
+Electronics,6096.84,3.94,,In Stock
+Furniture,8030.4,,7.06,Out of Stock
+Clothing,733.03,2.14,10.02,In Stock
+Electronics,5935.73,3.02,16.98,Out of Stock
+Food,226.73,4.87,28.65,In Stock
+Food,769.18,4.68,10.91,In Stock
+Food,104.51,4.14,16.76,In Stock
+Clothing,2624.94,4.99,27.87,In Stock
+Electronics,6726.02,1.74,0.1,In Stock
+Furniture,9109.36,2.94,12.37,Out of Stock
+,1761.44,4.75,33.26,In Stock
+Food,680.25,3.3,25.66,In Stock
+Food,556.36,3.34,5.69,In Stock
+Food,744.88,3.06,13.88,In Stock
+Clothing,1283.69,4.0,42.78,In Stock
+,1400.95,3.28,49.19,In Stock
+Food,637.94,4.79,13.16,In Stock
+Furniture,5808.91,2.44,10.74,Out of Stock
+Furniture,4313.16,1.95,0.7,Out of Stock
+Electronics,7161.74,4.31,0.49,In Stock
+Electronics,8376.62,4.73,4.74,In Stock
+Furniture,11323.62,4.41,14.43,Out of Stock
+Food,226.2,3.2,4.45,In Stock
+Furniture,11424.43,3.54,10.11,Out of Stock
+Electronics,6680.39,1.68,11.62,Out of Stock
+Food,412.76,4.46,13.24,In Stock
+Food,303.98,3.59,6.34,In Stock
+Food,249.31,3.19,10.41,In Stock
+Clothing,591.42,2.56,38.6,In Stock
+Electronics,6627.34,3.67,14.34,Out of Stock
+Food,485.89,4.92,0.64,In Stock
+Clothing,2346.63,4.88,43.8,In Stock
+Clothing,919.73,2.98,12.76,In Stock
+Furniture,10215.7,3.49,4.76,Out of Stock
+Clothing,1848.77,4.07,23.96,In Stock
+Furniture,13248.19,3.7,0.97,Out of Stock
+,8105.63,1.94,11.15,Out of Stock
+Food,767.67,4.76,12.14,In Stock
+Furniture,6498.17,1.82,7.99,Out of Stock
+Electronics,5571.24,3.2,0.03,Out of Stock
+Electronics,6619.25,1.88,19.42,In Stock
+Clothing,2318.11,3.05,9.18,In Stock
+Electronics,7584.0,1.85,10.73,Out of Stock
+Food,676.52,4.23,19.01,In Stock
+Furniture,,4.25,13.98,Out of Stock
+Clothing,1781.81,,25.68,In Stock
+Clothing,966.39,3.91,27.5,In Stock
+,758.25,2.59,26.58,In Stock
+Food,715.69,4.13,20.45,In Stock
+Electronics,6695.14,,,In Stock
+Food,544.35,3.1,14.8,Out of Stock
+,271.99,3.65,28.83,In Stock
+Food,187.02,3.62,15.3,In Stock
+Electronics,9315.13,2.67,14.88,Out of Stock
+Food,692.28,,11.78,In Stock
+Electronics,6782.78,4.33,,In Stock
+Electronics,6542.11,3.72,11.31,In Stock
+Furniture,8235.47,2.89,2.96,Out of Stock
+Food,373.04,4.0,27.04,In Stock
+Electronics,6304.18,4.47,12.88,In Stock
+Electronics,5101.7,3.9,0.71,Out of Stock
+Electronics,9986.91,4.49,5.95,Out of Stock
+Clothing,1143.53,3.14,21.03,In Stock
+Electronics,6861.69,2.27,12.42,In Stock
+Electronics,5821.32,4.38,16.25,In Stock
+,1691.21,4.56,16.12,Out of Stock
+Food,63.17,4.24,13.74,In Stock
+Food,475.37,4.8,29.1,In Stock
+Food,525.84,4.53,2.51,In Stock
+Electronics,5803.58,3.93,8.63,In Stock
+Furniture,8351.58,2.08,9.11,Out of Stock
+Furniture,5221.98,3.19,2.61,Out of Stock
+Furniture,3765.91,2.16,3.47,Out of Stock
+Furniture,13667.9,1.19,2.65,Out of Stock
+Furniture,9584.64,2.68,0.69,Out of Stock
+Food,55.44,4.98,19.77,In Stock
+Electronics,6827.03,2.88,5.33,Out of Stock
+Food,308.66,4.3,26.48,In Stock
+Food,188.1,4.68,3.65,In Stock
+Food,211.24,3.07,4.22,In Stock
+Food,737.98,3.92,2.33,In Stock
+Electronics,9798.63,,15.09,Out of Stock
+Clothing,2833.68,2.66,42.64,Out of Stock
+Furniture,11279.89,,11.95,Out of Stock
+Food,309.87,,7.87,In Stock
+Food,296.44,3.22,28.05,In Stock
+Clothing,1227.51,3.56,22.61,In Stock
+Clothing,2899.82,3.01,40.03,In Stock
+Furniture,13264.99,2.52,5.67,Out of Stock
+Food,610.81,4.83,22.65,In Stock
+Furniture,5725.52,4.11,5.81,In Stock
+Clothing,1940.57,4.49,13.48,In Stock
+Food,638.38,4.19,26.8,In Stock
+Electronics,5859.85,,16.66,Out of Stock
+Food,64.42,3.22,29.72,In Stock
+Clothing,1200.99,4.93,13.21,In Stock
+Clothing,1402.74,4.26,34.6,In Stock
+Food,485.84,4.06,25.3,In Stock
+Furniture,5819.38,2.55,2.33,Out of Stock
+Electronics,7979.71,2.0,6.68,In Stock
+Furniture,8655.01,1.09,1.38,Out of Stock
+Clothing,2214.82,3.29,43.92,In Stock
+Clothing,2236.68,2.02,32.75,In Stock
+Electronics,5468.62,4.12,19.83,In Stock
+Clothing,1828.0,4.05,15.68,In Stock
+Food,378.2,4.71,5.02,In Stock
+Electronics,6327.68,2.78,14.24,Out of Stock
+Clothing,1439.71,4.78,9.25,In Stock
+Furniture,7449.65,3.48,3.39,In Stock
+Electronics,8282.07,1.66,1.12,Out of Stock
+Furniture,4452.19,4.25,8.28,In Stock
+Clothing,2490.86,3.0,31.67,In Stock
+Food,421.21,4.89,22.43,In Stock
+Clothing,2326.36,2.14,29.74,Out of Stock
+Electronics,7334.96,4.71,5.15,In Stock
+,6349.17,2.65,4.87,Out of Stock
+Electronics,5645.92,4.43,11.17,In Stock
+Electronics,9306.81,4.32,5.64,In Stock
+,460.8,3.17,27.46,In Stock
+Furniture,7851.15,2.38,4.54,In Stock
+Furniture,8527.96,1.88,5.62,Out of Stock
+Food,649.96,4.67,9.13,In Stock
+Electronics,7345.07,4.5,1.05,Out of Stock
+Clothing,2722.86,2.66,35.53,In Stock
+Clothing,1956.38,3.66,43.67,In Stock
+Electronics,5507.86,2.39,10.77,Out of Stock
+Food,658.47,3.43,24.09,In Stock
+Food,349.73,3.38,22.77,In Stock
+Clothing,727.25,3.54,7.87,In Stock
+Clothing,1391.04,3.8,30.03,In Stock
+Furniture,7855.87,2.5,3.4,Out of Stock
+Furniture,8470.59,4.34,12.76,Out of Stock
+Clothing,,2.09,47.01,In Stock
+Furniture,9321.0,2.88,11.71,Out of Stock
+Furniture,6776.27,2.69,14.53,Out of Stock
+Clothing,2180.37,2.46,11.0,In Stock
+Clothing,1010.66,4.3,18.29,In Stock
+Food,66.04,4.89,5.09,Out of Stock
+Furniture,3114.7,1.83,3.53,Out of Stock
+Furniture,8064.06,4.22,13.19,Out of Stock
+Electronics,,2.64,11.1,Out of Stock
+Clothing,,2.16,47.27,In Stock
+Food,190.02,,14.17,In Stock
+Food,418.71,3.04,4.44,In Stock
+Electronics,6890.77,3.73,4.57,Out of Stock
+Furniture,8076.17,2.95,13.33,In Stock
+Food,294.55,3.27,14.68,In Stock
+Furniture,11960.66,1.38,6.37,Out of Stock
+,3213.42,1.12,7.24,Out of Stock
+Food,273.65,4.69,18.06,Out of Stock
+Clothing,1634.83,3.22,27.38,In Stock
+Food,80.33,4.79,29.95,In Stock
+Electronics,5907.44,1.48,2.87,In Stock
+Food,,4.32,25.44,In Stock
+Electronics,8759.13,2.8,12.26,Out of Stock
+Food,566.21,4.03,14.27,In Stock
+Electronics,8225.49,3.23,12.88,Out of Stock
+Electronics,8064.27,3.88,12.86,In Stock
+Electronics,7598.71,3.73,8.99,Out of Stock
+Electronics,6208.36,1.01,11.2,Out of Stock
+Food,492.99,4.94,10.84,In Stock
+Food,345.6,3.4,2.12,In Stock
+Food,629.6,3.5,18.27,In Stock
+Electronics,8438.87,2.88,17.53,Out of Stock
+Electronics,7218.97,2.14,17.92,Out of Stock
+Electronics,9307.82,1.66,0.52,Out of Stock
+Electronics,5449.93,2.15,19.45,In Stock
+Furniture,9702.19,2.31,13.33,Out of Stock
+Electronics,,2.26,18.82,Out of Stock
+Clothing,2623.79,4.53,28.05,In Stock
+Electronics,8947.19,1.72,11.46,Out of Stock
+Electronics,9919.23,,15.89,Out of Stock
+Food,417.86,3.08,22.89,In Stock
+Food,176.43,4.26,2.57,In Stock
+Electronics,9734.34,2.17,4.53,Out of Stock
+Electronics,5645.68,4.78,14.24,In Stock
+Clothing,2354.15,3.5,26.36,In Stock
+Electronics,5550.11,3.24,4.94,Out of Stock
+Electronics,9885.73,4.19,8.26,Out of Stock
+Furniture,4816.1,3.75,1.83,In Stock
+Food,192.0,3.42,16.71,In Stock
+Food,640.29,3.63,2.54,Out of Stock
+Clothing,1661.35,4.24,14.97,In Stock
+Clothing,1049.81,4.84,47.94,In Stock
+Food,792.85,4.62,5.65,In Stock
+Food,208.99,3.68,9.54,In Stock
+Food,767.4,4.58,21.72,Out of Stock
+Electronics,,4.64,16.56,Out of Stock
+Food,172.73,4.74,8.17,In Stock
+Clothing,702.17,3.97,34.42,In Stock
+Furniture,4139.18,2.12,14.89,Out of Stock
+Food,558.82,4.46,6.39,In Stock
+Food,109.09,3.55,7.47,In Stock
+Electronics,6172.72,1.77,11.5,Out of Stock
+,296.08,4.64,5.52,In Stock
+Electronics,,1.05,9.63,Out of Stock
+Clothing,639.6,4.93,40.58,In Stock
+Electronics,7450.56,,11.85,Out of Stock
+Food,619.07,3.38,17.05,In Stock
+Electronics,9071.05,4.07,16.06,In Stock
+Clothing,2698.31,4.81,23.25,In Stock
+Furniture,9825.23,3.77,10.46,In Stock
+Electronics,9977.6,1.05,7.1,Out of Stock
+Food,260.77,,6.68,Out of Stock
+Clothing,2272.81,2.25,38.37,In Stock
+Electronics,8467.13,2.0,5.06,In Stock
+Furniture,10546.33,3.67,13.15,Out of Stock
+Electronics,9260.7,4.86,11.63,Out of Stock
+Clothing,2771.64,4.43,45.26,In Stock
+Food,58.72,4.93,14.21,In Stock
+Food,648.64,3.25,11.88,In Stock
+Food,253.6,3.58,3.7,In Stock
+Clothing,2514.41,2.03,19.06,In Stock
+Electronics,5872.05,3.36,5.09,Out of Stock
+Food,244.25,3.98,19.58,In Stock
+Food,140.98,3.35,7.42,In Stock
+,14684.98,,,Out of Stock
+Furniture,5898.51,2.72,1.11,Out of Stock
+Furniture,3416.91,,5.98,Out of Stock
+Clothing,842.2,4.06,49.68,In Stock
+Clothing,1489.12,3.87,48.33,In Stock
+Furniture,12978.42,2.62,11.06,Out of Stock
+Clothing,820.34,3.54,17.56,In Stock
+Electronics,5805.82,2.71,2.62,Out of Stock
+Furniture,11387.82,2.6,7.97,Out of Stock
+Furniture,4756.51,1.49,8.75,Out of Stock
+Clothing,2962.52,2.29,17.86,In Stock
+Electronics,9347.3,1.29,,Out of Stock
+Clothing,1810.71,3.22,18.94,In Stock
+Furniture,6565.41,2.07,13.27,Out of Stock
+Furniture,11685.54,3.34,11.98,Out of Stock
+Electronics,6285.57,3.47,9.2,Out of Stock
+Electronics,8912.21,2.24,12.86,Out of Stock
+Furniture,13586.55,2.41,1.0,Out of Stock
+Clothing,1790.13,3.04,35.25,In Stock
+Food,763.27,3.97,13.99,In Stock
+Furniture,10855.02,1.36,3.8,Out of Stock
+Electronics,9594.9,3.68,0.27,In Stock
+Food,203.47,4.37,22.93,In Stock
+,9199.3,2.17,18.62,Out of Stock
+Clothing,1882.37,4.09,31.85,In Stock
+Furniture,4472.88,4.37,1.84,Out of Stock
+Clothing,1137.2,4.44,32.84,In Stock
+Furniture,13057.79,2.81,5.65,Out of Stock
+Food,741.38,3.07,25.68,Out of Stock
+Clothing,1077.04,4.55,11.26,In Stock
+Electronics,7901.09,4.55,9.47,Out of Stock
+Clothing,2366.42,4.41,38.14,In Stock
+Clothing,2813.32,3.34,12.79,In Stock
+Electronics,5239.06,1.99,2.86,Out of Stock
+Clothing,,2.55,6.75,Out of Stock
+Clothing,589.97,4.49,31.62,In Stock
+Food,318.56,4.79,2.11,In Stock
+Food,785.24,4.23,5.5,In Stock
+Food,559.3,4.53,12.88,In Stock
+Electronics,9308.16,1.6,5.58,Out of Stock
+Electronics,5467.46,1.84,4.77,Out of Stock
+Food,738.22,3.16,12.82,Out of Stock
+Clothing,1831.0,,49.9,In Stock
+Electronics,8766.94,4.88,15.74,Out of Stock
+Furniture,14558.43,3.48,1.2,Out of Stock
+Furniture,7823.04,3.26,5.26,Out of Stock
+Food,255.04,4.15,28.01,In Stock
+Electronics,,4.08,14.45,Out of Stock
+Furniture,14567.44,4.26,11.43,Out of Stock
+Food,440.31,3.41,16.36,In Stock
+Furniture,12184.22,4.13,,In Stock
+Furniture,5343.2,3.1,4.98,Out of Stock
+Furniture,,1.7,1.7,In Stock
+Food,682.04,3.52,8.54,In Stock
+Electronics,9799.68,2.52,0.19,In Stock
+Food,262.88,3.24,3.08,In Stock
+Food,,4.19,5.68,In Stock
+Food,320.93,4.72,12.73,In Stock
+Electronics,9578.46,2.99,7.98,Out of Stock
+Electronics,8751.94,1.29,1.79,Out of Stock
+Furniture,10823.68,2.7,11.86,Out of Stock
+Food,737.2,3.78,17.89,Out of Stock
+Furniture,9008.36,4.44,12.47,Out of Stock
+Furniture,13940.85,1.89,11.59,Out of Stock
+Food,249.1,3.42,28.33,In Stock
+Food,64.48,4.93,4.48,In Stock
+Furniture,12833.26,1.97,5.26,Out of Stock
+Food,212.57,4.17,10.44,In Stock
+Food,,3.03,1.93,In Stock
+Electronics,5498.31,2.68,16.3,Out of Stock
+,2720.44,2.73,30.85,In Stock
+Food,626.27,3.58,12.27,In Stock
+Clothing,1809.94,2.4,6.17,In Stock
+Electronics,5764.03,3.51,1.47,Out of Stock
+Clothing,974.24,3.01,,In Stock
+Electronics,5958.5,4.65,0.39,Out of Stock
+Electronics,8267.16,2.54,,In Stock
+Clothing,1971.73,2.67,43.12,In Stock
+Furniture,8903.28,3.88,6.09,In Stock
+Food,788.51,4.54,28.98,In Stock
+Electronics,7571.63,2.89,15.11,Out of Stock
+Electronics,9401.46,4.86,6.49,Out of Stock
+Food,649.03,3.42,16.37,In Stock
+,949.62,3.04,46.91,In Stock
+Furniture,4753.09,3.21,8.89,Out of Stock
+Food,140.55,3.65,16.89,In Stock
+Furniture,5246.14,3.8,14.58,In Stock
+Clothing,1036.9,2.56,25.47,Out of Stock
+Food,610.82,3.56,0.6,In Stock
+,1853.05,4.87,22.61,In Stock
+Furniture,8041.61,4.39,10.42,Out of Stock
+Food,589.38,4.13,29.24,In Stock
+Clothing,2222.17,4.69,,In Stock
+Clothing,,2.87,18.66,In Stock
+Electronics,8914.92,2.19,11.26,Out of Stock
+Food,237.01,4.63,3.32,In Stock
+,9147.23,3.41,3.74,In Stock
+Food,456.53,3.56,9.7,In Stock
+Clothing,1378.82,2.19,49.37,In Stock
+Food,73.65,4.32,11.14,In Stock
+Furniture,10752.12,2.25,10.11,Out of Stock
+Furniture,11750.83,3.42,,Out of Stock
+Furniture,10882.72,1.98,0.43,Out of Stock
+Electronics,7074.15,2.73,9.34,Out of Stock
+Electronics,8524.12,2.24,6.31,Out of Stock
+Food,95.41,4.37,17.03,In Stock
+Clothing,1373.56,4.12,29.18,In Stock
+Clothing,1673.11,3.53,33.64,In Stock
+Electronics,8300.01,2.16,2.81,Out of Stock
+,891.59,3.92,44.28,In Stock
+Electronics,7047.48,1.68,15.13,Out of Stock
+Furniture,12989.87,4.08,9.1,Out of Stock
+Electronics,9303.64,1.06,2.14,Out of Stock
+Food,119.43,4.43,2.09,In Stock
+Electronics,7481.82,2.89,6.21,Out of Stock
+Food,702.8,3.34,10.57,In Stock
+Clothing,2435.43,2.09,35.28,Out of Stock
+Furniture,12796.77,4.26,13.14,Out of Stock
+Furniture,6832.61,3.05,1.16,In Stock
+Clothing,1144.68,2.28,19.18,In Stock
+Furniture,13502.25,2.22,8.43,Out of Stock
+Furniture,8200.57,,14.54,Out of Stock
+Furniture,6553.85,3.2,6.3,Out of Stock
+Furniture,3733.75,2.71,12.2,Out of Stock
+Electronics,5493.76,1.28,3.07,Out of Stock
+Food,623.3,4.45,16.95,In Stock
+Electronics,7341.13,4.55,15.33,In Stock
+Electronics,9059.71,4.25,12.85,In Stock
+Furniture,8496.18,4.03,13.89,Out of Stock
+Clothing,559.52,2.15,48.14,In Stock
+Food,257.87,4.75,11.66,In Stock
+Furniture,4429.2,1.28,2.35,Out of Stock
+Furniture,5998.72,2.71,10.52,Out of Stock
+Furniture,14836.78,2.55,7.77,Out of Stock
+Electronics,7609.08,3.16,10.35,Out of Stock
+Electronics,5043.87,1.01,1.95,Out of Stock
+Clothing,753.89,4.11,14.22,In Stock
+Electronics,9473.57,4.71,19.52,In Stock
+Electronics,9695.41,2.09,10.2,Out of Stock
+Clothing,938.64,4.42,44.98,In Stock
+Furniture,13215.47,2.52,11.38,Out of Stock
+Food,123.18,,22.6,In Stock
+Clothing,1563.39,4.99,9.38,In Stock
+Food,691.72,3.96,24.81,In Stock
+Electronics,9085.64,4.66,5.96,In Stock
+,9749.0,1.61,1.64,Out of Stock
+Furniture,8179.39,3.9,7.1,Out of Stock
+Food,671.97,,6.28,In Stock
+Furniture,14386.58,1.21,13.47,Out of Stock
+Electronics,6522.22,3.0,8.45,In Stock
+Furniture,5062.01,2.25,2.89,Out of Stock
+Food,202.91,3.37,14.67,In Stock
+Food,648.45,4.14,26.8,In Stock
+Food,527.41,4.38,20.03,In Stock
+Furniture,8393.51,3.41,1.05,Out of Stock
+Food,694.89,4.56,,In Stock
+Food,626.02,3.03,6.52,In Stock
+Furniture,3781.65,3.73,11.34,In Stock
+Furniture,12763.63,1.02,7.52,Out of Stock
+Clothing,2262.09,2.47,34.24,In Stock
+Food,113.08,3.36,14.27,In Stock
+Clothing,,2.44,13.34,Out of Stock
+Electronics,6022.23,1.95,4.53,Out of Stock
+Food,346.36,,13.14,In Stock
+Furniture,12311.69,3.52,1.9,Out of Stock
+Furniture,3586.1,4.07,1.2,Out of Stock
+Clothing,870.85,2.07,33.28,In Stock
+Food,,4.97,26.61,In Stock
+,7054.22,2.49,5.94,In Stock
+Furniture,4828.88,,1.98,Out of Stock
+Furniture,4369.38,1.84,4.6,Out of Stock
+Food,771.18,4.16,29.63,In Stock
+Furniture,7469.6,2.6,4.87,Out of Stock
+Food,187.17,3.29,28.35,In Stock
+Food,790.11,3.09,4.51,In Stock
+Electronics,7117.62,1.75,7.28,Out of Stock
+Clothing,822.74,3.37,17.23,In Stock
+Food,313.93,3.19,12.84,In Stock
+Food,787.44,3.66,26.29,In Stock
+Clothing,2608.0,4.86,40.55,In Stock
+Furniture,10915.16,4.0,1.13,Out of Stock
+Electronics,7314.15,4.96,15.39,In Stock
+Food,771.56,4.56,26.25,In Stock
+Food,579.9,4.52,15.7,In Stock
+Food,743.18,4.65,25.32,In Stock
+Food,,3.61,1.07,In Stock
+Clothing,2839.14,3.76,18.42,In Stock
+Electronics,5745.68,4.32,16.73,Out of Stock
+Food,660.88,4.29,10.98,In Stock
+Food,,3.02,25.01,In Stock
+Electronics,5437.16,3.52,10.08,Out of Stock
+Food,445.02,4.85,0.95,In Stock
+Clothing,2433.48,2.16,6.72,Out of Stock
+Food,372.36,3.13,23.67,In Stock
+Furniture,9354.76,1.1,0.61,Out of Stock
+Electronics,8063.34,4.22,8.76,In Stock
+Electronics,7772.9,4.2,,In Stock
+,5697.12,3.15,9.42,Out of Stock
+Food,600.58,4.24,29.08,In Stock
+Food,197.97,4.9,16.15,In Stock
+Furniture,11063.47,1.35,5.71,Out of Stock
+Furniture,12232.55,3.47,0.6,In Stock
+Furniture,9559.13,1.31,14.94,Out of Stock
+Food,722.97,3.04,25.76,In Stock
+Clothing,2798.57,3.06,37.38,In Stock
+Clothing,1605.26,3.97,20.31,In Stock
+Electronics,6612.8,2.7,2.91,Out of Stock
+Food,673.35,3.7,12.0,In Stock
+Clothing,2735.14,3.49,29.49,In Stock
+Furniture,14477.98,4.1,2.54,Out of Stock
+Food,404.91,4.94,11.17,In Stock
+Food,328.68,3.39,,In Stock
+Clothing,2350.76,4.31,48.61,Out of Stock
+Electronics,8867.09,1.97,0.8,Out of Stock
+Electronics,9927.19,2.36,6.24,Out of Stock
+Clothing,2764.89,3.76,14.67,In Stock
+Electronics,9445.48,4.97,1.73,Out of Stock
+Food,,3.78,15.72,Out of Stock
+Furniture,13977.79,4.41,3.93,Out of Stock
+Furniture,5554.21,1.28,8.43,Out of Stock
+Food,60.2,3.82,2.2,In Stock
+Electronics,7026.13,1.16,16.7,In Stock
+Furniture,5516.87,2.15,13.05,Out of Stock
+Furniture,11955.19,1.77,1.08,Out of Stock
+Electronics,8578.37,2.56,15.32,Out of Stock
+Food,383.97,3.69,13.54,In Stock
+Clothing,2371.4,4.71,7.24,In Stock
+Furniture,9289.34,,7.03,Out of Stock
+Furniture,13623.39,2.27,13.99,Out of Stock
+Electronics,8153.04,4.74,15.14,In Stock
+Furniture,4241.22,1.81,5.91,Out of Stock
+Food,177.58,3.99,14.14,In Stock
+Furniture,14475.11,2.52,11.78,Out of Stock
+Clothing,2854.78,4.63,14.39,In Stock
+Furniture,8952.36,2.22,6.0,Out of Stock
+Electronics,6804.03,4.31,9.04,Out of Stock
+,1809.24,4.95,7.7,In Stock
+Electronics,7439.79,,3.02,In Stock
+Furniture,10338.38,1.84,13.01,Out of Stock
+Furniture,6925.2,2.15,8.97,Out of Stock
+Furniture,5202.75,2.0,6.25,Out of Stock
+Furniture,7243.65,2.84,8.99,Out of Stock
+Electronics,7833.34,3.62,6.15,Out of Stock
+Clothing,816.07,4.28,43.29,In Stock
+Electronics,6285.03,2.63,9.97,In Stock
+Electronics,7666.63,,0.83,Out of Stock
+Electronics,8607.39,1.25,9.37,Out of Stock
+Clothing,2569.18,3.35,11.71,In Stock
+Clothing,2962.58,4.67,39.71,In Stock
+Electronics,7057.56,1.74,18.83,Out of Stock
+,7661.76,,6.84,Out of Stock
+Electronics,6676.44,4.94,10.44,Out of Stock
+Furniture,4688.35,1.77,7.23,Out of Stock
+Furniture,3509.65,2.62,6.28,Out of Stock
+Furniture,12352.04,2.24,14.74,Out of Stock
+Clothing,951.92,,9.04,In Stock
+Clothing,2334.66,4.98,41.86,In Stock
+Furniture,9668.44,2.7,12.53,Out of Stock
+Clothing,2839.94,4.97,22.84,In Stock
+Clothing,2977.29,2.47,16.41,Out of Stock
+Electronics,5445.08,2.09,15.36,In Stock
+Electronics,9264.62,4.12,12.62,Out of Stock
+Clothing,1784.92,4.13,22.59,In Stock
+Clothing,2603.27,4.03,36.4,In Stock
+Food,,4.77,7.56,In Stock
+Electronics,6905.74,4.11,9.85,In Stock
+Electronics,9446.07,2.39,7.39,Out of Stock
+Furniture,13664.83,2.63,7.74,Out of Stock
+Electronics,6663.82,2.11,13.12,In Stock
+Clothing,799.6,,40.06,In Stock
+Furniture,5288.98,3.43,9.04,Out of Stock
+Electronics,5922.68,2.09,8.18,In Stock
+Electronics,8496.21,3.55,10.64,Out of Stock
+Clothing,2421.03,4.27,32.8,In Stock
+Clothing,2467.48,3.0,44.66,In Stock
+Food,511.18,4.64,16.39,In Stock
+Furniture,5621.26,2.9,,Out of Stock
+Electronics,8487.5,2.9,16.72,In Stock
+Food,558.55,4.37,6.51,In Stock
+Food,788.19,4.68,23.67,In Stock
+Electronics,6651.08,3.14,2.74,Out of Stock
+Food,453.86,,16.59,In Stock
+Clothing,2121.8,3.17,27.43,In Stock
+Clothing,2689.13,2.33,40.63,In Stock
+Electronics,5853.77,1.15,3.71,Out of Stock
+,2412.61,3.22,44.26,In Stock
+Clothing,1811.77,2.07,37.25,In Stock
+Furniture,4322.79,3.76,2.52,In Stock
+Electronics,6727.23,4.05,19.08,In Stock
+Clothing,1428.58,4.49,13.59,In Stock
+Clothing,2517.95,3.97,13.67,In Stock
+Food,276.88,3.26,11.49,In Stock
+Food,202.74,,29.84,In Stock
+Food,59.01,4.08,17.21,In Stock
+Furniture,13970.51,2.77,8.16,Out of Stock
+Furniture,8659.83,1.94,0.84,Out of Stock
+Clothing,1521.64,2.16,29.77,In Stock
+Food,280.47,4.07,4.03,Out of Stock
+Furniture,14191.56,4.13,2.85,Out of Stock
+Furniture,7121.33,3.15,1.44,Out of Stock
+Furniture,7254.81,1.88,13.73,Out of Stock
+Clothing,2631.28,3.74,28.42,In Stock
+Electronics,9653.63,4.73,19.39,In Stock
+Clothing,813.45,2.48,35.45,In Stock
+Food,,3.04,1.86,In Stock
+Clothing,2720.2,4.61,21.08,In Stock
+Clothing,2727.63,3.78,41.27,In Stock
+Furniture,8129.17,1.4,6.51,Out of Stock
+Clothing,1643.25,3.65,9.75,In Stock
+Furniture,14896.82,1.85,2.98,Out of Stock
+Clothing,1817.01,3.61,24.79,In Stock
+Clothing,2429.73,3.55,32.44,In Stock
+Clothing,2309.37,2.08,30.68,In Stock
+Furniture,13610.33,1.06,6.08,Out of Stock
+Electronics,9631.14,,9.17,Out of Stock
+Electronics,9907.71,1.8,1.31,Out of Stock
+Furniture,13313.07,4.04,7.08,Out of Stock
+Electronics,7571.04,4.34,14.77,In Stock
+Food,248.86,3.03,14.39,In Stock
+Food,694.18,4.79,28.69,In Stock
+Clothing,2698.91,3.74,25.01,In Stock
+Food,631.14,4.48,16.14,In Stock
+Electronics,5436.64,4.7,9.11,Out of Stock
+Food,322.5,4.26,20.22,In Stock
+Clothing,1026.72,4.51,18.05,In Stock
+Food,190.01,3.81,21.92,In Stock
+Electronics,,4.24,18.81,In Stock
+Food,155.45,3.14,16.73,In Stock
+Electronics,6451.49,4.31,13.44,In Stock
+Clothing,,2.76,26.86,In Stock
+,7506.2,1.96,11.8,Out of Stock
+Electronics,7216.43,2.79,7.25,Out of Stock
+Furniture,3203.15,2.83,5.03,Out of Stock
+,503.3,2.92,17.54,In Stock
+Furniture,7721.38,,7.62,Out of Stock
+Furniture,11309.28,3.21,12.06,Out of Stock
+Food,389.01,4.04,24.31,In Stock
+Electronics,7138.51,,8.69,In Stock
+Clothing,1544.34,4.28,,In Stock
+Furniture,7063.03,1.78,5.39,Out of Stock
+Clothing,1075.94,3.74,40.92,In Stock
+Electronics,8933.07,2.46,19.78,In Stock
+Food,495.39,3.8,25.07,In Stock
+Furniture,11758.49,3.62,2.94,Out of Stock
+Furniture,8619.89,4.02,7.56,Out of Stock
+Electronics,8417.26,3.35,16.85,Out of Stock
+Food,263.42,4.15,3.7,In Stock
+Electronics,,3.93,0.86,Out of Stock
+Electronics,8378.95,2.66,2.48,Out of Stock
+Furniture,8038.89,1.68,6.23,Out of Stock
+Electronics,6921.7,3.95,15.48,In Stock
+Clothing,,2.07,46.9,In Stock
+Electronics,8431.17,1.14,16.38,Out of Stock
+Furniture,5403.19,,,Out of Stock
+Furniture,8038.07,4.11,6.56,Out of Stock
+Food,106.51,4.89,27.62,In Stock
+Furniture,11213.19,2.64,1.39,Out of Stock
+Electronics,8953.74,1.3,1.37,Out of Stock
+Clothing,1843.46,2.48,5.35,Out of Stock
+Clothing,1557.78,2.41,12.22,In Stock
+Electronics,,1.82,14.31,Out of Stock
+Clothing,2522.32,3.36,27.79,In Stock
+Furniture,3391.86,1.24,3.86,Out of Stock
+Electronics,7719.49,3.96,12.1,In Stock
+Clothing,1480.32,2.35,40.13,In Stock
+Electronics,6818.93,3.94,10.26,In Stock
+Electronics,8693.31,4.63,18.42,In Stock
+Furniture,9421.28,2.79,3.99,Out of Stock
+Clothing,2839.5,3.37,10.74,In Stock
+Clothing,1581.76,2.38,27.61,In Stock
+Furniture,9735.31,2.18,1.07,Out of Stock
+Electronics,9717.52,4.09,16.78,Out of Stock
+Clothing,1417.17,4.28,26.84,In Stock
+Clothing,1002.71,2.37,20.53,Out of Stock
+Food,153.16,5.0,1.48,In Stock
+Furniture,8293.72,2.58,4.51,Out of Stock
+Furniture,9856.22,1.52,11.76,Out of Stock
+Clothing,1331.12,3.77,37.2,In Stock
+Furniture,13668.51,3.93,9.12,Out of Stock
+Electronics,6941.97,3.01,15.37,In Stock
+Electronics,9387.73,1.42,7.7,Out of Stock
+Electronics,8880.58,2.73,6.64,Out of Stock
+,1528.31,3.81,49.99,In Stock
+Food,419.74,3.42,4.89,In Stock
+Food,81.76,4.12,16.34,In Stock
+Furniture,5462.81,3.43,11.12,Out of Stock
+Food,244.32,3.69,29.71,Out of Stock
+Food,330.7,4.52,13.58,In Stock
+Electronics,,4.08,13.36,In Stock
+Electronics,9273.89,4.76,11.6,In Stock
+Food,228.1,3.8,22.75,In Stock
+Clothing,2127.21,2.53,7.31,In Stock
+Furniture,11195.54,1.88,7.5,Out of Stock
+Electronics,8733.73,3.25,1.67,In Stock
+Electronics,5927.9,1.88,5.16,In Stock
+Clothing,1913.51,3.51,14.14,In Stock
+Electronics,5337.77,1.69,19.69,Out of Stock
+Electronics,7342.73,4.47,16.98,In Stock
+Food,433.64,4.41,5.78,In Stock
+Electronics,8441.98,2.09,16.64,Out of Stock
+Food,112.79,4.55,3.0,In Stock
+Clothing,2702.97,2.91,34.45,In Stock
+Electronics,7437.51,2.47,12.91,Out of Stock
+Clothing,2868.81,,46.35,In Stock
+Furniture,10308.98,3.83,5.76,In Stock
+Clothing,1679.61,4.61,23.67,Out of Stock
+Furniture,9415.91,1.07,2.38,Out of Stock
+Electronics,,3.87,11.65,In Stock
+Furniture,4719.72,2.56,5.33,Out of Stock
+Electronics,7478.31,4.48,15.52,Out of Stock
+Food,112.99,4.78,14.15,In Stock
+Food,607.9,3.28,20.12,In Stock
+Furniture,5835.91,2.53,0.25,Out of Stock
+Clothing,879.03,2.28,15.79,In Stock
+Electronics,5500.09,3.77,0.58,Out of Stock
+Electronics,8088.7,,18.9,Out of Stock
+Furniture,14197.13,1.79,9.22,Out of Stock
+Food,71.0,4.86,15.69,In Stock
+Furniture,3518.68,2.2,1.15,In Stock
+Electronics,6964.72,3.68,9.4,In Stock
+Clothing,1459.31,2.36,16.02,In Stock
+Electronics,5500.72,4.23,2.7,In Stock
+Furniture,10144.48,2.2,3.39,Out of Stock
+Food,529.6,3.91,12.0,In Stock
+Furniture,10114.22,2.72,4.55,Out of Stock
+Clothing,1897.65,4.01,6.2,In Stock
+Food,,3.12,5.59,In Stock
+Food,470.38,4.73,26.48,In Stock
+Clothing,674.86,3.26,31.24,In Stock
+Furniture,4764.84,3.68,11.16,Out of Stock
+Furniture,,1.03,3.25,Out of Stock
+Furniture,12926.24,3.35,13.42,Out of Stock
+Food,92.88,4.19,17.07,In Stock
+Clothing,589.19,3.54,32.43,In Stock
+Clothing,978.23,2.82,33.82,In Stock
+Furniture,8619.61,4.0,5.14,Out of Stock
+Electronics,6333.3,4.94,18.22,In Stock
+Food,71.74,4.54,3.31,In Stock
+Food,70.61,3.55,8.08,In Stock
+Food,664.49,4.42,29.45,In Stock
+Furniture,11538.15,2.46,10.48,Out of Stock
+Clothing,2998.65,4.13,39.28,In Stock
+Clothing,2845.91,2.34,36.72,In Stock
+Electronics,9254.03,4.82,4.22,Out of Stock
+Clothing,1759.82,4.04,16.14,In Stock
+Clothing,2001.18,2.77,20.01,In Stock
+Clothing,1603.8,3.59,25.22,In Stock
+Furniture,8918.35,2.05,2.38,Out of Stock
+Furniture,3568.2,1.69,8.73,Out of Stock
+Electronics,8930.58,1.68,2.17,Out of Stock
+Clothing,2373.23,2.92,47.82,In Stock
+Furniture,11571.82,2.14,4.34,Out of Stock
+Electronics,7618.49,1.32,2.35,Out of Stock
+Electronics,5879.29,4.1,10.28,In Stock
+Electronics,5052.84,3.69,8.47,Out of Stock
+Food,433.14,3.43,16.55,In Stock
+Electronics,9895.77,1.29,5.68,Out of Stock
+Furniture,5915.97,1.87,5.68,Out of Stock
+Clothing,2545.27,4.74,14.1,In Stock
+Food,457.21,4.27,15.65,In Stock
+Electronics,,1.77,9.76,Out of Stock
+Clothing,1503.04,4.39,39.36,In Stock
+Food,150.5,3.18,27.24,In Stock
+Furniture,9426.1,4.0,0.87,Out of Stock
+Furniture,9318.19,2.89,12.91,Out of Stock
+Food,123.21,3.48,12.2,In Stock
+Furniture,13390.1,4.29,14.89,Out of Stock
+Furniture,14510.32,1.02,0.72,Out of Stock
+Furniture,4771.28,,12.45,Out of Stock
+Electronics,9463.28,1.75,12.39,Out of Stock
+Electronics,9586.81,2.85,2.07,Out of Stock
+Electronics,7289.07,2.5,11.55,Out of Stock
+Food,378.99,3.03,29.82,In Stock
+Clothing,1858.85,3.42,47.96,In Stock
+Clothing,889.65,2.57,41.36,Out of Stock
+Furniture,6129.97,3.8,4.07,Out of Stock
+Furniture,,,2.95,Out of Stock
+Furniture,12094.16,3.24,13.85,In Stock
+Clothing,2457.47,2.54,41.01,In Stock
+Food,531.3,4.34,24.97,In Stock
+Clothing,1934.56,,33.65,Out of Stock
+Electronics,6489.79,1.73,12.33,Out of Stock
+Electronics,6169.24,1.32,0.01,Out of Stock
+Clothing,2020.8,3.09,38.85,In Stock
+Clothing,1437.94,3.46,23.32,In Stock
+Furniture,10806.9,2.25,14.46,Out of Stock
+Electronics,9680.73,4.39,18.41,Out of Stock
+Food,386.85,4.07,22.26,In Stock
+Food,572.11,4.78,21.49,In Stock
+Clothing,2994.71,3.05,42.48,In Stock
+Clothing,,4.07,19.66,In Stock
+Clothing,2464.0,4.7,14.83,In Stock
+Food,519.12,3.78,29.69,In Stock
+Clothing,1697.08,2.68,22.18,In Stock
+Electronics,,1.3,12.07,Out of Stock
+Electronics,9656.12,4.4,1.35,In Stock
+,795.04,4.4,4.87,In Stock
+Furniture,3148.99,1.6,12.57,Out of Stock
+Clothing,554.1,2.7,39.08,In Stock
+Food,489.58,4.57,22.38,Out of Stock
+,87.95,4.79,6.81,In Stock
+Furniture,9640.71,3.26,2.53,Out of Stock
+Furniture,14714.78,2.71,0.86,Out of Stock
+Food,752.95,,20.98,In Stock
+Food,443.88,4.67,0.99,In Stock
+Furniture,6220.54,2.64,1.15,Out of Stock
+Clothing,2264.77,3.18,17.27,In Stock
+Clothing,508.45,4.16,42.52,In Stock
+Electronics,6975.2,3.26,4.55,In Stock
+Furniture,10466.37,1.04,7.33,In Stock
+Furniture,10730.47,4.21,5.72,Out of Stock
+Electronics,8825.95,3.39,18.54,Out of Stock
+Food,348.78,3.64,26.61,In Stock
+Clothing,623.11,2.41,8.71,In Stock
+Electronics,9215.55,1.04,17.23,Out of Stock
+Furniture,8415.21,1.01,6.02,Out of Stock
+Electronics,5934.0,3.5,13.59,In Stock
+Electronics,7437.64,1.16,13.12,Out of Stock
+Food,681.53,4.44,24.9,In Stock
+Food,200.38,4.78,9.67,In Stock
+Electronics,5067.02,4.37,18.84,In Stock
+Food,541.67,3.46,7.55,In Stock
+Food,399.94,4.8,4.49,In Stock
+Electronics,9129.87,2.17,16.17,In Stock
+Electronics,9601.36,2.71,7.3,Out of Stock
+Food,651.67,4.06,20.53,In Stock
+Clothing,2057.07,2.46,43.02,Out of Stock
+Furniture,5349.3,4.26,3.76,In Stock
+Furniture,11806.57,2.0,4.77,Out of Stock
+Furniture,6720.02,3.62,8.35,Out of Stock
+Clothing,2707.38,2.92,36.14,In Stock
+,12035.38,1.53,6.01,Out of Stock
+Clothing,1707.04,3.07,19.5,In Stock
+Clothing,2216.05,2.65,36.92,In Stock
+Electronics,9675.22,3.26,12.23,Out of Stock
+Electronics,5344.66,4.46,5.71,In Stock
+Food,511.29,4.96,17.87,In Stock
+Clothing,2311.77,,7.72,Out of Stock
+Electronics,8988.0,1.14,14.01,Out of Stock
+Food,67.19,4.72,4.73,In Stock
+Clothing,1785.68,3.79,25.59,In Stock
+Food,,3.94,9.34,In Stock
+Clothing,1595.31,3.08,30.48,In Stock
+Furniture,5855.09,4.46,,Out of Stock
+Furniture,,2.67,13.0,Out of Stock
+Clothing,554.52,4.04,29.66,In Stock
+Clothing,923.89,4.45,21.6,In Stock
+Clothing,1234.51,4.48,33.73,In Stock
+Furniture,13779.11,3.2,11.11,Out of Stock
+Clothing,2591.11,2.16,39.92,In Stock
+Electronics,8068.53,1.28,10.17,Out of Stock
+Electronics,5412.29,3.94,10.93,Out of Stock
+Clothing,2883.93,2.55,32.27,In Stock
+Clothing,,3.84,37.52,In Stock
+Furniture,11667.65,3.85,12.8,Out of Stock
+Electronics,5386.36,2.37,13.74,Out of Stock
+,1746.47,2.57,,Out of Stock
+Furniture,7889.23,2.37,12.15,Out of Stock
+Furniture,7891.18,1.09,0.87,Out of Stock
+Clothing,2640.61,4.88,35.98,Out of Stock
+Clothing,1410.92,4.82,34.83,In Stock
+Clothing,2610.83,4.3,22.06,In Stock
+Furniture,8744.43,1.65,4.38,Out of Stock
+Electronics,8890.63,4.58,14.49,In Stock
+Furniture,8582.08,1.3,0.85,Out of Stock
+Food,330.74,3.93,,In Stock
+Food,54.87,4.98,10.92,Out of Stock
+,9240.47,3.14,2.61,Out of Stock
+Clothing,2493.91,4.13,28.73,In Stock
+Clothing,1786.38,2.26,34.51,In Stock
+Electronics,,,5.27,Out of Stock
+Food,726.73,3.57,19.62,In Stock
+Furniture,9417.82,3.09,,In Stock
+Food,274.99,3.1,22.33,In Stock
+Food,609.57,4.34,19.31,In Stock
+Electronics,6218.59,1.09,16.17,Out of Stock
+Clothing,1727.85,2.92,9.59,In Stock
+Electronics,5313.61,2.4,16.09,In Stock
+Food,739.04,4.79,27.6,In Stock
+Furniture,13892.7,2.85,3.29,Out of Stock
+Food,648.53,3.43,8.02,In Stock
+Electronics,6166.27,3.06,6.44,Out of Stock
+Clothing,885.39,3.36,44.33,In Stock
+Food,477.91,4.76,5.88,In Stock
+Clothing,917.43,3.73,25.85,Out of Stock
+Furniture,10922.07,,11.27,Out of Stock
+Furniture,14307.13,2.39,3.1,Out of Stock
+Food,463.18,3.22,8.67,In Stock
+Clothing,1019.72,3.19,10.0,In Stock
+Clothing,579.6,3.97,32.46,Out of Stock
+Electronics,8541.79,3.64,2.29,Out of Stock
+Clothing,1227.7,2.39,42.93,In Stock
+Clothing,2367.26,2.6,20.36,In Stock
+Food,774.96,4.19,24.03,In Stock
+Food,248.44,3.42,23.52,In Stock
+Electronics,8429.36,3.72,11.05,Out of Stock
+,1908.95,4.21,17.15,In Stock
+Electronics,6763.84,4.49,6.18,In Stock
+Electronics,7731.55,3.81,20.0,In Stock
+Furniture,8223.5,2.5,12.64,Out of Stock
+Electronics,9027.52,3.92,9.26,In Stock
+Clothing,1309.85,3.83,44.43,In Stock
+,9418.89,1.43,8.57,Out of Stock
+Furniture,8576.66,4.42,10.17,Out of Stock
+Food,355.43,3.05,16.96,In Stock
+Electronics,5480.38,4.34,15.05,In Stock
+Food,395.38,3.86,26.92,In Stock
+Food,266.34,3.5,28.18,In Stock
+,12710.95,3.87,2.93,Out of Stock
+Electronics,5716.48,1.1,4.74,Out of Stock
+Furniture,12290.29,1.84,10.94,Out of Stock
+Furniture,6022.9,2.38,14.75,Out of Stock
+Furniture,5937.74,2.32,4.52,Out of Stock
+Food,132.22,,11.36,In Stock
+,571.17,4.64,16.33,In Stock
+Clothing,580.49,3.86,7.49,In Stock
+Furniture,10396.28,3.4,2.97,Out of Stock
+Food,664.51,4.82,24.39,In Stock
+Food,278.83,4.17,27.44,In Stock
+Clothing,1301.66,4.46,5.43,In Stock
+Food,52.74,4.52,22.84,In Stock
+Furniture,12467.73,4.26,1.77,Out of Stock
+Electronics,6159.92,4.61,,In Stock
+Furniture,11186.75,2.86,1.25,Out of Stock
+Food,263.95,4.04,25.57,In Stock
+Furniture,,3.18,7.44,Out of Stock
+Clothing,1246.71,2.36,23.41,In Stock
+Clothing,571.3,2.63,24.46,In Stock
+,8023.26,1.16,8.84,Out of Stock
+Clothing,1874.21,2.23,47.44,In Stock
+Furniture,4192.59,3.99,0.0,In Stock
+Clothing,2705.7,2.06,39.1,In Stock
+Food,321.27,4.48,12.05,In Stock
+Clothing,677.27,4.3,8.21,In Stock
+Food,741.59,3.1,14.38,In Stock
+Clothing,,,14.78,In Stock
+Electronics,8795.45,4.14,18.45,In Stock
+Clothing,1440.41,3.52,21.34,In Stock
+Electronics,6285.41,4.0,6.79,Out of Stock
+Furniture,,2.41,10.69,Out of Stock
+Furniture,14013.55,3.33,7.07,In Stock
+Clothing,2448.01,3.92,7.73,In Stock
+Food,121.75,3.08,13.7,In Stock
+Clothing,2564.63,2.94,22.29,In Stock
+Food,732.11,4.67,19.95,In Stock
+Furniture,6201.65,1.41,0.24,Out of Stock
+Furniture,4284.13,,8.28,Out of Stock
+Clothing,660.0,2.41,13.15,In Stock
+Furniture,10583.79,3.16,8.26,Out of Stock
+Clothing,1126.25,3.11,9.35,In Stock
+Furniture,5717.53,4.14,14.7,In Stock
+,8238.3,4.67,12.85,Out of Stock
+Food,74.9,4.99,2.97,Out of Stock
+Food,561.98,,11.76,In Stock
+Food,534.45,3.87,7.52,In Stock
+Electronics,6672.23,2.37,19.19,Out of Stock
+Furniture,12583.36,2.6,3.0,Out of Stock
+Electronics,9055.08,1.63,4.21,Out of Stock
+Food,324.51,4.76,3.95,In Stock
+,5611.17,2.98,5.53,Out of Stock
+Clothing,1921.82,3.35,24.57,In Stock
+Food,133.98,3.28,24.63,In Stock
+Clothing,2714.71,2.7,10.11,In Stock
+Electronics,5267.08,3.43,14.31,Out of Stock
+Electronics,6864.05,3.72,14.26,In Stock
+Clothing,2838.36,2.19,13.65,In Stock
+Furniture,3822.31,4.04,11.89,In Stock
+Furniture,9895.7,1.29,4.1,Out of Stock
+Electronics,6488.6,3.24,5.16,Out of Stock
+,682.4,4.19,18.46,In Stock
+Electronics,7261.87,1.51,16.05,Out of Stock
+Electronics,7827.66,4.61,9.91,In Stock
+Food,756.07,4.78,17.29,In Stock
+Food,750.42,3.65,10.97,In Stock
+Electronics,5227.39,3.36,14.44,In Stock
+Electronics,8867.6,1.6,,Out of Stock
+Electronics,5884.32,3.65,3.16,Out of Stock
+Furniture,13849.96,,4.37,Out of Stock
+Furniture,13210.88,2.6,0.36,Out of Stock
+Electronics,7472.93,1.34,19.71,Out of Stock
+Electronics,7940.56,2.03,11.27,In Stock
+Furniture,3922.41,,13.88,Out of Stock
+Furniture,13493.33,2.2,4.89,Out of Stock
+Clothing,587.72,3.95,29.07,In Stock
+Electronics,7296.73,4.63,3.36,In Stock
+Electronics,5048.33,,4.47,Out of Stock
+Food,74.96,4.01,9.42,In Stock
+Clothing,951.21,4.25,14.2,In Stock
+Electronics,8438.03,2.4,10.24,Out of Stock
+Food,750.4,3.07,15.01,In Stock
+Electronics,9272.11,3.35,,In Stock
+Furniture,7772.17,3.38,13.36,In Stock
+Clothing,602.67,2.21,19.63,In Stock
+Electronics,6163.9,2.06,4.43,Out of Stock
+Food,196.87,3.26,28.02,In Stock
+Clothing,860.47,2.61,16.08,In Stock
+Furniture,14196.18,3.64,11.85,Out of Stock
+Food,128.57,4.67,12.25,In Stock
+Clothing,1157.06,3.73,42.0,In Stock
+Food,633.99,4.78,27.84,In Stock
+Clothing,1095.31,3.27,5.66,In Stock
+Furniture,13551.86,1.54,12.92,Out of Stock
+Clothing,1323.47,3.1,6.76,In Stock
+Food,295.16,4.78,0.77,In Stock
+Electronics,7031.64,1.13,7.42,In Stock
+Clothing,931.6,2.76,44.49,In Stock
+Furniture,8232.59,,8.84,Out of Stock
+Furniture,4705.28,1.91,8.19,Out of Stock
+Electronics,6187.62,3.72,9.83,Out of Stock
+Electronics,,4.79,2.32,In Stock
+Furniture,7015.98,2.12,2.27,Out of Stock
+Furniture,12723.64,3.66,7.27,Out of Stock
+Electronics,7688.85,1.24,,Out of Stock
+Clothing,2478.35,3.72,16.94,In Stock
+Clothing,2168.87,,29.52,In Stock
+Furniture,8850.78,2.33,10.78,Out of Stock
+Electronics,9419.38,1.02,18.67,Out of Stock
+Electronics,7557.58,3.8,17.11,Out of Stock
+Furniture,8605.24,3.92,2.66,In Stock
+Electronics,5795.84,3.63,17.4,In Stock
+Clothing,2731.07,3.93,28.65,In Stock
+Clothing,1328.48,4.94,19.39,In Stock
+,2360.47,3.6,32.38,In Stock
+Clothing,1483.7,4.89,30.73,In Stock
+Food,753.34,3.02,17.18,In Stock
+Electronics,8585.93,3.98,18.1,In Stock
