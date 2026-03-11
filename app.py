@@ -126,7 +126,7 @@ with st.sidebar:
         st.success("✅ ML Model พร้อมใช้งาน")
     st.markdown("---")
     st.markdown("### 🗺️ เมนู")
-    page = st.radio("เลือกหน้า", options=[
+    page = st.radio("", options=[
         "📖 ML — อธิบายโมเดล",
         "🔮 ML — ทดสอบโมเดล",
         "📖 Neural Network — อธิบายโมเดล",
@@ -536,20 +536,15 @@ elif page == "🤖 Neural Network — ทดสอบโมเดล":
     def load_cnn():
         try:
             import tensorflow as tf
-            cnn = tf.keras.models.load_model(MODEL_DIR / "cats_vs_dogs_cnn.keras")
+            cnn = tf.keras.models.load_model(MODEL_DIR / "cats_vs_dogs_cnn.h5")
             return cnn, True
         except Exception as e:
-            try:
-                import tensorflow as tf
-                cnn = tf.keras.models.load_model(MODEL_DIR / "cats_vs_dogs_cnn.h5")
-                return cnn, True
-            except:
-                return None, False
+            return None, False
 
     cnn_model, cnn_loaded = load_cnn()
 
     if not cnn_loaded:
-        st.error("⚠️ ไม่พบไฟล์ `cats_vs_dogs_cnn.keras` ใน `models/`")
+        st.error("⚠️ ไม่พบไฟล์ `cats_vs_dogs_cnn.h5` ใน `models/`")
         st.stop()
 
     st.markdown('<div class="section-header">อัปโหลดรูปภาพ</div>', unsafe_allow_html=True)
