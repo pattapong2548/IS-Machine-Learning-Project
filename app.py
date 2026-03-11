@@ -197,7 +197,7 @@ def load_artifacts():
 
 model, scaler, le, features, model_loaded = load_artifacts()
 
-CATEGORIES = ["Electronics", "Clothing", "Food", "Furniture"]
+CATEGORIES = ["ELECTRONICS", "CLOTHING", "FOOD", "FURNITURE"]
 
 
 # ─── Prediction Function ─────────────────────────────────────────────────────
